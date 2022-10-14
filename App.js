@@ -1,20 +1,23 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import Navigation from "./src/navigation/Navigation";
+import { useFonts } from "expo-font";
+import useInicialization from "./useInicialization";
+import { Text } from "react-native";
+import Loading from "./src/Components/Loading";
 
-export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
-}
+const App = () => {
+  const [loaded] = useFonts({
+    mainFontRegular: require("./assets/fonts/FrankRuhlLibre-Regular.ttf"),
+    mainFontBold: require("./assets/fonts/FrankRuhlLibre-Bold.ttf"),
+    mainFontBlack: require("./assets/fonts/FrankRuhlLibre-Black.ttf"),
+    mainFontMedium: require("./assets/fonts/FrankRuhlLibre-Medium.ttf"),
+  });
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+  // const { isDownloaded } = useInicialization();
+
+  if (!loaded) return <Loading label="fonts loading..." />;
+  // if (!isDownloaded) return <Loading label="downloading questions..." />;
+
+  return <Navigation />;
+};
+
+export default App;

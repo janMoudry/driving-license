@@ -1,0 +1,1098 @@
+{
+  "title": "Zásady bezpečné jízdy [A]",
+  "numberOfQuestions": " 60",
+  "data": [
+    {
+      "id": 0,
+      "questionNumber": "Otázka č. 1",
+      "question": "\n            Za jízdy na motocyklu je řidič povinen:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Mít na hlavě nasazenou a řádně připevněnou ochrannou přílbu schváleného typu.",
+          "correct": true
+        },
+        {
+          "answer": "Nosit ochranný oděv, například koženou kombinézu.",
+          "correct": false
+        },
+        { "answer": "Používat pouze kožené plné boty.", "correct": false }
+      ]
+    },
+    {
+      "id": 1,
+      "questionNumber": "Otázka č. 2",
+      "question": "\n            Předjíždíte jezdce na koni. Před zahájením předjíždění:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Zvýšíte rychlost jízdy a použijete světelné výstražné znamení; znamení o změně směru jízdy nepoužijete.",
+          "correct": false
+        },
+        {
+          "answer": "Snížíte rychlost jízdy a použijete zvukové výstražné znamení.",
+          "correct": false
+        },
+        {
+          "answer": "Vezmete v úvahu možnost úleku zvířete a jeho vběhnutí do Vaší jízdní dráhy.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionNumber": "Otázka č. 3",
+      "question": "\n            Smyku předního kola v zatáčce a tím způsobenému pádu motocyklu předejdeme:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Zvýšením výkonu přenášeného zadním kolem přidáním plynu.",
+          "correct": false
+        },
+        {
+          "answer": "Odbrzděním předního kola ještě před naklopením motocyklu.",
+          "correct": true
+        },
+        {
+          "answer": "Zvýšením brzdné síly na předním kole páčkou ruční brzdy.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionNumber": "Otázka č. 4",
+      "question": "\n            Na dálnici musíte počítat se silným bočním větrem především:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "V lesních úsecích.", "correct": false },
+        { "answer": "V otevřeném terénu.", "correct": true },
+        { "answer": "Mezi protihlukovými stěnami.", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "questionNumber": "Otázka č. 5",
+      "question": "\n            Jaká je častá příčina vzniku nebezpečí pádu motocyklu v zatáčkách?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Snížená krajnice vozovky.", "correct": false },
+        { "answer": "Vodorovné dopravní značení.", "correct": true },
+        {
+          "answer": "Zvýšený okraj na vnější straně vozovky.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionNumber": "Otázka č. 6",
+      "question": "\n            Jedete za autobusem, který zastavuje v zastávce při pravém okraji vozovky. Jak se zachováte?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Předjedete jej zvýšenou rychlostí dříve než zastaví, abyste nemusel(a) zohledňovat vystupující cestující.",
+          "correct": false
+        },
+        { "answer": "Zastavíte těsně za ním.", "correct": false },
+        {
+          "answer": "Objedete jej zleva sníženou rychlostí; berete v úvahu možnost zvýšeného pohybu chodců.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionNumber": "Otázka č. 7",
+      "question": "\n            Při průjezdu levotočivé zatáčky na motocyklu by dráha jízdy měla vést:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Co nejblíže při pravém okraji vozovky.", "correct": true },
+        { "answer": "Co nejblíže ke středové dělící čáře.", "correct": false },
+        {
+          "answer": "Podle uvážení řidiče a jízdních vlastností motocyklu.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionNumber": "Otázka č. 8",
+      "question": "\n            Při jízdě v obci se před Vaším vozidlem náhle objeví kutálející se míč. Jak byste měli reagovat?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Okamžitě snížit rychlost jízdy nebo i zastavit vozidlo, protože na vozovku za míčem mohou vběhnout děti.",
+          "correct": true
+        },
+        {
+          "answer": "Pokračovat v jízdě, protože děti vědí, že mají zůstat stát na okraji chodníku a počkat, až auto přejede.",
+          "correct": false
+        },
+        {
+          "answer": "Vyhnout se míči, aby nedošlo k poškození Vašeho vozidla, a pokračovat v jízdě nezměněnou rychlostí.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionNumber": "Otázka č. 9",
+      "question": "\n            Co může vést ke smyku motocyklu při průjezdu zatáčkami?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Nedostatečná rychlost jízdy.", "correct": false },
+        { "answer": "Vadné tlumiče motocyklu.", "correct": true },
+        { "answer": "Nízká hmotnost motocyklu.", "correct": false }
+      ]
+    },
+    {
+      "id": 9,
+      "questionNumber": "Otázka č. 10",
+      "question": "\n            Když zvýšíte rychlost jízdy na dvojnásobek (např. z 50 km/h na 100 km/h), prodlouží se tím brzdná dráha Vašeho vozidla na suché vozovce:\n\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Přibližně na dvojnásobek délky původní brzdné dráhy.",
+          "correct": false
+        },
+        {
+          "answer": "Přibližně na trojnásobek délky původní brzdné dráhy.",
+          "correct": false
+        },
+        {
+          "answer": "Přibližně na čtyřnásobek délky původní brzdné dráhy. ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionNumber": "Otázka č. 11",
+      "question": "\nChystáte se předjet cyklistu. Bude vám stačit boční odstup od cyklisty přibližně 50 cm?",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/2210",
+      "asnwers": [
+        {
+          "answer": "Ne, protože cyklista může náhle zakolísat a vybočit z dráhy směru své jízdy.",
+          "correct": true
+        },
+        {
+          "answer": "Ano, pokud budete dávat zvuková nebo světelná výstražná znamení.",
+          "correct": false
+        },
+        {
+          "answer": "Ano, pokud snížíte rychlost na 40km/h, pak je předjíždění bezpečné.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionNumber": "Otázka č. 12",
+      "question": "\n            Je silný dešť důvodem ke snížení rychlosti jízdy?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Ano, může dojít ke ztrátě přilnavosti pneumatik a prodlužuje se i brzdná dráha.",
+          "correct": true
+        },
+        {
+          "answer": "Ne, pokud mají pneumatiky alespoň minimální stanovenou hloubku dezénu.",
+          "correct": false
+        },
+        {
+          "answer": "Ano, ale jen u vozidel, která nejsou vybavena protiblokovacím systémem brzd (ABS).",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionNumber": "Otázka č. 13",
+      "question": "\n            Při dvojnásobném zvýšení rychlosti působí na řidiče i motocykl v zatáčce:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Přibližně dvojnásobná odstředivá síla.",
+          "correct": false
+        },
+        { "answer": "Přibližně čtyřnásobná odstředivá síla.", "correct": true },
+        { "answer": "Odstředivá síla, která se nemění.", "correct": false }
+      ]
+    },
+    {
+      "id": 13,
+      "questionNumber": "Otázka č. 14",
+      "question": "\n            Řidič vozidla jedoucího před vámi zřejmě zapomněl vypnout znamení o změně směru jízdy vlevo. Jak se zachováte?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Upozorníte jej zvukovým výstražným znamením.",
+          "correct": false
+        },
+        { "answer": "Nebudete takové vozidlo předjíždět.", "correct": true },
+        {
+          "answer": "Upozorníte jej světelným výstražným znamením.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionNumber": "Otázka č. 15",
+      "question": "\n            Přilnavost mezi pneumatikou a povrchem vozovky je závislá na:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Huštění pneumatiky, hloubce jejího dezénu a druhu povrchu vozovky.",
+          "correct": true
+        },
+        {
+          "answer": "Huštění pneumatiky a hloubce jejího dezénu. Druh povrchu vozovky nemá výraznější vliv na přilnavost.",
+          "correct": false
+        },
+        {
+          "answer": "Druhu povrchu vozovky. Huštění a hloubka dezénu pneumatiky výrazně přilnavost neovlivňují. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionNumber": "Otázka č. 16",
+      "question": "\n            Častou příčinou těžkých nehod na dálnici je:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Únava pramenící z nedostatečného odpočinku a následný mikrospánek řidiče.",
+          "correct": true
+        },
+        { "answer": "Pomalá jízda.", "correct": false },
+        {
+          "answer": "Jízda v jízdním pruhu pro pomalá vozidla.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "questionNumber": "Otázka č. 17",
+      "question": "\n            Častou příčinou těžkých nehod na dálnici při předjíždění je:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nedostatečné sledování provozu za vozidlem.",
+          "correct": true
+        },
+        { "answer": "Pomalá jízda.", "correct": false },
+        {
+          "answer": "Jízda s bezpečnou vzdáleností mezi vozidly.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "questionNumber": "Otázka č. 18",
+      "question": "\n            Zvukové výstražné znamení smí řidič ve vztahu k životnímu prostředí použít:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Pouze v případech stanovených zákonem.", "correct": true },
+        { "answer": "Kdykoliv to uzná za vhodné.", "correct": false },
+        {
+          "answer": "Tam kde je to povoleno dopravní značkou.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "questionNumber": "Otázka č. 19",
+      "question": "\n            Co se rozumí pod pojmem \"defenzivní způsob jízdy\"?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Počítat s chybami ostatních účastníků provozu na pozemních komunikacích.",
+          "correct": true
+        },
+        {
+          "answer": "Trvat na svém právu vyplývajícím ze zákona o provozu na pozemních komunikacích.",
+          "correct": false
+        },
+        { "answer": "Opatrně zastavit na každé křižovatce.", "correct": false }
+      ]
+    },
+    {
+      "id": 19,
+      "questionNumber": "Otázka č. 20",
+      "question": "\n            Může být schopnost k řízení vozidla ovlivněna i po požití malého množství alkoholu, např. půl litru desetistupňového piva?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Ano, i malé množství požitého alkoholu snižuje schopnost k řízení motorového vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Ne, pokud se alkohol pije zároveň s černou kávou.",
+          "correct": false
+        },
+        {
+          "answer": "Ne, malé množství požitého alkoholu neovlivňuje schopnost k řízení motorového vozidla. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "questionNumber": "Otázka č. 21",
+      "question": "\n            Řidič motocyklu nebo mopedu si za jízdy musí chránit zrak:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Pouze při zhoršených povětrnostních podmínkách, například za deště nebo sněžení.",
+          "correct": false
+        },
+        {
+          "answer": "Vhodným způsobem, například brýlemi nebo štítem, pokud tím není snížena bezpečnost jízdy. ",
+          "correct": true
+        },
+        {
+          "answer": "Pouze za ostrého slunce slunečními brýlemi s ochranným UV faktorem. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "questionNumber": "Otázka č. 22",
+      "question": "\nŘidič vozidla z výhledu:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3491",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "nesmí objíždět autobus; zastaví za ním a vyčká jeho odjezdu ze zastávky.",
+          "correct": true
+        },
+        { "answer": "autobus v zastávce objede.", "correct": false },
+        {
+          "answer": "porušuje předpisy tím, že objíždí autobus po tramvajovém pásu.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "questionNumber": "Otázka č. 23",
+      "question": "\n            Příčinou vzniku aquaplaningu je: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Rychlá jízda na vozovce pokryté větším množstvím vody.",
+          "correct": true
+        },
+        {
+          "answer": "Prudké zrychlení vozidla na mokré vozovce.",
+          "correct": false
+        },
+        {
+          "answer": "Prudké brzdění vozidla na mokré vozovce.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "questionNumber": "Otázka č. 24",
+      "question": "\n            Častou příčinou vzniku dopravních nehod při jízdě na dálnici je:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Jízda s nedostatečnou vzdáleností mezi vozidly jedoucími za sebou.",
+          "correct": true
+        },
+        { "answer": "Pomalá jízda nákladních vozidel.", "correct": false },
+        { "answer": "Jízda v pravém jízdním pruhu.", "correct": false }
+      ]
+    },
+    {
+      "id": 24,
+      "questionNumber": "Otázka č. 25",
+      "question": "\nPři míjení osvětlených vozidel řidič musí:",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/2945",
+      "asnwers": [
+        {
+          "answer": "Sledovat jízdu osvětleného vozidla, vyvarovat se pohledu do rozsvícených světel, aby nedošlo k oslnění a krátkodobému výpadku ostrého vidění.",
+          "correct": true
+        },
+        {
+          "answer": "Sledovat jízdu pohledem do rozsvícených světel, k oslnění a krátkodobému výpadku ostrého vidění za tak krátkou dobu pohledu nemůže dojít.",
+          "correct": false
+        },
+        {
+          "answer": "Sledovat pouze  vlastní směr jízdy. Chování protijedoucích řidičů není nebezpečím.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "questionNumber": "Otázka č. 26",
+      "question": "\n            Na vozovce je velká kaluž vody, kterou s motocyklem musíte projet. Jak se zachováte?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Výrazně snížíte rychlost jízdy, nohy necháte na stupačkách a pomalu projedete kaluží.",
+          "correct": true
+        },
+        {
+          "answer": "Nebudete brzdit, jen zvednete nohy ze stupaček a projedete kaluží.",
+          "correct": false
+        },
+        {
+          "answer": "Objedu kaluž přes chodník nebo krajnici vozovky.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "questionNumber": "Otázka č. 27",
+      "question": "\n            Používání ochranné výstroje jako rukavic, bot a vhodného oblečení:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Může u posádky motocyklu výrazně snížit zdravotní následky dopravní nehody.",
+          "correct": true
+        },
+        {
+          "answer": "Je zákonnou podmínkou účasti řidiče motocyklu v silničním provozu.",
+          "correct": false
+        },
+        {
+          "answer": "Je doporučováno jen pro jízdu na motocyklu na dálnicích a silnicích pro motorová vozidla.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "questionNumber": "Otázka č. 28",
+      "question": "\n            Jedete za pomalu jedoucím vozidlem autoškoly. Jak se zachováte?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Krátkým přerušovaným rozsvícením dálkových světel jej upozorníte, že omezuje plynulost silničního provozu.",
+          "correct": false
+        },
+        {
+          "answer": "V klidu a trpělivě pojedete za ním a případně jej na vhodném místě předjedete.",
+          "correct": true
+        },
+        {
+          "answer": "Použijete zvukové výstražné znamení a zvýšenou rychlostí jej předjedete.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "questionNumber": "Otázka č. 29",
+      "question": "\n            Při jízdě v obytné zóně se před Vaším vozidlem náhle objeví kutálející se míč. Jak byste měli reagovat?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Okamžitě začít brzdit, protože na vozovku za míčem mohou vběhnout děti.",
+          "correct": true
+        },
+        {
+          "answer": "Pokračovat v jízdě, protože děti vědí, že mají zůstat stát mimo vozovku a počkat, až auto přejede.",
+          "correct": false
+        },
+        {
+          "answer": "Vyhnout se míči, aby nedošlo k poškození Vašeho vozidla, a pokračovat v jízdě nezměněnou rychlostí.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "questionNumber": "Otázka č. 30",
+      "question": "\n            Správný tlak huštění pneumatik se zjišťuje:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Na studených, jízdou nezahřátých pneumatikách.",
+          "correct": true
+        },
+        { "answer": "Na jízdou zahřátých pneumatikách.", "correct": false },
+        {
+          "answer": "Na pneumatikách bez ohledu na jejich teplotu. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "questionNumber": "Otázka č. 31",
+      "question": "\n            Při zvyšování rychlosti jízdy se zorné pole řidiče:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Nemění.", "correct": false },
+        { "answer": "Zužuje.", "correct": true },
+        { "answer": "Rozšiřuje.", "correct": false }
+      ]
+    },
+    {
+      "id": 31,
+      "questionNumber": "Otázka č. 32",
+      "question": "\n            Chodec na přechodu pro chodce signalizuje úmysl přejít vozovku mávnutím bílou slepeckou holí ve směru přecházení. Jak se zachováte?\n\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Snížím rychlost jízdy nebo zastavím vozidlo před přechodem pro chodce a umožním chodci nerušené a bezpečné přejití vozovky.",
+          "correct": true
+        },
+        {
+          "answer": "Budu pokračovat v jízdě, protože nevidomý člověk  bez doprovodu nesmí přecházet vozovku. ",
+          "correct": false
+        },
+        {
+          "answer": "Zvukovým výstražným znamením dám najevo, že nemůže přecházet přes vozovku a budu pokračovat v jízdě.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "questionNumber": "Otázka č. 33",
+      "question": "\n            Motocykl bez postranního vozíku:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Se nesmí vléci, smí se však užít jako vlečné vozidlo.",
+          "correct": false
+        },
+        {
+          "answer": "Se smí vléci, nesmí se však užít jako vlečné vozidlo.",
+          "correct": false
+        },
+        {
+          "answer": "Se nesmí vléci ani užít jako vlečné vozidlo.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "questionNumber": "Otázka č. 34",
+      "question": "\n            Řidič jedoucí před Vámi dává výstražné světelné znamení. Jak se zachováte?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Zajedete co nejblíže k pravému okraji vozovky a zastavíte.",
+          "correct": false
+        },
+        {
+          "answer": "Pokračujete v jízdě za nezměněných podmínek.",
+          "correct": false
+        },
+        {
+          "answer": "Snížíte rychlost jízdy a použijete také světelné výstražné znamení.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "questionNumber": "Otázka č. 35",
+      "question": "\n            Jaká je možná příčina vzniku nebezpečí pádu motocyklu v zatáčkách?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Olej na vozovce.", "correct": true },
+        { "answer": "Svislé dopravní značení.", "correct": false },
+        {
+          "answer": "Zvýšený okraj na vnější straně vozovky.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "questionNumber": "Otázka č. 36",
+      "question": "\n            Při začínajícím drobném dešti se snížení přilnavosti pneumatik nejvýrazněji projeví na vozovce:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Dlážděné.", "correct": true },
+        { "answer": "S asfaltovým povrchem.", "correct": false },
+        { "answer": "S betonovým povrchem.", "correct": false }
+      ]
+    },
+    {
+      "id": 36,
+      "questionNumber": "Otázka č. 37",
+      "question": "\n            Při rychlosti 100 km/h je délka brzdné dráhy Vašeho vozidla oproti brzdné dráze při rychlosti 50 km/h:\n\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Přibližně čtyřikrát delší.", "correct": true },
+        { "answer": "Přibližně třikrát delší.", "correct": false },
+        { "answer": "Přibližně dvakrát delší. ", "correct": false }
+      ]
+    },
+    {
+      "id": 37,
+      "questionNumber": "Otázka č. 38",
+      "question": "\n            Čím je rychlost jízdy motocyklu vyšší:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Tím lépe lze projíždět zatáčky o malém poloměru.",
+          "correct": false
+        },
+        {
+          "answer": "Tím více v zatáčkách natáčíme řídítka.",
+          "correct": false
+        },
+        {
+          "answer": "Tím více musí být v zatáčce motocykl naklopen.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "questionNumber": "Otázka č. 39",
+      "question": "\n            Ve výhledu z motorového vozidla vidíte skupinu dětí na chodníku. Jak se zachováte?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "S ohledem na možné vběhnutí dětí do vozovky snížíte rychlost jízdy a zvýšíte pozornost.",
+          "correct": true
+        },
+        {
+          "answer": "Protože jsou děti na chodníku, nemáte důvod ke zvýšení opatrnosti ani ke změně způsobu jízdy.",
+          "correct": false
+        },
+        {
+          "answer": "Použijete zvukové výstražné znamení a přejedete k levému okraji jízdního pruhu.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "questionNumber": "Otázka č. 40",
+      "question": "\n            Na dálnici musíte počítat se silným bočním větrem především:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Na mostech.", "correct": true },
+        { "answer": "V podjezdech.", "correct": false },
+        { "answer": "Mezi protihlukovými stěnami.", "correct": false }
+      ]
+    },
+    {
+      "id": 40,
+      "questionNumber": "Otázka č. 41",
+      "question": "\n            Při jízdě na motocyklu za mokra se povrch vodorovného značení přechodů pro chodce nebo jízdních pruhů:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Stává špatně viditelným a je proto nutné vždy používat obrysová a potkávací světla namísto světel pro denní svícení.",
+          "correct": false
+        },
+        {
+          "answer": "Nijak neliší od povrchu tohoto značení za sucha, je stejně viditelný a má i stejné adhezní vlastnosti.",
+          "correct": false
+        },
+        {
+          "answer": "Stává výrazně kluzkým, takže není vhodné na něm provádět žádný prudký manévr, jako je akcelerace, brzdění, náklon nebo náhlá změna směru jízdy.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "questionNumber": "Otázka č. 42",
+      "question": "\n            Pokud kontrolka směrových světel bliká výrazně rychleji než obvykle, může být příčinou:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Závada na některé ze žárovek směrových světel.",
+          "correct": true
+        },
+        { "answer": "Závada na přepínači směrových světel.", "correct": false },
+        { "answer": "Závada na startéru vozidla.", "correct": false }
+      ]
+    },
+    {
+      "id": 42,
+      "questionNumber": "Otázka č. 43",
+      "question": "\n            Je velmi horký den. Co můžete jako řidič motocyklu očekávat na silnici?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Rozměklý povrch vozovky a v důsledku toho ztížené ovládání vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Zvýšený pohyb zvěře v lesních úsecích.",
+          "correct": false
+        },
+        {
+          "answer": "Snížení přilnavosti pneumatik k vozovce vzhledem k jejich vyššímu zahřívání.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "questionNumber": "Otázka č. 44",
+      "question": "\n            Správně jedoucí motocyklista projíždí zatáčkou tak, aby:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nebylo nutné v průběhu zatáčení přidávat plyn ani brzdit.",
+          "correct": true
+        },
+        {
+          "answer": "Brzděním snižoval neustále rychlost jízdy motocyklu.",
+          "correct": false
+        },
+        {
+          "answer": "Přidáváním plynu neustále zvyšoval rychlost motocyklu.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "questionNumber": "Otázka č. 45",
+      "question": "\n            Projíždíte podél pastviny s pasoucím se dobytkem. Měl(a) byste: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Předpokládat možnost vběhnutí zvířete do vozovky.",
+          "correct": true
+        },
+        { "answer": "Použít zvukové výstražné znamení.", "correct": false },
+        { "answer": "Zvýšit rychlost jízdy.", "correct": false }
+      ]
+    },
+    {
+      "id": 45,
+      "questionNumber": "Otázka č. 46",
+      "question": "\n            Jaké nebezpečí hrozí při jízdě na mokré dlažbě?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Zvýšené riziko smyku a následného pádu.",
+          "correct": true
+        },
+        {
+          "answer": "Nebezpečí nehrozí, mají-li pneumatiky předepsanou hloubku dezénu.",
+          "correct": false
+        },
+        {
+          "answer": "Zvýšené riziko sesmeknutí řetězu z důvodu rozstřiku vody.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "questionNumber": "Otázka č. 47",
+      "question": "\n            Pokud začne pršet, musí se motocyklista připravit na:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Kluzkou vrstvu na povrchu vozovky.", "correct": true },
+        { "answer": "Zkrácenou brzdnou dráhu motocyklu.", "correct": false },
+        { "answer": "Snazší výjezd motocyklu ze zatáčky.", "correct": false }
+      ]
+    },
+    {
+      "id": 47,
+      "questionNumber": "Otázka č. 48",
+      "question": "\n            Ve výhledu z motorového vozidla vidíte děti, které si hrají na chodníku. Jak se zachováte?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Budete s ohledem na možné vběhnutí dětí do vozovky připraven(-a) brzdit a podle okolností snížíte rychlost jízdy.",
+          "correct": true
+        },
+        {
+          "answer": "Protože jsou děti na chodníku, nemáte důvod ke zvýšení opatrnosti ani ke změně způsobu jízdy.",
+          "correct": false
+        },
+        {
+          "answer": "Z dostatečné vzdálenosti upozorníte hrající si děti na možné nebezpečí zvukovým výstražným znamením.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "questionNumber": "Otázka č. 49",
+      "question": "\n            Za jízdy v noci se vám náhle v dálkových světlech objeví lesní zvěř. Jak se zachováte?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Okamžitě ztlumíte světla na potkávací a snížíte rychlost jízdy.",
+          "correct": true
+        },
+        {
+          "answer": "Vypnete světla vozidla a pokračujete sníženou rychlostí v jízdě.",
+          "correct": false
+        },
+        {
+          "answer": "Pokračujete v jízdě stejným způsobem s dálkovými světly.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "questionNumber": "Otázka č. 50",
+      "question": "\n            Řidič nesmí přepravovat na druhém sedadle motocyklu:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Osobu mladší 12 let.", "correct": true },
+        { "answer": "Osobu mladší 15 let. ", "correct": false },
+        { "answer": "Osobu mladší 17 let.", "correct": false }
+      ]
+    },
+    {
+      "id": 50,
+      "questionNumber": "Otázka č. 51",
+      "question": "\n            Při jízdě se před Vaším vozidlem zpoza parkujících aut náhle objeví kutálející se míč. Jak byste měli reagovat?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Okamžitě snížit rychlost jízdy nebo i zastavit vozidlo, protože na vozovku za míčem mohou vběhnout děti.",
+          "correct": true
+        },
+        {
+          "answer": "Pokračovat v jízdě, protože děti vědí, že mají zůstat stát na okraji chodníku a počkat, až auto přejede.",
+          "correct": false
+        },
+        {
+          "answer": "Vyhnout se míči, aby nedošlo k poškození Vašeho vozidla, a pokračovat v jízdě nezměněnou rychlostí.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "questionNumber": "Otázka č. 52",
+      "question": "\n            Motocykl s postranním vozíkem: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Se nesmí vléci, smí se však užít jako vlečné vozidlo.",
+          "correct": false
+        },
+        {
+          "answer": "Se smí vléci, nesmí se však užít jako vlečné vozidlo.",
+          "correct": false
+        },
+        {
+          "answer": "Se smí vléci i užít jako vlečné vozidlo.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "questionNumber": "Otázka č. 53",
+      "question": "\n            Pokud je při jízdě na motocyklu nezbytné v nájezdu do zatáčky brzdit, potom je nejvhodnější:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Brzdit přední i zadní brzdou, postupně a s výrazně menší silou, než při přímé jízdě.",
+          "correct": true
+        },
+        {
+          "answer": "Rychle přeřadit na nižší rychlostní stupeň s následně prudkým puštěním páčky spojky.",
+          "correct": false
+        },
+        {
+          "answer": "Intenzivně brzdit pouze přední nebo zadní brzdou.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "questionNumber": "Otázka č. 54",
+      "question": "\n            Při prudkém sešlápnutí brzdového pedálu vozidla bez protiblokovacího systému brzd (ABS) na náledí dojde:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "K zablokování kol vozidla a vozidlo se stává neřiditelným.",
+          "correct": true
+        },
+        {
+          "answer": "K maximálnímu brzdnému účinku, při němž vozidlo zastaví s nejkratší brzdnou dráhou.",
+          "correct": false
+        },
+        {
+          "answer": "K zablokování kol zadní nápravy vozidla, při němž vozidlo zůstává řiditelným.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "questionNumber": "Otázka č. 55",
+      "question": "\n            Jaké nebezpečí hrozí při jízdě s motocyklem na mokré dlažbě?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Zvýšený sklon k blokování kol při brzdění.",
+          "correct": true
+        },
+        {
+          "answer": "Žádné, pokud mají pneumatiky potřebnou hloubku dezénu.",
+          "correct": false
+        },
+        {
+          "answer": "Žádné. Na dlažbě je motocykl stabilnější.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "questionNumber": "Otázka č. 56",
+      "question": "\n            Může řidič motocyklu přepravovat osobu, která nedosáhne nohama na stupačky?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Ano, ale jen v obci.", "correct": false },
+        { "answer": "Nesmí.", "correct": true },
+        {
+          "answer": "Může, pokud je přepravované osobě více než 12 let.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "questionNumber": "Otázka č. 57",
+      "question": "\n            Za minimální bezpečnou vzdálenost mezi za sebou jedoucími vozidly je zpravidla považován:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Časový rozestup dvou sekund.", "correct": true },
+        { "answer": "Časový rozestup pěti sekund.", "correct": false },
+        { "answer": "Časový rozestup tři čtvrtě sekundy.", "correct": false }
+      ]
+    },
+    {
+      "id": 57,
+      "questionNumber": "Otázka č. 58",
+      "question": "\n            Zvýšené riziko ztráty přilnavosti pneumatik a následného smyku za deště hrozí: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "V úseku s vyjetými kolejemi.", "correct": true },
+        { "answer": "Na silnicích nižší třídy.", "correct": false },
+        { "answer": "Na vozovce s betonovým povrchem.", "correct": false }
+      ]
+    },
+    {
+      "id": 58,
+      "questionNumber": "Otázka č. 59",
+      "question": "\nŘidič vozidla z výhledu:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3441",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "porušuje předpisy tím, že objíždí autobus po tramvajovém pásu.",
+          "correct": false
+        },
+        {
+          "answer": "nesmí objíždět autobus; zastaví za ním a vyčká jeho odjezdu ze zastávky.",
+          "correct": false
+        },
+        {
+          "answer": "musí předpokládat nečekané vběhnutí chodce do vozovky v místě zastávky autobusu.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "questionNumber": "Otázka č. 60",
+      "question": "\n            Moped:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Se nesmí vléci, smí se však užít jako vlečné vozidlo.",
+          "correct": false
+        },
+        {
+          "answer": "Se smí vléci, nesmí se však užít jako vlečné vozidlo.",
+          "correct": false
+        },
+        {
+          "answer": "Se nesmí vléci ani užít jako vlečné vozidlo.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

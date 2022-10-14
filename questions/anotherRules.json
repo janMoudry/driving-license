@@ -1,0 +1,2181 @@
+{
+  "title": "Zákon č. 361/2000Sb. (Ostatní ustanovení)",
+  "numberOfQuestions": "116",
+  "data": [
+    {
+      "id": 0,
+      "questionNumber": "Otázka č. 1",
+      "question": "\n            Zvláštním způsobem musí být označen náklad, který z boku u motorového vozidla nebo jízdní soupravy přečnívá: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Vnější okraj obrysových světel o více než 40 cm.",
+          "correct": true
+        },
+        {
+          "answer": "Vnější obrys motorového vozidla nebo jízdní soupravy o více než 20 cm.",
+          "correct": false
+        },
+        {
+          "answer": "Vnější okraj obrysových světel o více než 20 cm.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "questionNumber": "Otázka č. 2",
+      "question": "\n            Řidič, který měl účast na dopravní nehodě:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je povinen učinit opatření k zabránění vzniku škody osobám nebo věcem, pokud tato hrozí v důsledku dopravní nehody.",
+          "correct": true
+        },
+        {
+          "answer": "Musí vždy nehodu oznámit vlastníkovi pozemní komunikace.",
+          "correct": false
+        },
+        { "answer": "Musí vždy nehodu oznámit policii.", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "questionNumber": "Otázka č. 3",
+      "question": "\n            Obytná zóna je: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Každé sídliště s nejméně 500 obyvatel, jehož začátek je označen dopravní značkou \"Sídliště\" a konec je označen dopravní značkou \"Konec sídliště\".",
+          "correct": false
+        },
+        {
+          "answer": "Obec s minimálně 50 trvale žijícími obyvateli, jejíž začátek je označen dopravní značkou \"Obec\" a konec je označen dopravní značkou \"Konec obce\".",
+          "correct": false
+        },
+        {
+          "answer": "Zastavěná oblast, jejíž začátek je označen dopravní značkou \"Obytná zóna\" a konec je označen dopravní značkou \"Konec obytné zóny\".",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionNumber": "Otázka č. 4",
+      "question": "\n            Přečnívá-li za snížené viditelnosti náklad vozidlo vpředu nebo vzadu o více než 1 metr, musí být přečnívající konec nákladu: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Označen červeným praporkem o rozměrech nejméně 30 x 30 cm a dále vzadu červeným světlem a vpředu neoslňujícím bílým světlem.",
+          "correct": false
+        },
+        {
+          "answer": "Označen vzadu červeným světlem a jinou než trojúhelníkovou červenou odrazkou a vpředu neoslňujícím bílým světlem a jinou než trojúhelníkovou bílou odrazkou.",
+          "correct": true
+        },
+        {
+          "answer": "Označen vzadu červeným světlem a trojúhelníkovou červenou odrazkou a vpředu neoslňujícím bílým světlem a trojúhelníkovou bílou odrazkou.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionNumber": "Otázka č. 5",
+      "question": "\n            Vyžadují-li provozní nebo jiné závažné důvody, aby osoby při vystupování z vozidla hromadné dopravy osob mimo zastávku nebo nastupování do něj mimo zastávku vstoupily do vozovky:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je dopravce povinen tuto skutečnost neprodleně oznámit policii nebo obecní policii.",
+          "correct": false
+        },
+        {
+          "answer": "Je dopravce oprávněn zastavovat ostatní vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Je cestující z vozidla hromadné dopravy osob starší 18 let oprávněn zastavovat ostatní vozidla.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionNumber": "Otázka č. 6",
+      "question": "\n            Náklad, který přečnívá vpředu nebo vzadu vozidlo, musí být zvláštním způsobem označen, pouze pokud takto přečnívá:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "O více než 75 cm.", "correct": false },
+        { "answer": "O více než 100 cm.", "correct": true },
+        { "answer": "O více než 125 cm.", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "questionNumber": "Otázka č. 7",
+      "question": "\n            Zastavovat vozidlo je oprávněn:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Policista ve stejnokroji.", "correct": true },
+        { "answer": "Kdokoliv.", "correct": false },
+        { "answer": "Ten, kdo je k tomu pověřen policistou.", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "questionNumber": "Otázka č. 8",
+      "question": "\n            Nakládání či skládání nákladu na pozemní komunikaci:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je dovoleno jen tehdy, nelze-li to provést mimo pozemní komunikaci.",
+          "correct": true
+        },
+        {
+          "answer": "Je zakázáno. Výjimku může udělit příslušný útvar Policie České republiky.",
+          "correct": false
+        },
+        {
+          "answer": "Je dovoleno, s výjimkou skládání sypkých substrátů (např. písku).\n",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionNumber": "Otázka č. 9",
+      "question": "\n            V prostoru čerpací stanice pohonných hmot:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je řidiči zakázáno se vzdalovat od vozidla.",
+          "correct": false
+        },
+        {
+          "answer": "Musí ve vozidle vždy zůstat alespoň jedna osoba starší 18 let.",
+          "correct": false
+        },
+        {
+          "answer": "Je řidiči i přepravované osobě zakázáno kouřit.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionNumber": "Otázka č. 10",
+      "question": "\n            Vozidlům s právem přednostní jízdy a vozidlům jimi doprovázeným musí řidiči ostatních vozidel:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Umožnit bezpečné předjetí, nejsou však povinni jim umožnit bezpečný a plynulý průjezd.",
+          "correct": false
+        },
+        {
+          "answer": "Umožnit bezpečný a plynulý průjezd, a jestliže je to nutné i zastavit vozidlo na takovém místě, aby jim nepřekážela.",
+          "correct": true
+        },
+        {
+          "answer": "Umožnit bezpečný a plynulý průjezd okamžitým zastavením vozidla.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionNumber": "Otázka č. 11",
+      "question": "\n            Vyžadují-li provozní nebo jiné závažné důvody, aby osoby při vystupování z autobusu mimo zastávku vstoupily do vozovky:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je dopravce povinen umístit za stojící autobus přenosný výstražný trojúhelník.",
+          "correct": false
+        },
+        {
+          "answer": "Je dopravce oprávněn zastavovat ostatní vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Je každý cestující z autobusu starší 18 let oprávněn zastavovat ostatní vozidla.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionNumber": "Otázka č. 12",
+      "question": "\n            V pěší zóně:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Smějí chodci užívat pozemní komunikaci v celé její šířce.",
+          "correct": true
+        },
+        {
+          "answer": "Mohou chodci užít k chůzi pouze chodníku, a kde chodník není, užijí levou krajnici či levý okraj vozovky.",
+          "correct": false
+        },
+        {
+          "answer": "Mohou chodci užít k chůzi pouze chodníku, a kde chodník není, mohou užít pozemní komunikaci v celé šířce.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionNumber": "Otázka č. 13",
+      "question": "\nJaký je vztah mezi světelnými signály a svislými dopravními značkami upravujícími přednost?",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/2054",
+      "asnwers": [
+        {
+          "answer": "Světelné signály jsou nadřazeny svislým dopravním značkám upravujícím přednost. ",
+          "correct": true
+        },
+        {
+          "answer": "Svislé dopravní značky upravující přednost jsou nadřazeny světelným signálům.",
+          "correct": false
+        },
+        {
+          "answer": "Světelné signály jsou postaveny na roveň svislým dopravním značkám upravujícím přednost.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionNumber": "Otázka č. 14",
+      "question": "\n            Řidič nesmí připustit, aby počet přepravovaných osob starších 12 let překročil:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Počet povolených míst určených k přepravě osob.",
+          "correct": true
+        },
+        {
+          "answer": "Počet povolených míst určených k přepravě osob, jen pokud jsou vybavena zádržným bezpečnostním systémem.",
+          "correct": false
+        },
+        {
+          "answer": "Dvojnásobek počtu povolených míst určených k přepravě osob.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionNumber": "Otázka č. 15",
+      "question": "\n            Při jízdě v pěší zóně:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Musí řidič dbát zvýšené ohleduplnosti vůči chodcům, které nesmí ohrozit, a v případě nutnosti musí zastavit vozidlo.",
+          "correct": true
+        },
+        {
+          "answer": "Musí řidič dbát zvýšené ohleduplnosti vůči chodcům, které nesmí ohrozit ani omezit.",
+          "correct": false
+        },
+        {
+          "answer": "Platí pro řidiče ve vztahu k chodcům stejná ustanovení jako na kterékoli jiné pozemní komunikaci.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionNumber": "Otázka č. 16",
+      "question": "\n            Celník ve stejnokroji:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Nesmí zastavovat vozidla.", "correct": false },
+        { "answer": "Smí zastavovat vozidla.", "correct": true },
+        {
+          "answer": "Smí zastavovat vozidla pouze na hraničním přechodu.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "questionNumber": "Otázka č. 17",
+      "question": "\n            Při čerpání pohonných hmot mají přednost:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Řidiči vozidel s právem přednostní jízdy; přitom nepoužívají zvláštních výstražných znamení.",
+          "correct": true
+        },
+        {
+          "answer": "Řidiči vozidel s právem přednostní jízdy; k upozornění ostatních řidičů však musejí použít zvláštních výstražných znamení.",
+          "correct": false
+        },
+        {
+          "answer": "Řidiči vozidel hromadné dopravy osob, např. autobusů, a řidiči vozidel přepravujících zboží, které podléhá rychlé zkáze.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "questionNumber": "Otázka č. 18",
+      "question": "\nŘidič vozidla z výhledu ve vyobrazené dopravní situaci:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3553",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "může pokračovat v jízdě a dodrží-li ustanovení o odbočování, může odbočit vpravo nebo vlevo.",
+          "correct": true
+        },
+        {
+          "answer": "je povinen zastavit vozidlo v místě, odkud má náležitý rozhled do křižovatky.",
+          "correct": false
+        },
+        {
+          "answer": "je povinen zastavit vozidlo před příčnou čárou souvislou.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "questionNumber": "Otázka č. 19",
+      "question": "\n            K měření rychlosti vozidel je oprávněna:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Policie České republiky a obecní policie.",
+          "correct": true
+        },
+        { "answer": "Policie České republiky.", "correct": false },
+        {
+          "answer": "Policie České republiky, obecní policie a celní správa.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "questionNumber": "Otázka č. 20",
+      "question": "\n            V pěší zóně smí řidič jet rychlostí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Nejvýše 10 km/h.", "correct": false },
+        { "answer": "Nejvýše 20 km/h. ", "correct": true },
+        { "answer": "Nejvýše 30 km/h.", "correct": false }
+      ]
+    },
+    {
+      "id": 20,
+      "questionNumber": "Otázka č. 21",
+      "question": "\n            Při čerpání pohonných hmot mají přednost:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Řidiči vozidel s právem přednostní jízdy; přitom nepoužívají zvláštních výstražných znamení.",
+          "correct": true
+        },
+        {
+          "answer": "Řidiči vozidel přepravujících osobu těžce postiženou nebo těžce pohybově postiženou.",
+          "correct": false
+        },
+        {
+          "answer": "Řidiči autobusů a řidiči vozidel přepravujících zboží, které podléhá rychlé zkáze.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "questionNumber": "Otázka č. 22",
+      "question": "\n            Při jízdě v obytné zóně:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Musí řidič dbát zvýšené ohleduplnosti vůči chodcům, které nesmí ohrozit, a v případě nutnosti musí zastavit vozidlo.",
+          "correct": true
+        },
+        {
+          "answer": "Musí řidič dbát zvýšené ohleduplnosti vůči chodcům, které nesmí ohrozit ani omezit.",
+          "correct": false
+        },
+        {
+          "answer": "Platí pro řidiče ve vztahu k chodcům stejná ustanovení jako na kterékoli jiné pozemní komunikaci.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "questionNumber": "Otázka č. 23",
+      "question": "\n            Řidič motorového vozidla, který je povinen užít přenosného výstražného trojúhelníku, jej musí umístit:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Na krajnici vozovky ve vzdálenosti nejméně 80 m, na dálnici a silnici I. třídy nejméně 130 m za vozidlem.",
+          "correct": false
+        },
+        {
+          "answer": "Na okraj vozovky tak, aby byl pro přijíždějící řidiče včas a zřetelně viditelný, a to ve vzdálenosti nejméně 50 m, na dálnici nejméně 100 m za vozidlem; v obci může být tato vzdálenost, vyžadují-li to okolnosti, kratší.",
+          "correct": true
+        },
+        {
+          "answer": "V libovolné vzdálenosti na okraj vozovky tak, aby byl pro přijíždějící řidiče včas a zřetelně viditelný.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "questionNumber": "Otázka č. 24",
+      "question": "\n            Jaké platí v České republice legislativní podmínky pro používání dětských zádržných systémů?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Dítě musí být umístěno v dětském zádržném systému do věku 12 let.",
+          "correct": false
+        },
+        {
+          "answer": "Dítě, jehož tělesná hmotnost nepřevyšuje 36 kg a tělesná výška nepřevyšuje 150 cm musí být umístěno v dětském zádržném systému.",
+          "correct": true
+        },
+        {
+          "answer": "Používání dětského zádržného systému není legislativně upraveno.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "questionNumber": "Otázka č. 25",
+      "question": "\n            Svítí-li zvláštní výstražné světlo modré nebo modré a červené barvy na stojícím vozidle, musí řidiči ostatních vozidel podle okolností:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Snížit rychlost jízdy a popřípadě i zastavit vozidlo.",
+          "correct": true
+        },
+        {
+          "answer": "Opatrně otočit vozidlo a jet jinou trasou.",
+          "correct": false
+        },
+        {
+          "answer": "Urychleně opustit místo, kde toto vozidlo stojí.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "questionNumber": "Otázka č. 26",
+      "question": "\n            Před čerpáním pohonných hmot musí řidič:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Zastavit motor a vypnout zapalování; to neplatí pro řidiče vozidel se vznětovým motorem.",
+          "correct": false
+        },
+        {
+          "answer": "Vždy vozidlo zajistit proti pohybu zabrzděním a zařazením rychlostního stupně.",
+          "correct": false
+        },
+        { "answer": "Zastavit motor a vypnout zapalování. ", "correct": true }
+      ]
+    },
+    {
+      "id": 26,
+      "questionNumber": "Otázka č. 27",
+      "question": "\n            Náklad musí být na vozidle umístěn a upevněn:\n\n\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Tak, aby byla zajištěna stabilita a ovladatelnost vozidla a aby náklad neohrožoval bezpečnost provozu na pozemních komunikacích.",
+          "correct": true
+        },
+        {
+          "answer": "Tak, aby nepřečníval vozidlo vpředu, vzadu ani z boku.",
+          "correct": false
+        },
+        {
+          "answer": "Tak, aby v případě dopravní nehody nemohlo dojít k jeho poškození nebo zničení.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "questionNumber": "Otázka č. 28",
+      "question": "\n            Při vlečení motorového vozidla se smí jet rychlostí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Nejvýše 90 km/h.", "correct": false },
+        { "answer": "Nejvýše 60 km/h. ", "correct": true },
+        { "answer": "Nejvýše 70 km/h.", "correct": false }
+      ]
+    },
+    {
+      "id": 28,
+      "questionNumber": "Otázka č. 29",
+      "question": "\n            V obytné zóně:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Smějí chodci užívat pozemní komunikaci v celé její šířce.",
+          "correct": true
+        },
+        {
+          "answer": "Mohou chodci užít k chůzi pouze chodníku, a kde chodník není, užijí levou krajnici či levý okraj vozovky.",
+          "correct": false
+        },
+        {
+          "answer": "Mohou chodci užít k chůzi pouze chodníku, a kde chodník není, mohou užít pozemní komunikaci v celé šířce.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "questionNumber": "Otázka č. 30",
+      "question": "\n            Vyžadují-li provozní nebo jiné závažné důvody, aby osoby při vystupování z vozidla taxislužby vstoupily do vozovky:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je řidič vozidla taxislužby povinen umístit za vozidlo přenosný výstražný trojúhelník.",
+          "correct": false
+        },
+        {
+          "answer": "Je řidič vozidla taxislužby oprávněn zastavovat ostatní vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Je řidič vozidla taxislužby povinen oznámit tuto skutečnost policii.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "questionNumber": "Otázka č. 31",
+      "question": "\n            Řidič, který měl účast na dopravní nehodě, je povinen:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Neprodleně zastavit vozidlo.", "correct": true },
+        {
+          "answer": "Neprodleně zastavit vozidlo, jen pokud došlo ke zranění nebo usmrcení osob.",
+          "correct": false
+        },
+        {
+          "answer": "Neprodleně zastavit vozidlo, jen pokud došlo při této nehodě ke škodě na majetku převyšující částku 50 000 Kč nebo ke zranění nebo usmrcení osob.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "questionNumber": "Otázka č. 32",
+      "question": "\n            Přepravované věci musí být ve vozidle umístěny:\n\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Tak, aby neomezovaly a neohrožovaly řidiče nebo osoby přepravované ve vozidle a nebránily výhledu z místa řidiče.",
+          "correct": true
+        },
+        {
+          "answer": "Vždy v prostoru uzpůsobeném a určeném pro přepravu zavazadel.",
+          "correct": false
+        },
+        {
+          "answer": "Tak, aby nemohly překážet v rychlém opuštění vozidla, například v případě dopravní nehody.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "questionNumber": "Otázka č. 33",
+      "question": "\n            Při řízení provozu na křižovatce znamená pro řidiče signál se současně svítícím červeným a žlutým světlem \"Pozor!\": \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Upozornění, že řízení provozu světelnými signály bude ukončeno.",
+          "correct": false
+        },
+        {
+          "answer": "Povinnost zastavit vozidlo před světelným signalizačním zařízením, neboť bude následovat signál \"Stůj!\".",
+          "correct": false
+        },
+        { "answer": "Povinnost připravit se k jízdě.", "correct": true }
+      ]
+    },
+    {
+      "id": 33,
+      "questionNumber": "Otázka č. 34",
+      "question": "\nV dané situaci, mohou účastníci silničního provozu odbočovat?  ",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/1745",
+      "asnwers": [
+        {
+          "answer": "pouze vpravo, dodrží-li ustanovení o odbočování.",
+          "correct": false
+        },
+        {
+          "answer": "pouze vlevo, dodrží-li ustanovení o odbočování.",
+          "correct": false
+        },
+        {
+          "answer": "vpravo i vlevo, dodrží-li ustanovení o odbočování.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "questionNumber": "Otázka č. 35",
+      "question": "\n            Nakládání či skládání nákladu na pozemní komunikaci:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nesmí ohrozit bezpečnost provozu na pozemních komunikacích.",
+          "correct": true
+        },
+        {
+          "answer": "Nesmí omezit plynulost provozu na pozemních komunikacích.",
+          "correct": false
+        },
+        {
+          "answer": "Nesmí probíhat za snížené viditelnosti.\n\n",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "questionNumber": "Otázka č. 36",
+      "question": "\n            Dojde-li při dopravní nehodě ke hmotné škodě na některém ze zúčastněných vozidel včetně přepravovaných věcí nižší než 100 000 Kč, jsou účastníci dopravní nehody povinni ohlásit tuto nehodu policistovi:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Jestliže při ní došlo k poškození životního prostředí.",
+          "correct": true
+        },
+        {
+          "answer": "Pokud o to požádá svědek dopravní nehody.",
+          "correct": false
+        },
+        {
+          "answer": "Jestliže při ní vznikla škoda na vozidle hromadné přepravy osob.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "questionNumber": "Otázka č. 37",
+      "question": "\n            Svítí-li zvláštní výstražné světlo modré nebo modré a červené barvy na stojícím vozidle:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Musí řidiči ostatních vozidel podle okolností snížit rychlost jízdy a popřípadě i zastavit vozidlo.",
+          "correct": true
+        },
+        {
+          "answer": "Musí řidiči ostatních vozidel vždy zastavit vozidlo.",
+          "correct": false
+        },
+        {
+          "answer": "Musí ostatní řidiči zastavit vozidlo na krajnici.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "questionNumber": "Otázka č. 38",
+      "question": "\n            Řidič vozidla, které je vybaveno zvláštním výstražným světlem oranžové barvy, smí tohoto světla užívat:  \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Pouze za snížené viditelnosti, například za deště, tmy nebo sněžení, pokud by jeho jízdou byla ohrožena bezpečnost provozu na pozemních komunikacích.",
+          "correct": false
+        },
+        {
+          "answer": "Je-li nutné upozornit ostatní účastníky provozu na hrozící nebezpečí, například při nutnosti náhle snížit rychlost jízdy nebo zastavit vozidlo. ",
+          "correct": false
+        },
+        {
+          "answer": "Pokud by jeho jízdou nebo pracovní činností mohla být ohrožena bezpečnost provozu na pozemních komunikacích.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "questionNumber": "Otázka č. 39",
+      "question": "\n            V obytné a pěší zóně smí řidič jet rychlostí nejvýše:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "40 km/h.", "correct": false },
+        { "answer": "20 km/h.", "correct": true },
+        { "answer": "30 km/h.", "correct": false }
+      ]
+    },
+    {
+      "id": 39,
+      "questionNumber": "Otázka č. 40",
+      "question": "\n            Překážka provozu na pozemních komunikacích musí být označena:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Pouze pokud se nachází na dálnici, silnici pro motorová vozidla nebo silnici I. třídy.",
+          "correct": false
+        },
+        {
+          "answer": "Pouze pokud se nachází v nepřehledném úseku pozemní komunikace, např. v zatáčce nebo před vrcholem stoupání pozemní komunikace.",
+          "correct": false
+        },
+        {
+          "answer": "Tak, aby ji jiný účastník provozu na pozemních komunikacích mohl včas a z dostatečné vzdálenosti zpozorovat.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "questionNumber": "Otázka č. 41",
+      "question": "\n            Vodorovné dopravní značky jsou vyznačeny:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Barvou nebo jiným srozumitelným způsobem; přechodná změna místní úpravy provozu na pozemních komunikacích je vyznačena žlutou nebo oranžovou barvou.",
+          "correct": true
+        },
+        {
+          "answer": "Na tabulích; přechodné změny provozu jsou provedeny červenou barvou.",
+          "correct": false
+        },
+        {
+          "answer": "Pomocí příslušných dopravních zařízení. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "questionNumber": "Otázka č. 42",
+      "question": "\n            Signál dvou vedle sebe umístěných střídavě přerušovaných červených světel znamená pro řidiče:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Povinnost zastavit vozidlo před světelným signalizačním zařízením.",
+          "correct": true
+        },
+        {
+          "answer": "Povinnost zařadit nižší rychlostní stupeň.",
+          "correct": false
+        },
+        { "answer": "Možnost zvýšit rychlost jízdy.", "correct": false }
+      ]
+    },
+    {
+      "id": 42,
+      "questionNumber": "Otázka č. 43",
+      "question": "\nPři zařazování z připojovacího pruhu do průběžného pruhu:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3513",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "má řidič vozidla z výhledu přednost před vozidly jedoucími v průběžném pruhu.",
+          "correct": false
+        },
+        {
+          "answer": "nesmí řidič vozidla z výhledu ohrozit vozidla jedoucí v průběžném pruhu.\n",
+          "correct": true
+        },
+        {
+          "answer": "nesmí řidič vozidla z výhledu ohrozit ani omezit vozidla jedoucí v průběžném pruhu.\n",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "questionNumber": "Otázka č. 44",
+      "question": "\n            Je-li překážkou provozu na pozemní komunikaci vozidlo, které provozovatel neodstranil, rozhodne o jeho odstranění:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Správce pozemní komunikace s předchozím souhlasem Policie České republiky; vozidlo se odstraní na náklady správce pozemní komunikace.",
+          "correct": false
+        },
+        {
+          "answer": "Správce pozemní komunikace; vozidlo se odstraní na náklady jeho provozovatele.",
+          "correct": false
+        },
+        {
+          "answer": "Policista nebo strážník obecní policie; vozidlo se odstraní na náklady jeho provozovatele.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "questionNumber": "Otázka č. 45",
+      "question": "\nNa signál se zeleným plným kruhovým světlem \"Volno\": ",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/2283",
+      "asnwers": [
+        {
+          "answer": "Nesmíte odbočit vpravo, neboť uvedený signál platí pouze pro jízdu v přímém směru a odbočení neumožňuje.",
+          "correct": false
+        },
+        {
+          "answer": "Smíte odbočit vpravo, přičemž musíte dát přednost chodcům přecházejícím ve volném směru po přechodu pro chodce.",
+          "correct": true
+        },
+        {
+          "answer": "Smíte odbočit vpravo, přičemž chodci přecházející ve volném směru po přechodu pro chodce Vám musí dát přednost.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "questionNumber": "Otázka č. 46",
+      "question": "\n            Při čerpání pohonných hmot mají přednost:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Řidiči vozidel s právem přednostní jízdy; přitom nepoužívají zvláštních výstražných znamení.",
+          "correct": true
+        },
+        {
+          "answer": "Řidiči vozidel s právem přednostní jízdy; k upozornění ostatních řidičů však musejí použít zvláštních výstražných znamení.",
+          "correct": false
+        },
+        {
+          "answer": "Řidiči vozidel hromadné dopravy osob, např. autobusů, a řidiči nákladních vozidel.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "questionNumber": "Otázka č. 47",
+      "question": "\n            V obytné a pěší zóně je stání dovoleno:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Jen na místech označených jako parkoviště.",
+          "correct": true
+        },
+        {
+          "answer": "Kdekoliv, s výjimkou míst označených dopravní značkou \"Zákaz zastavení\" nebo \"Zákaz stání\".",
+          "correct": false
+        },
+        {
+          "answer": "Jen na krajnici nebo na chodníku, i když tato místa nejsou označena jako parkoviště.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "questionNumber": "Otázka č. 48",
+      "question": "\n            Dojde-li při dopravní nehodě ke hmotné škodě na některém ze zúčastněných vozidel včetně přepravovaných věcí nižší než 100 000 Kč, jsou účastníci dopravní nehody povinni ohlásit tuto nehodu policistovi:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Jestliže nemohou sami bez vynaložení nepřiměřeného úsilí zabezpečit obnovení plynulosti provozu na pozemních komunikacích.",
+          "correct": true
+        },
+        {
+          "answer": "Jestliže nehoda vznikla v důsledku nedání přednosti v jízdě.",
+          "correct": false
+        },
+        {
+          "answer": "Jestliže je nutno některé ze zúčastněných vozidel odstranit pomocí odtahové služby.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "questionNumber": "Otázka č. 49",
+      "question": "\n            Dojde-li při dopravní nehodě k poškození pozemní komunikace, jsou účastníci dopravní nehody povinni:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Neprodleně ohlásit tuto událost vlastníkovi pozemní komunikace.",
+          "correct": false
+        },
+        {
+          "answer": "Neprodleně ohlásit tuto událost příslušnému obecnímu úřadu obce s rozšířenou působností.",
+          "correct": false
+        },
+        {
+          "answer": "Neprodleně ohlásit tuto událost Policii České republiky.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "questionNumber": "Otázka č. 50",
+      "question": "\n            K měření rychlosti vozidel je oprávněna:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Jen policie.", "correct": false },
+        { "answer": "Policie a obecní policie.", "correct": true },
+        { "answer": "Jen obecní policie.", "correct": false }
+      ]
+    },
+    {
+      "id": 50,
+      "questionNumber": "Otázka č. 51",
+      "question": "\n            Účastníci dopravní nehody, při které došlo ke hmotné škodě na majetku třetí osoby, s výjimkou škody na vozidle, jehož řidič má účast na dopravní nehodě nebo škody na věci přepravované v tomto vozidle:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Jsou povinni vždy ohlásit tuto dopravní nehodu policistovi.",
+          "correct": true
+        },
+        {
+          "answer": "Jsou povinni ohlásit tuto dopravní nehodu policistovi pouze v případě, že je tato škoda vyšší než 100 000 Kč.",
+          "correct": false
+        },
+        {
+          "answer": "Nejsou povinni ohlásit tuto dopravní nehodu policistovi, jestliže se dohodnou na míře účasti na způsobené škodě a ohlásí nehodu pojišťovně.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "questionNumber": "Otázka č. 52",
+      "question": "\n            Při přepravě nákladu nesmějí po straně z vozidla vyčnívat:\n\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Předměty, které lze snadno přehlédnout, jako jsou například jednotlivé tyče nebo roury.",
+          "correct": true
+        },
+        { "answer": "Žádné předměty.", "correct": false },
+        {
+          "answer": "Žádné předměty, které nejsou viditelně označeny červeným praporkem o rozměrech nejméně 30 x 30 cm.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "questionNumber": "Otázka č. 53",
+      "question": "\n            U vlečeného vozidla musí být za snížené viditelnosti rozsvícena:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Obrysová nebo potkávací světla a při poruše těchto světel musí být vlečené vozidlo na straně ke středu vozovky osvětleno vpředu neoslňujícím bílým světlem a vzadu červeným světlem.",
+          "correct": true
+        },
+        {
+          "answer": "Obrysová nebo potkávací světla a při poruše těchto světel musí být vozidlo na straně ke středu vozovky osvětleno vpředu červeným přerušovaným světlem.",
+          "correct": false
+        },
+        {
+          "answer": "Obrysová světla spolu se zapnutým výstražným světelným zařízením; při poruše obrysových světel lze užít výstražné světelné zařízení samostatně.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "questionNumber": "Otázka č. 54",
+      "question": "\n            Dojde-li při dopravní nehodě k poškození obecně prospěšného zařízení, jsou účastníci dopravní nehody:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Povinni vždy neprodleně ohlásit tuto událost Policii České republiky, bez ohledu na výši způsobené škody.",
+          "correct": true
+        },
+        {
+          "answer": "Povinni neprodleně ohlásit tuto událost Policii České republiky, pouze pokud výše způsobené škody přesahuje částku 50 000 Kč.",
+          "correct": false
+        },
+        {
+          "answer": "Povinni neprodleně ohlásit tuto událost Policii České republiky, pouze pokud výše způsobené škody přesahuje částku 100 000 Kč.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "questionNumber": "Otázka č. 55",
+      "question": "\nŘidič vozidla z výhledu:",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/994",
+      "asnwers": [
+        {
+          "answer": "Může pokračovat v jízdě křižovatkou, dává znamení o změně směru včas a v dostatečné míře a je na hlavní pozemní komunikaci.",
+          "correct": false
+        },
+        {
+          "answer": "Může pokračovat v jízdě křižovatkou; je v dostatečné vzdálenosti od křižovatky a na světelném signalizačním zařízení již svítí signál \"Připravit k jízdě\".",
+          "correct": false
+        },
+        {
+          "answer": "Nesmí pokračovat v jízdě křižovatkou. Má za povinnost zastavit vozidlo před příčnou čárou souvislou.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "questionNumber": "Otázka č. 56",
+      "question": "\n            Kdo způsobil překážku provozu na pozemních komunikacích:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Musí ji odstranit nejpozději do 24 hodin, a neučiní-li tak, odstraní ji správce komunikace na svůj vlastní náklad.",
+          "correct": false
+        },
+        {
+          "answer": "Není povinen ji odstranit, překážku je vždy povinen odstranit správce komunikace na svůj vlastní náklad.",
+          "correct": false
+        },
+        {
+          "answer": "Musí ji neprodleně odstranit, a neučiní-li tak, odstraní ji na jeho náklad vlastník pozemní komunikace. ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "questionNumber": "Otázka č. 57",
+      "question": "\n            Účastníci dopravní nehody jsou povinni: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Neprodleně odstranit vozidla poškozená při nehodě na místo ležící mimo silnici.",
+          "correct": false
+        },
+        {
+          "answer": "Učinit vhodná opatření, aby nebyla ohrožena bezpečnost provozu na pozemních komunikacích v místě dopravní nehody, a vyžadují-li to okolnosti, jsou oprávněni zastavovat jiná vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Neprodleně zastavit ostatní vozidla až do doby, než se na místo nehody dostaví příslušník policie.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "questionNumber": "Otázka č. 58",
+      "question": "\nSvětelný signál se současně svítícím červeným a žlutým světlem \"Pozor\", znamená pro řidiče povinnost:",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/2186",
+      "asnwers": [
+        { "answer": "Připravit se k jízdě.", "correct": true },
+        { "answer": "Zastavit vozidlo.", "correct": false },
+        { "answer": "Pokračovat v jízdě.", "correct": false }
+      ]
+    },
+    {
+      "id": 58,
+      "questionNumber": "Otázka č. 59",
+      "question": "\n            Ve zvláštním motorovém vozidle nesmějí být přepravovány:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Osoby mladší 18 let.", "correct": false },
+        { "answer": "Osoby starší 60 let.", "correct": false },
+        { "answer": "Osoby mladší 15 let.", "correct": true }
+      ]
+    },
+    {
+      "id": 59,
+      "questionNumber": "Otázka č. 60",
+      "question": "\n            Vyžadují-li provozní nebo jiné závažné důvody, aby osoby při nastupování do autobusu, trolejbusu či tramvaje mimo zastávku vstoupily do vozovky:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Musí řidič na nezbytně nutnou dobu zastavit ostatní projíždějící vozidla.",
+          "correct": false
+        },
+        {
+          "answer": "Je dopravce oprávněn zastavovat ostatní vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Je každý z cestujících starší 18 let oprávněn zastavovat ostatní vozidla.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "questionNumber": "Otázka č. 61",
+      "question": "\nŘidič vozidla z výhledu ve vyobrazené dopravní situaci v obci:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3537",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "je informován o motorovém vozidle, které tvoří překážku na pozemní komunikaci ve vzdálenosti 150 metrů a musí přizpůsobit jízdu této mimořádné dopravní situaci.",
+          "correct": false
+        },
+        {
+          "answer": "je informován o motorovém vozidle, které tvoří překážku na pozemní komunikaci ve vzdálenosti 100 metrů a musí přizpůsobit jízdu této mimořádné dopravní situaci.",
+          "correct": false
+        },
+        {
+          "answer": "je informován o motorovém vozidle, které tvoří překážku provozu na pozemní komunikaci ve vzdálenosti 50 metrů nebo kratší a musí přizpůsobit jízdu této mimořádné dopravní situaci.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "questionNumber": "Otázka č. 62",
+      "question": "\n            V obytné zóně řidič smí jet rychlostí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Nejvýše 20 km.h-1.", "correct": true },
+        { "answer": "Nejvýše 40 km.h-1.", "correct": false },
+        { "answer": "Nejvýše 30 km.h-1.", "correct": false }
+      ]
+    },
+    {
+      "id": 62,
+      "questionNumber": "Otázka č. 63",
+      "question": "\nChodci ve vyobrazené dopravní situaci:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3527",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "musí použít místo pro přecházení pokud jsou od něj vzdáleni do 50 m.",
+          "correct": true
+        },
+        {
+          "answer": "nemusí použít místo pro přecházení pokud jsou od něj vzdáleni do 50 m.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "questionNumber": "Otázka č. 64",
+      "question": "\nChodec smí vstoupit na přechod pro chodce:",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/1260",
+      "asnwers": [
+        {
+          "answer": "Jen pokud se neblíží vozidlo, před které by bezprostředně vstoupil.",
+          "correct": true
+        },
+        {
+          "answer": "Jen pokud dá znamení rukou, že bude přecházet; pak může řidiče donutit i k náhlé změně rychlosti a směru jízdy.",
+          "correct": false
+        },
+        {
+          "answer": "Vždy, protože má absolutní přednost před vozidly.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "questionNumber": "Otázka č. 65",
+      "question": "\n            Pěší zóna je:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Oblast, jejíž začátek je označen dopravní značkou \"Pěší zóna\" a konec je označen dopravní značkou \"Konec pěší zóny\".",
+          "correct": true
+        },
+        {
+          "answer": "Oblast, jejíž začátek je označen dopravní značkou \"Stezka pro chodce\" a konec je označen dopravní značkou \"Konec stezky pro chodce\".",
+          "correct": false
+        },
+        {
+          "answer": "Každý chodník, oddělený od vozovky výškově nebo jinak, který jiní účastníci provozu než chodci nesmí použít.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "questionNumber": "Otázka č. 66",
+      "question": "\n            Přečnívá-li za snížené viditelnosti náklad z boku u motorového vozidla nebo jízdní soupravy vnější okraj obrysových světel o více než 40 cm, musí být přečnívající konec nákladu: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Označen červeným praporkem o rozměrech nejméně 20 x 20 cm a dále vzadu červeným světlem a vpředu neoslňujícím bílým světlem.",
+          "correct": false
+        },
+        {
+          "answer": "Označen vzadu červeným světlem a jinou než trojúhelníkovou červenou odrazkou a vpředu neoslňujícím bílým světlem a jinou než trojúhelníkovou bílou odrazkou.",
+          "correct": true
+        },
+        {
+          "answer": "Označen vzadu červeným světlem a trojúhelníkovou červenou odrazkou a vpředu neoslňujícím bílým světlem a trojúhelníkovou bílou odrazkou.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "questionNumber": "Otázka č. 67",
+      "question": "\nJak se zachová řidič vozidla přijíždějící k přechodu pro chodce, kde osoby zjevně hodlají přecházet pozemní komunikaci?",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3525",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nesmí ohrozit nebo omezit chodce a v případě potřeby je řidič povinen i zastavit vozidlo před přechodem pro chodce.",
+          "correct": true
+        },
+        {
+          "answer": "Nemusí snížit rychlost jízdy nebo zastavit vozidlo před přechodem pro chodce.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "questionNumber": "Otázka č. 68",
+      "question": "\n            Hry dětí na pozemní komunikaci:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Jsou dovoleny pouze v obytné zóně.", "correct": true },
+        { "answer": "Jsou dovoleny v obytné a pěší zóně.", "correct": false },
+        { "answer": "Jsou zakázány.", "correct": false }
+      ]
+    },
+    {
+      "id": 68,
+      "questionNumber": "Otázka č. 69",
+      "question": "\n            Dojde-li při dopravní nehodě ke hmotné škodě pouze na vozidle, jehož řidič měl účast na dopravní nehodě nebo ke hmotné škodě na věci přepravované v tomto vozidle nepřevyšující 100 000 Kč:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nejsou účastnící dopravní nehody povinni ohlásit tuto nehodu policistovi.",
+          "correct": true
+        },
+        {
+          "answer": "Jsou účastnící dopravní nehody povinni neprodleně ohlásit tuto nehodu policistovi.",
+          "correct": false
+        },
+        {
+          "answer": "Nesmí účastnící dopravní nehody tuto ohlásit policistovi.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "questionNumber": "Otázka č. 70",
+      "question": "\nSmí řidič vozidla z výhledu vjet na železniční přejezd?",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3551",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Ano, situace je dostatečně přehledná a závory jsou zvednuty.",
+          "correct": false
+        },
+        { "answer": "Ne.", "correct": true }
+      ]
+    },
+    {
+      "id": 70,
+      "questionNumber": "Otázka č. 71",
+      "question": "\n            Za nesnížené viditelnosti při přepravě zemědělských produktů nemusí být zvláštním způsobem označen náklad přečnívající:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Z boku vnější okraj obrysových světel o více než 40 cm.",
+          "correct": true
+        },
+        { "answer": "Vozidlo vzadu o více než 1 metr.", "correct": false },
+        { "answer": "Vozidlo vpředu o více než 1 metr.", "correct": false }
+      ]
+    },
+    {
+      "id": 71,
+      "questionNumber": "Otázka č. 72",
+      "question": "\n            Chodci v pěší zóně:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Musí umožnit jízdu všem vozidlům.", "correct": true },
+        {
+          "answer": "Musí umožnit jízdu pouze vozidlům s právem přednostní jízdy.",
+          "correct": false
+        },
+        {
+          "answer": "Nemusí při užívání pěší zóny brát ohled na pohyb vozidel.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "questionNumber": "Otázka č. 73",
+      "question": "\n            Svislé stálé dopravní značky jsou nadřazeny:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Pokynům policisty.", "correct": false },
+        { "answer": "Vodorovným dopravním značkám.", "correct": true },
+        { "answer": "Světelným signálům.\n\n", "correct": false }
+      ]
+    },
+    {
+      "id": 73,
+      "questionNumber": "Otázka č. 74",
+      "question": "\n            Stanovené osvětlení, odrazky a registrační značka, rozpoznávací značka státu ani vyznačení nejvyšší povolené rychlosti:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nesmějí být zakryty přepravovaným nákladem ani zařízeními sloužícími k jeho upevnění a ochraně (např. plachta, řetězy nebo lana).",
+          "correct": true
+        },
+        {
+          "answer": "Mohou být zakryty zařízeními sloužícími k upevnění a ochraně nákladu (např. plachta, řetězy nebo lana), nelze-li náklad jinak zajistit.",
+          "correct": false
+        },
+        {
+          "answer": "Mohou být zakryty nákladem, pokud je za jízdy na vozidle v chodu zvláštní výstražné světlo oranžové barvy.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "questionNumber": "Otázka č. 75",
+      "question": "\n            Dojde-li při dopravní nehodě k poškození životního prostředí, jsou účastníci dopravní nehody povinni:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Neprodleně ohlásit tuto událost vlastníkům všech dotčených pozemků.",
+          "correct": false
+        },
+        {
+          "answer": "Neprodleně ohlásit tuto událost Inspekci životního prostředí.",
+          "correct": false
+        },
+        {
+          "answer": "Neprodleně ohlásit tuto událost Policii České republiky.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "questionNumber": "Otázka č. 76",
+      "question": "\n            Místní úprava provozu na pozemních komunikacích:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je úprava silničního provozu podřazená obecné úpravě silničního provozu.",
+          "correct": false
+        },
+        { "answer": "Neplatí za snížené viditelnosti.", "correct": false },
+        {
+          "answer": "Je nadřazená obecné úpravě provozu na pozemních komunikacích.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "questionNumber": "Otázka č. 77",
+      "question": "\n            V obytné zóně smí řidič jet rychlostí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Nejvýše 50 km/h.", "correct": false },
+        { "answer": "Nejvýše 20 km/h. ", "correct": true },
+        { "answer": "Nejvýše 30 km/h.", "correct": false }
+      ]
+    },
+    {
+      "id": 77,
+      "questionNumber": "Otázka č. 78",
+      "question": "\n            Znamení k zastavení vozidla dává policista ve stejnokroji:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Píšťalkou.", "correct": false },
+        {
+          "answer": "Vztyčenou paží nebo zastavovacím terčem a za snížené viditelnosti červeným světlem, kterým pohybuje v horním půlkruhu.",
+          "correct": true
+        },
+        { "answer": "Kýváním směrovkou nahoru a dolů. ", "correct": false }
+      ]
+    },
+    {
+      "id": 78,
+      "questionNumber": "Otázka č. 79",
+      "question": "\nPři řízení křižovatky policistou mohou pokračovat v jízdě vozidla:",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/3127",
+      "asnwers": [
+        { "answer": "ke kterým stojí policista bokem. ", "correct": true },
+        { "answer": "ke kterým stojí policista čelem.", "correct": false },
+        { "answer": "ke kterým stojí policista zády.", "correct": false }
+      ]
+    },
+    {
+      "id": 79,
+      "questionNumber": "Otázka č. 80",
+      "question": "\n            Účastníci dopravní nehody jsou povinni:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Umožnit obnovení provozu na pozemních komunikacích, zejména provozu vozidel hromadné dopravy osob.",
+          "correct": true
+        },
+        { "answer": "Zajistit svědky nehody.", "correct": false },
+        {
+          "answer": "Umožnit odstranění vozidel poškozených při nehodě na místo ležící mimo silnici bez ohledu na to, vyžaduje-li to obnovení silničního provozu či nikoliv. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "questionNumber": "Otázka č. 81",
+      "question": "\n            Svislé zákazové dopravní značky:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Upozorňují na místa, kde řidiči hrozí nebezpečí.",
+          "correct": false
+        },
+        {
+          "answer": "Ukládají účastníku provozu na pozemních komunikacích zákazy nebo omezení.",
+          "correct": true
+        },
+        {
+          "answer": "Informují řidiče motorových vozidel o omezeních na silnici.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "questionNumber": "Otázka č. 82",
+      "question": "\nTento pokyn policisty znamená:",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/1742",
+      "asnwers": [
+        { "answer": "\"Stůj!\"", "correct": false },
+        { "answer": "\"Volno\"", "correct": false },
+        { "answer": "\"Pozor!\" ", "correct": true }
+      ]
+    },
+    {
+      "id": 82,
+      "questionNumber": "Otázka č. 83",
+      "question": "\n            Do skupiny tvořené vozidly s právem přednostní jízdy a vozidly jimi doprovázenými se řidiči ostatních vozidel:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Smějí zařazovat jen za nesnížené viditelnosti.",
+          "correct": false
+        },
+        {
+          "answer": "Smějí zařazovat jen se zvýšenou opatrností.",
+          "correct": false
+        },
+        { "answer": "Nesmějí zařazovat.", "correct": true }
+      ]
+    },
+    {
+      "id": 83,
+      "questionNumber": "Otázka č. 84",
+      "question": "\n            Při přepravě nákladu:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Smí být užitečná hmotnost vozidla překročena nejvýše o 10%.",
+          "correct": false
+        },
+        {
+          "answer": "Smí být užitečná hmotnost vozidla překročena nejvýše o 20%.",
+          "correct": false
+        },
+        {
+          "answer": "Nesmí být překročena maximální přípustná hmotnost vozidla a maximální přípustná hmotnost na nápravu vozidla.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "questionNumber": "Otázka č. 85",
+      "question": "\n            Účastníci dopravní nehody jsou povinni neprodleně ohlásit policistovi:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nehodu, při níž došlo k usmrcení nebo zranění osoby nebo k hmotné škodě převyšující zřejmě na některém ze zúčastněných vozidel včetně přepravovaných věcí částku 100 000 Kč.",
+          "correct": true
+        },
+        {
+          "answer": "Nehodu, při níž došlo k usmrcení nebo zranění osoby; nejsou povinni ohlásit nehodu, při níž došlo jen k hmotné škodě bez ohledu na její výši.",
+          "correct": false
+        },
+        {
+          "answer": "Každou nehodu bez ohledu na výši hmotné škody.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "questionNumber": "Otázka č. 86",
+      "question": "\n            Chodci v obytné zóně:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Musí umožnit jízdu všem vozidlům.", "correct": true },
+        {
+          "answer": "Musí umožnit jízdu pouze vozidlům s právem přednostní jízdy.",
+          "correct": false
+        },
+        {
+          "answer": "Nemusí při užívání obytné zóny brát ohled na pohyb vozidel.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "questionNumber": "Otázka č. 87",
+      "question": "\n            Zastavuje-li řidič u okraje pozemní komunikace: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "nesmí dávat znamení o změně směru jízdy.",
+          "correct": false
+        },
+        {
+          "answer": "musí dávat znamení o změně směru jízdy.",
+          "correct": true
+        },
+        {
+          "answer": "může dávat znamení o změně směru jízdy.\n",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "questionNumber": "Otázka č. 88",
+      "question": "\n            Řidič vozidla, které je povinně vybaveno přenosným trojúhelníkem a pro technickou závadu se na pozemní komunikaci mimo obec stalo nepojízdným, je povinen tento trojúhelník umístit: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Na okraj vozovky ve vzdálenosti nejméně 50 metrů za vozidlem, na dálnici nejméně 100 m za vozidlem.",
+          "correct": true
+        },
+        {
+          "answer": "Na střed vozovky ve vzdálenosti nejméně 50 metrů za vozidlem, na dálnici nejméně 100 m za vozidlem.",
+          "correct": false
+        },
+        {
+          "answer": "Na střechu vozidla, odkud bude zezadu dobře viditelný.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "questionNumber": "Otázka č. 89",
+      "question": "\nPřečnívá-li za nesnížené viditelnosti náklad vozidlo vpředu nebo vzadu o více než 1 metr, musí být přečnívající konec nákladu: ",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/1777",
+      "asnwers": [
+        {
+          "answer": "Označen červeným praporkem o rozměrech nejméně 30 x 30 cm.",
+          "correct": true
+        },
+        {
+          "answer": "Označen vzadu červenou a vpředu bílou odrazkou jiného než trojúhelníkového tvaru.",
+          "correct": false
+        },
+        {
+          "answer": "Označen vzadu červenou a vpředu bílou odrazkou trojúhelníkového tvaru.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "questionNumber": "Otázka č. 90",
+      "question": "\nŘidič vozidla z výhledu hodlá pokračovat v jízdě vlevo. Přitom:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3531",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "nemusí dát přednost protijedoucímu vozidlu, neboť pokračuje po hlavní pozemní komunikaci.",
+          "correct": false
+        },
+        {
+          "answer": "musí dát přednost protijedoucímu vozidlu.",
+          "correct": true
+        },
+        {
+          "answer": "nemusí dát přednost protijedoucímu vozidlu, neboť jede na signál \"VOLNO\".",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "questionNumber": "Otázka č. 91",
+      "question": "\n            Pokud hustota provozu na silnici pro motorová vozidla o dvou jízdních pruzích v jednom směru jízdy vyvolá vznik kolony stojících vozidel, jsou řidiči souběžně jedoucích vozidel povinni:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "vytvořit mezi jízdními pruhy prostor pro průjezd vozidel s právem přednostní jízdy",
+          "correct": true
+        },
+        {
+          "answer": "Řadit se průběžně do pravého jízdního pruhu.",
+          "correct": false
+        },
+        {
+          "answer": "Řadit se průběžně do levého jízdního pruhu.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "questionNumber": "Otázka č. 92",
+      "question": "\n            Z jedoucího vozidla dává policista ve stejnokroji znamení k zastavení vozidla:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Zapínáním potkávacích nebo dálkových světel.",
+          "correct": false
+        },
+        {
+          "answer": "Zvukovým výstražným znamením a zapnutím zařízení umožňujícího výstražnou funkci směrových světel.",
+          "correct": false
+        },
+        {
+          "answer": "Kýváním paže nahoru a dolů nebo vysunutým zastavovacím terčem, popřípadě rozsvícením nápisu \"STOP\". ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "questionNumber": "Otázka č. 93",
+      "question": "\n            Zvláštním způsobem musí být označen náklad, který přečnívá vozidlo vpředu nebo vzadu:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "O více než 50 cm.", "correct": false },
+        { "answer": "O více než 70 cm.", "correct": false },
+        { "answer": "O více než 1 metr.", "correct": true }
+      ]
+    },
+    {
+      "id": 93,
+      "questionNumber": "Otázka č. 94",
+      "question": "\n            Při řízení provozu na křižovatce signál se současně svítícím červeným a žlutým světlem \"Pozor!\" znamená pro řidiče povinnost:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Zastavit vozidlo.", "correct": false },
+        {
+          "answer": "Dbát při průjezdu křižovatkou zvýšené opatrnosti.",
+          "correct": false
+        },
+        { "answer": "Připravit se k jízdě.", "correct": true }
+      ]
+    },
+    {
+      "id": 94,
+      "questionNumber": "Otázka č. 95",
+      "question": "\n            \"Signál žlutého světla ve tvaru chodce\", jímž je doplněn signál se zelenou šipkou směřující vpravo nebo vlevo, upozorňuje řidiče, že při jízdě směrem, kterým tato šipka ukazuje: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Začíná obytná zóna nebo pěší zóna.", "correct": false },
+        {
+          "answer": "Není zřízen chodník a chodci proto mohou jít po levém okraji vozovky.",
+          "correct": false
+        },
+        {
+          "answer": "Křižuje směr chůze přecházejících chodců, kterým musí dát přednost.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "questionNumber": "Otázka č. 96",
+      "question": "\nSvislé dopravní značky upravující přednost:",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/1840",
+      "asnwers": [
+        { "answer": "Jsou nadřazeny světelným signálům. ", "correct": false },
+        { "answer": "Jsou podřízeny světelným signálům.", "correct": true },
+        {
+          "answer": "Jsou postaveny na roveň světelných signálů.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "questionNumber": "Otázka č. 97",
+      "question": "\n            Při vlečení motorového vozidla na tyči musí být délka tyče taková, aby vzdálenost mezi vozidly nebyla: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Menší než 1 m a větší než 5 m.", "correct": false },
+        { "answer": "Menší než 1,5 m a větší než 5 m.", "correct": false },
+        { "answer": "Menší než 1 m a větší než 6 m.", "correct": true }
+      ]
+    },
+    {
+      "id": 97,
+      "questionNumber": "Otázka č. 98",
+      "question": "\n            Ten, kdo způsobil překážku provozu na pozemních komunikacích:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Oznámí to neprodleně vlastníkovi pozemní komunikace, který překážku na vlastní náklady odstraní.",
+          "correct": false
+        },
+        {
+          "answer": "Oznámí to neprodleně policii, která zajistí její označení.",
+          "correct": false
+        },
+        {
+          "answer": "Musí ji neprodleně odstranit; neučiní-li tak, odstraní ji na jeho náklady vlastník pozemní komunikace.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "questionNumber": "Otázka č. 99",
+      "question": "\n            V pěší zóně:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nesmí řidič stát jinde než na místech označených jako parkoviště, zastavit ale může i mimo parkoviště.",
+          "correct": true
+        },
+        {
+          "answer": "Nesmí řidič zastavit a stát jinde než na místech označených jako parkoviště.",
+          "correct": false
+        },
+        {
+          "answer": "Nesmí řidič mimo parkoviště ani zastavit vozidlo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "questionNumber": "Otázka č. 100",
+      "question": "\n            Světelné signály:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Jsou nadřazeny všem dopravním značkám.",
+          "correct": false
+        },
+        {
+          "answer": "Jsou nadřazeny pokynům příslušníků nebo orgánů vojenské pořádkové služby.",
+          "correct": false
+        },
+        {
+          "answer": "Jsou nadřazeny svislým dopravním značkám upravujícím přednost. ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "questionNumber": "Otázka č. 101",
+      "question": "\nPři tomto pokynu policisty je řidič:",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/1739",
+      "asnwers": [
+        {
+          "answer": "Povinen zastavit vozidlo, ať přijíždí z kteréhokoliv směru jízdy; odbočit vlevo je povolené.",
+          "correct": false
+        },
+        {
+          "answer": "Povinen připravit se k jízdě, pokud jede ze směru, pro který byl provoz předtím zastaven.",
+          "correct": true
+        },
+        {
+          "answer": "Oprávněn pokračovat v jízdě jen přímým směrem, bez možnosti odbočení.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "questionNumber": "Otázka č. 102",
+      "question": "\n            Svítí-li světlo signálu se žlutým světlem \"Pozor!\" na křižovatce přerušovaně:\n\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nejde o křižovatku s provozem řízeným světelnými signály.",
+          "correct": true
+        },
+        {
+          "answer": "Znamená to pro řidiče povinnost neprodleně křižovatku opustit.",
+          "correct": false
+        },
+        {
+          "answer": "Je to signál pro řidiče k volnému průjezdu křižovatkou.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "questionNumber": "Otázka č. 103",
+      "question": "\n            Strážník obecní policie :\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je oprávněn k zastavování vozidel i v civilním oblečení.    ",
+          "correct": false
+        },
+        {
+          "answer": "Není oprávněn zastavovat vozidla ani ve stejnokroji obecní policie.",
+          "correct": false
+        },
+        {
+          "answer": "Je oprávněn zastavovat vozidla pouze ve stejnokroji obecní policie. ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "questionNumber": "Otázka č. 104",
+      "question": "\n            Při řízení provozu na křižovatce policistou je řidič vozidla, pro kterého z pokynu policisty taková povinnost vyplývá, povinen zastavit vozidlo:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Před hranicí křižovatky.", "correct": true },
+        {
+          "answer": "Na takovém místě, kde bude mít dobrý výhled do křižovatky.",
+          "correct": false
+        },
+        {
+          "answer": "V křižovatce a v takové vzdálenosti od policisty, aby nebyla ohrožena jeho bezpečnost.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "questionNumber": "Otázka č. 105",
+      "question": "\n            Při nakládání nebo skládání nákladu na pozemní komunikaci:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Musí být náklad naložen nebo složen co nejrychleji a tak, aby nebyla ohrožena bezpečnost provozu na pozemních komunikacích.",
+          "correct": true
+        },
+        {
+          "answer": "Musí být osoby nakládající nebo skládající náklad oděny ve svrchní části oděvu z retroreflexního materiálu.",
+          "correct": false
+        },
+        {
+          "answer": "Musí být přibrána způsobilá a náležitě poučená osoba, aby nebyla ohrožena bezpečnost provozu na pozemních komunikacích.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "questionNumber": "Otázka č. 106",
+      "question": "\nOsoba na kolečkových lyžích je považována z hlediska pravidel provozu na pozemních komunikacích za:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3539",
+      "video": null,
+      "asnwers": [
+        { "answer": "chodce.", "correct": true },
+        { "answer": "cyklistu.", "correct": false },
+        { "answer": "jezdce na osobním přepravníku.", "correct": false }
+      ]
+    },
+    {
+      "id": 106,
+      "questionNumber": "Otázka č. 107",
+      "question": "\n            V prostoru čerpací stanice pohonných hmot je zakázáno:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Seřizovat motor vozidla.", "correct": true },
+        {
+          "answer": "Zdržovat se déle, než je nezbytně nutné.",
+          "correct": false
+        },
+        { "answer": "Opravovat vozidlo.", "correct": false }
+      ]
+    },
+    {
+      "id": 107,
+      "questionNumber": "Otázka č. 108",
+      "question": "\n            V prostoru čerpací stanice pohonných hmot je zakázáno:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Opravovat motor vozidla.", "correct": true },
+        {
+          "answer": "Opravovat elektrická zařízení na vozidle.",
+          "correct": false
+        },
+        { "answer": "Opravovat jakoukoli součást vozidla.", "correct": false }
+      ]
+    },
+    {
+      "id": 108,
+      "questionNumber": "Otázka č. 109",
+      "question": "\n            Při přepravě živých zvířat:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nesmí být ohrožena bezpečnost přepravovaných zvířat.",
+          "correct": true
+        },
+        {
+          "answer": "Musí být vozidlo označeno zvláštním označením pro vozidla přepravující živá zvířata.",
+          "correct": false
+        },
+        {
+          "answer": "Musí být za jízdy na vozidle v chodu zvláštní výstražné světlo oranžové barvy.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "questionNumber": "Otázka č. 110",
+      "question": "\n            Účastníci dopravní nehody jsou povinni:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Navzájem si předložit doklad o zaplacení pojistného.",
+          "correct": false
+        },
+        {
+          "answer": "Navzájem si předložit osvědčení o vozidle.",
+          "correct": false
+        },
+        {
+          "answer": "Prokázat si na požádání navzájem svou totožnost. ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "questionNumber": "Otázka č. 111",
+      "question": "\n            V provozu na pozemních komunikacích je zakázáno:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Troubit.", "correct": false },
+        {
+          "answer": "Neoprávněně užívat zvláštních výstražných světel a zvláštního zvukového výstražného znamení, které užívá vozidlo s právem přednostní jízdy.",
+          "correct": true
+        },
+        { "answer": "Svítit za nesnížené viditelnosti. ", "correct": false }
+      ]
+    },
+    {
+      "id": 111,
+      "questionNumber": "Otázka č. 112",
+      "question": "\n            Účastníci dopravní nehody jsou povinni neprodleně ohlásit tuto událost policistovi, dojde-li při nehodě:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "K hmotné škodě převyšující zřejmě na některém ze zúčastněných vozidel včetně přepravovaných věcí částku 100 000 Kč.",
+          "correct": true
+        },
+        {
+          "answer": "K hmotné škodě převyšující zřejmě na některém ze zúčastněných vozidel včetně přepravovaných věcí částku 50 000 Kč.",
+          "correct": false
+        },
+        {
+          "answer": "K hmotné škodě převyšující zřejmě na některém ze zúčastněných vozidel včetně přepravovaných věcí částku 30 000 Kč.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "questionNumber": "Otázka č. 113",
+      "question": "\n            Přednost při čerpání pohonných hmot mají:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Řidiči vozidel s právem přednostní jízdy.",
+          "correct": true
+        },
+        {
+          "answer": "Řidiči vozidel hromadné dopravy osob (např. autobusů).",
+          "correct": false
+        },
+        {
+          "answer": "Řidiči vozidel přepravujících zboží, které podléhá rychlé zkáze.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "questionNumber": "Otázka č. 114",
+      "question": "\n            V obytné zóně řidič:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nesmí stát jinde než na místech označených jako parkoviště, zastavit ale může i mimo parkoviště.",
+          "correct": true
+        },
+        {
+          "answer": "Nesmí zastavit a stát jinde než na místech označených jako parkoviště.",
+          "correct": false
+        },
+        {
+          "answer": "Nesmí mimo parkoviště ani zastavit vozidlo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "questionNumber": "Otázka č. 115",
+      "question": "\n            Pokud hustota provozu na dálnici a rychlostní silnici o dvou jízdních pruzích v jednom směru jízdy vyvolá vznik kolony stojících vozidel, jsou řidiči souběžně jedoucích vozidel povinni:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "vytvořit mezi jízdními pruhy prostor pro průjezd vozidel s právem přednostní jízdy",
+          "correct": true
+        },
+        {
+          "answer": "Rozsvítit stanovené osvětlení vozidla.",
+          "correct": false
+        },
+        { "answer": "Snížit vzájemný boční odstup.", "correct": false }
+      ]
+    },
+    {
+      "id": 115,
+      "questionNumber": "Otázka č. 116",
+      "question": "\n            Přečnívá-li za nesnížené viditelnosti náklad z boku u motorového vozidla nebo jízdní soupravy vnější okraj obrysových světel o více než 40 cm, musí být přečnívající konec nákladu: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Označen červeným praporkem o rozměrech nejméně 30 x 30 cm.",
+          "correct": true
+        },
+        {
+          "answer": "Označen vzadu červenou a vpředu bílou odrazkou jiného než trojúhelníkového tvaru.",
+          "correct": false
+        },
+        {
+          "answer": "Označen vzadu červenou a vpředu bílou odrazkou trojúhelníkového tvaru.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

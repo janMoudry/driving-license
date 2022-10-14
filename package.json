@@ -4,15 +4,32 @@
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
+    "android-release": "npx react-native run-android --variant=release",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-community/async-storage": "^1.12.1",
+    "@react-navigation/bottom-tabs": "^6.3.1",
+    "@react-navigation/native": "^6.0.10",
+    "@react-navigation/native-stack": "^6.6.2",
+    "@types/react-native": "^0.70.4",
+    "@types/react-native-vector-icons": "^6.4.12",
+    "@types/react-native-video": "^5.0.14",
+    "axios": "^0.27.2",
     "expo": "~46.0.13",
+    "expo-av": "^12.0.4",
+    "expo-font": "^10.2.1",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
-    "react-native": "0.69.5"
+    "react-native": "0.69.6",
+    "react-native-safe-area-context": "4.3.1",
+    "react-native-screens": "~3.15.0",
+    "react-native-vector-icons": "^9.2.0",
+    "react-native-video": "^5.2.1",
+    "types": "^0.1.1",
+    "typescript": "^4.8.4"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"

@@ -1,0 +1,2900 @@
+{
+  "title": "Zákon č. 361/2000Sb. (Jízda vozidly)",
+  "numberOfQuestions": "159",
+  "data": [
+    {
+      "id": 0,
+      "questionNumber": "Otázka č. 1",
+      "question": "\n            Nemohou-li se řidiči protijedoucích vozidel bezpečně vyhnout v situaci, kdy k bezpečnému vyhnutí není nutné, aby musel jeden z řidičů couvat:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Musí dát přednost v jízdě ten, na jehož straně jízdy je překážka nebo zúžená vozovka.",
+          "correct": true
+        },
+        {
+          "answer": "Musí dát přednost v jízdě ten, na jehož straně jízdy není překážka nebo zúžená vozovka.",
+          "correct": false
+        },
+        {
+          "answer": "Musí dát přednost v jízdě ten, pro něhož je to snazší nebo méně nebezpečné.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "questionNumber": "Otázka č. 2",
+      "question": "\n            Řidič nesmí předjíždět: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nemá-li před sebe rozhled na takovou vzdálenost, která je nutná k bezpečnému předjetí.",
+          "correct": true
+        },
+        {
+          "answer": "Pokud před tím nedal zvukové výstražné znamení.",
+          "correct": false
+        },
+        {
+          "answer": "Pokud nemá před sebe rozhled na vzdálenost 300 m. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionNumber": "Otázka č. 3",
+      "question": "\n            Na tramvajový pás v úrovni vozovky se smí v podélném směru vjet:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Jen při objíždění, předjíždění, odbočování, otáčení, vjíždění na pozemní komunikaci nebo vyžadují-li to zvláštní okolnosti.",
+          "correct": true
+        },
+        { "answer": "Jen je-li to nutné při couvání.", "correct": false },
+        {
+          "answer": "Jen při odbočování na místo ležící mimo silnici. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionNumber": "Otázka č. 4",
+      "question": "\nŘidič jedoucí po dálnici, v úseku který prochází obcí, může jet rychlostí nejvýše:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3453",
+      "video": null,
+      "asnwers": [
+        { "answer": "80 km/h.", "correct": true },
+        { "answer": "50 km/h.", "correct": false },
+        { "answer": "130 km/h.", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "questionNumber": "Otázka č. 5",
+      "question": "\nMám, jako řidič automobilu z výhledu, za povinnost dát vozidlu přijíždějícímu zprava přednost v jízdě?",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/2168",
+      "asnwers": [
+        { "answer": "Ano.", "correct": false },
+        { "answer": "Ne.", "correct": true }
+      ]
+    },
+    {
+      "id": 5,
+      "questionNumber": "Otázka č. 6",
+      "question": "\nMimo obec se na pozemní komunikaci o dvou nebo více jízdních pruzích v jednom směru jízdy jezdí:",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/1833",
+      "asnwers": [
+        {
+          "answer": "V levém jízdním pruhu. V ostatních jízdních pruzích se smí jet, jestliže je to nutné k objíždění, předjíždění, otáčení nebo odbočování.",
+          "correct": false
+        },
+        {
+          "answer": "V pravém jízdním pruhu. V ostatních jízdních pruzích se smí jet, jestliže je to nutné k objíždění, předjíždění, otáčení nebo odbočování.",
+          "correct": true
+        },
+        {
+          "answer": "V kterémkoli jízdním pruhu, jestliže tím není ohrožena plynulost provozu na pozemních komunikacích, zejména jízda ostatních vozidel.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionNumber": "Otázka č. 7",
+      "question": "\n            Řidič musí dát přednost v jízdě vozidlům jedoucím po pozemní komunikaci:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Pouze, když vjíždí z místa ležícího mimo silnici na silnici; při vjíždění z polní nebo lesní cesty, ze stezky pro cyklisty anebo z obytné nebo pěší zóny na jinou silnici platí ustanovení o jízdě křižovatkou.",
+          "correct": false
+        },
+        {
+          "answer": "Při vjíždění z místa ležícího mimo pozemní komunikaci na pozemní komunikaci a při vjíždění z účelové pozemní komunikace, ze stezky pro cyklisty anebo z obytné nebo pěší zóny na jinou pozemní komunikaci.",
+          "correct": true
+        },
+        {
+          "answer": "Při vjíždění z polní nebo lesní cesty na pozemní komunikaci, jen když vozidla jedoucí po pozemní komunikaci přijíždějí zleva.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionNumber": "Otázka č. 8",
+      "question": "\nŘidič smí oddělený tramvajový pás přejíždět jen příčně. Může přitom omezit v jízdě tramvaj?",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/2175",
+      "asnwers": [
+        { "answer": "Ano.", "correct": false },
+        { "answer": "Ne.", "correct": true }
+      ]
+    },
+    {
+      "id": 8,
+      "questionNumber": "Otázka č. 9",
+      "question": "\n            Dojde-li při jízdě vozidla v tunelu k poruše vozidla, pro kterou se toto vozidlo stalo nepojízdným:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Řidič ani přepravovaná osoba nesmí kouřit ani zacházet s otevřeným ohněm. Nezávislé topení nepojízdného vozidla musí v tunelu být vypnuto.",
+          "correct": true
+        },
+        {
+          "answer": "Řidič ani přepravovaná osoba nesmí kouřit ani zacházet s otevřeným ohněm. Nezávislé topení nepojízdného vozidla může v tunelu zůstat zapnuto.",
+          "correct": false
+        },
+        {
+          "answer": "Řidič ani přepravovaná osoba nesmí zacházet s otevřeným ohněm, kouřit mohou pouze na místech k tomu určených. Nezávislé topení nepojízdného vozidla může v tunelu zůstat zapnuto.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionNumber": "Otázka č. 10",
+      "question": "\n            Řidič, který při předjíždění vybočuje ze směru své jízdy:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "musí dávat znamení o změně směru jízdy a nesmí ohrozit řidiče jedoucího za ním.",
+          "correct": true
+        },
+        { "answer": "znamení o změně směru jízdy nedává.", "correct": false },
+        {
+          "answer": "musí dávat znamení o změně směru jízdy jen pokud za ním jede další vozidlo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionNumber": "Otázka č. 11",
+      "question": "\n            Řidič nesmí snížit náhle rychlost jízdy nebo náhle zastavit:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Pokud to nevyžaduje bezpečnost provozu na pozemních komunikacích.",
+          "correct": true
+        },
+        {
+          "answer": "S výjimkou případu zdravotní nevolnosti.",
+          "correct": false
+        },
+        {
+          "answer": "S výjimkou případu, kdy je zastavován pracovníkem dráhy.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionNumber": "Otázka č. 12",
+      "question": "\n            Řidič odbočující z kruhového objezdu:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Musí dávat znamení o změně směru jízdy vlevo. ",
+          "correct": false
+        },
+        {
+          "answer": "Musí dávat znamení o změně směru jízdy vpravo. ",
+          "correct": true
+        },
+        {
+          "answer": "Nemusí dávat znamení o změně směru jízdy.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionNumber": "Otázka č. 13",
+      "question": "\n            Pokud není dopravní značkou \"Nejvyšší dovolená rychlost\" dovolena rychlost vyšší, smí jet řidič v obci rychlostí nejvýše:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "50 km.h-1.\n\n\n", "correct": true },
+        { "answer": "60 km.h-1.\n\n", "correct": false },
+        { "answer": "70 km.h-1.\n", "correct": false }
+      ]
+    },
+    {
+      "id": 13,
+      "questionNumber": "Otázka č. 14",
+      "question": "\n            Řidič nesmí předjíždět na křižovatce a v těsné blízkosti před ní; tento zákaz neplatí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Na hlavní pozemní komunikaci.", "correct": true },
+        { "answer": "Pokud je vozidlo řádně osvětleno.", "correct": false },
+        {
+          "answer": "Dává-li řidič řádně a včas znamení o změně směru jízdy.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionNumber": "Otázka č. 15",
+      "question": "\n            Přejíždět z jednoho jízdního pruhu do druhého smí řidič jen tehdy:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Má-li řádně očištěná zpětná zrcátka.", "correct": false },
+        {
+          "answer": "Když v jízdním pruhu, do kterého přejíždí, nejede žádné motorové vozidlo.",
+          "correct": false
+        },
+        {
+          "answer": "Neohrozí-li a neomezí-li řidiče jedoucího v jízdním pruhu, do kterého přejíždí; přitom musí dávat znamení o změně směru jízdy. ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionNumber": "Otázka č. 16",
+      "question": "\n            O odstranění vozidla, které neoprávněně stojí na vyhrazeném parkovišti:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Může rozhodnout jen policista.", "correct": false },
+        {
+          "answer": "Může rozhodnout jen strážník obecní policie.",
+          "correct": false
+        },
+        {
+          "answer": "Rozhodne policista nebo strážník obecní policie; vozidlo se odstraní na náklad jeho provozovatele.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "questionNumber": "Otázka č. 17",
+      "question": "\nNa pozemní komunikaci s jednosměrným provozem smí řidič couvat:\n",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/2199",
+      "asnwers": [
+        {
+          "answer": "Pouze tehdy, jestliže je to nezbytně nutné, například k vyjetí z řady stojících vozidel.",
+          "correct": true
+        },
+        {
+          "answer": "Pouze, užije-li při couvání zvukové výstražné znamení.    ",
+          "correct": false
+        },
+        {
+          "answer": "Kdykoli, vždy však jen s pomocí způsobilé a náležitě poučené osoby.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "questionNumber": "Otázka č. 18",
+      "question": "\n            Řidič, který při objíždění vozidla, jež zastavilo nebo stojí, nebo při objíždění překážky provozu na pozemních komunikacích anebo chodce, vybočuje ze směru své jízdy:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nemusí dávat znamení o změně směru jízdy.",
+          "correct": false
+        },
+        {
+          "answer": "Nesmí ohrozit pouze řidiče jedoucí za ním.",
+          "correct": false
+        },
+        {
+          "answer": "Nesmí ohrozit ani omezit protijedoucí řidiče a ohrozit ostatní účastníky provozu na pozemních komunikacích.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "questionNumber": "Otázka č. 19",
+      "question": "\nPřípojné vozidlo, které jede v prostředním jízdním pruhu, má nejvyšší povolenou rychlost 75 km/h. Může toto vozidlo jet po dálnici?   ",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/2202",
+      "asnwers": [
+        { "answer": "Ano.", "correct": false },
+        { "answer": "Ne. ", "correct": true }
+      ]
+    },
+    {
+      "id": 19,
+      "questionNumber": "Otázka č. 20",
+      "question": "\n            Mimo obec se na pozemní komunikaci o dvou nebo více jízdních pruzích vyznačených na vozovce v jednom směru jízdy jezdí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "V pravém jízdním pruhu. V ostatních jízdních pruzích se smí jet, jestliže je to nutné k objíždění, předjíždění, otáčení nebo odbočování. ",
+          "correct": true
+        },
+        {
+          "answer": "V kterémkoliv jízdním pruhu bez ohledu na jízdní úkon.",
+          "correct": false
+        },
+        { "answer": "Zpravidla v levém jízdním pruhu.", "correct": false }
+      ]
+    },
+    {
+      "id": 20,
+      "questionNumber": "Otázka č. 21",
+      "question": "\n            Dojde-li při jízdě vozidla v tunelu k poruše vozidla, pro kterou se toto vozidlo stalo nepojízdným:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Řidič ani přepravovaná osoba nesmí kouřit ani zacházet s otevřeným ohněm. Nezávislé topení nepojízdného vozidla musí v tunelu být vypnuto.",
+          "correct": true
+        },
+        {
+          "answer": "Řidič vozidla neoznačuje vozidlo jako překážku v provozu na pozemních komunikacích.",
+          "correct": false
+        },
+        {
+          "answer": "Řidič vozidla a přepravované osoby mohou zůstat ve vozidle, pokud neprodleně oznámili zastavení vozidla policii nebo osobě vykonávající dohled nad provozem tunelu.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "questionNumber": "Otázka č. 22",
+      "question": "\nMimo obec se na pozemní komunikaci o dvou nebo více jízdních pruzích vyznačených na vozovce v jednom směru jízdy jezdí:",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/2195",
+      "asnwers": [
+        {
+          "answer": "V pravém jízdním pruhu; v ostatních jízdních pruzích mohou jet pouze vozidla, jejichž celková hmotnost nepřevyšuje 3 500 kg.",
+          "correct": false
+        },
+        {
+          "answer": "V pravém jízdním pruhu; v ostatních jízdních pruzích se smí jet, jestliže je to nutné k objíždění, předjíždění, otáčení nebo odbočování.",
+          "correct": true
+        },
+        {
+          "answer": "V kterémkoli jízdním pruhu; je-li to však nutné, musí být pro rychleji jedoucí vozidla uvolněn levý krajní jízdní pruh.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "questionNumber": "Otázka č. 23",
+      "question": "\n            Dojde-li při jízdě vozidla v tunelu k poruše vozidla, pro kterou se toto vozidlo stalo nepojízdným, nebo dojde-li k dopravní nehodě, je řidič povinen:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Okamžitě zahájit opravu vozidla.", "correct": false },
+        {
+          "answer": "Neprodleně vyhledat místo určené k soustředění osob.",
+          "correct": false
+        },
+        {
+          "answer": "Neprodleně oznámit zastavení vozidla nebo stání vozidla policii nebo osobě vykonávající dohled nad provozem tunelu.\n\n",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "questionNumber": "Otázka č. 24",
+      "question": "\nNa obrázku jsou",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/173",
+      "video": null,
+      "asnwers": [
+        { "answer": "Čtyři kruhy černé", "correct": false },
+        { "answer": "Tři kruhy bílé", "correct": true },
+        { "answer": "Jen čtverce", "correct": false }
+      ]
+    },
+    {
+      "id": 24,
+      "questionNumber": "Otázka č. 25",
+      "question": "\n            Řidič nesmí předjíždět:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "na přechodu pro chodce nebo na přejezdu pro cyklisty a bezprostředně před nimi.",
+          "correct": true
+        },
+        {
+          "answer": "bezprostředně za přechodem pro chodce nebo za přejezdem pro cyklisty.",
+          "correct": false
+        },
+        { "answer": "na křižovatce s řízeným provozem.", "correct": false }
+      ]
+    },
+    {
+      "id": 25,
+      "questionNumber": "Otázka č. 26",
+      "question": "\n            Na pozemní komunikaci o třech nebo více jízdních pruzích vyznačených na vozovce v jednom směru jízdy smí řidič nákladního automobilu o celkové hmotnosti převyšující 3 500 kg, jízdní soupravy, jejíž celková délka přesahuje 7 m, zvláštního motorového vozidla a motocyklu s nejvyšší povolenou rychlostí do 45 km/h užít k jízdě:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "kteréhokoliv jízdního pruhu bez ohledu na jízdní úkon.",
+          "correct": false
+        },
+        {
+          "answer": "výhradně dvou jízdních pruhů nejbližších k pravému okraji vozovky; v ostatních jízdních pruzích smí jet tehdy, jestliže je to nutné k objíždění, otáčení nebo odbočování.",
+          "correct": true
+        },
+        { "answer": "výhradně pravého jízdního pruhu.", "correct": false }
+      ]
+    },
+    {
+      "id": 26,
+      "questionNumber": "Otázka č. 27",
+      "question": "\n            Při jízdě na dálnici:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je zakázáno zastavit a stát mimo místa označená jako parkoviště.",
+          "correct": true
+        },
+        {
+          "answer": "Je zakázáno zastavit a stát, s výjimkou míst na krajnici, kde je parkování povoleno.",
+          "correct": false
+        },
+        {
+          "answer": "Platí stejná ustanovení jako pro zastavení a stání na ostatních pozemních komunikacích.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "questionNumber": "Otázka č. 28",
+      "question": "\n            Řidič motorového vozidla o maximální přípustné hmotnosti převyšující 3 500 kg, s výjimkou autobusu, smí jet mimo obec rychlostí nejvýše:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "90 km.h-1.\n", "correct": false },
+        { "answer": "80 km.h-1.\n", "correct": true },
+        { "answer": "70 km.h-1.\n\n", "correct": false }
+      ]
+    },
+    {
+      "id": 28,
+      "questionNumber": "Otázka č. 29",
+      "question": "\n            Na pozemní komunikaci objíždí vozidlo překážku. Musí jeho řidič dávat znamení o změně směru své jízdy?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Ano.", "correct": true },
+        { "answer": "Ne.", "correct": false }
+      ]
+    },
+    {
+      "id": 29,
+      "questionNumber": "Otázka č. 30",
+      "question": "\n            Řidič nesmí vjet do křižovatky, nedovoluje-li mu situace pokračovat v jízdě v křižovatce a za křižovatkou, takže by byl nucen zastavit vozidlo v křižovatce. To neplatí:\t\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Pokud důvodem zastavení vozidla je, že řidič hodlá v této křižovatce nebo v její bezprostřední blízkosti couvat. ",
+          "correct": false
+        },
+        {
+          "answer": "Pokud důvodem zastavení vozidla je plnění povinnosti umožnit chodci nerušené a bezpečné přejití vozovky na přechodu pro chodce nebo povinnost dát přednost v jízdě při odbočování vlevo.",
+          "correct": true
+        },
+        {
+          "answer": "Pokud řidič musel zastavit vozidlo proto, že kvůli hustému provozu zastavila i vozidla jedoucí před ním.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "questionNumber": "Otázka č. 31",
+      "question": "\n            Řidič nesmí vjet do křižovatky, nedovoluje-li mu situace pokračovat v jízdě v křižovatce a za křižovatkou, takže by byl nucen zastavit vozidlo v křižovatce. To neplatí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Pokud důvodem zastavení vozidla je, že řidič hodlá v této křižovatce couvat. ",
+          "correct": false
+        },
+        {
+          "answer": "Pokud důvodem zastavení vozidla je plnění povinnosti umožnit chodci nerušené a bezpečné přejití vozovky na přechodu pro chodce nebo povinnost dát přednost v jízdě při odbočování vlevo.",
+          "correct": true
+        },
+        {
+          "answer": "Pokud řidič musel zastavit vozidlo v křižovatce vzhledem k dopravní situaci, zejména kvůli hustému provozu.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "questionNumber": "Otázka č. 32",
+      "question": "\nOsoba na přechodu pro chodce označená holí s bílými a červenými pruhy:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3477",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "je osobou se zraněním dolní končetiny.",
+          "correct": false
+        },
+        { "answer": "je osobou hluchoslepou.", "correct": true },
+        { "answer": "je osobou nevidomou.", "correct": false }
+      ]
+    },
+    {
+      "id": 32,
+      "questionNumber": "Otázka č. 33",
+      "question": "\n            Řidič, který se po předjetí zařazuje před vozidlo, které předjel:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Může omezit řidiče vozidla, které předjel, a musí dávat znamení o změně směru jízdy.",
+          "correct": false
+        },
+        {
+          "answer": "Musí dávat znamení o změně směru jízdy a nesmí ohrozit ani omezit řidiče vozidla, které předjel.",
+          "correct": true
+        },
+        {
+          "answer": "Nemusí dávat znamení o změně směru jízdy, pokud neomezí řidiče vozidla, které předjel.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "questionNumber": "Otázka č. 34",
+      "question": "\n            Při jízdě po silnici pro motorová vozidla:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je zakázáno zastavit a stát mimo místa označená jako parkoviště.",
+          "correct": true
+        },
+        {
+          "answer": "Je zakázáno zastavit a stát, s výjimkou míst na krajnici, kde je parkování povoleno.",
+          "correct": false
+        },
+        {
+          "answer": "Platí stejná ustanovení jako pro zastavení a stání na ostatních pozemních komunikacích.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "questionNumber": "Otázka č. 35",
+      "question": "\n            Na dálnici je vlečení motorového vozidla dovoleno jen tehdy:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je-li vlečeno po krajnici nebo v odstavném pruhu.",
+          "correct": false
+        },
+        {
+          "answer": "Je-li možno při jízdě po rovině dosáhnout rychlosti nejméně 65 km/h.",
+          "correct": false
+        },
+        {
+          "answer": "Jestliže je to nutné k jeho odstranění z dálnice nebo ze silnice pro motorová vozidla; vozidlo smí být vlečeno jen k nejbližšímu výjezdu, kde musí dálnici nebo silnici pro motorová vozidla opustit. ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "questionNumber": "Otázka č. 36",
+      "question": "\n            Je porušením zákona, pokud vozidlo svítí za normální, nesnížené viditelnosti pouze světly pro denní svícení?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Ne.", "correct": true },
+        { "answer": "Ano.", "correct": false }
+      ]
+    },
+    {
+      "id": 36,
+      "questionNumber": "Otázka č. 37",
+      "question": "\n            Během jízdy na dálnici mimo obec se ukázalo, že s Vaším vozidlem ve stoupání nelze dosáhnout rychlosti nejméně 80 km/h (např. pro nedostatečný výkon motoru nebo pro hmotnost přepravovaného nákladu). Můžete pokračovat v jízdě po dálnici?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Ano. Důležité je, že vozidlo může dosáhnout této rychlosti na rovině.",
+          "correct": true
+        },
+        {
+          "answer": "Ne. Dálnici musíte opustit na nejbližším výjezdu. ",
+          "correct": false
+        },
+        {
+          "answer": "Ne. Vozidlo musíte odstavit na krajnici a označit jako překážku provozu.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "questionNumber": "Otázka č. 38",
+      "question": "\n            Kdy smíte při jízdě s motorovým vozidlem, které je vybaveno světly pro denní svícení, těmito světly svítit?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Pouze při nesnížené viditelnosti, a to bez současného použití obrysových světel.",
+          "correct": true
+        },
+        {
+          "answer": "Při nesnížené viditelnosti samostatně a při současném použití obrysových světel i při snížené viditelnosti.",
+          "correct": false
+        },
+        {
+          "answer": "Pouze v době od 6.00 hodin do 20.00 hodin a jen při současném použití obrysových světel.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "questionNumber": "Otázka č. 39",
+      "question": "\nOdbočují-li řidiči protijedoucích vozidel vlevo:",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/747",
+      "asnwers": [
+        {
+          "answer": "Vyhýbají se vlevo (jejich vozidla se míjejí pravými boky).",
+          "correct": true
+        },
+        {
+          "answer": "Vyhýbají se vpravo (jejich vozidla se míjejí levými boky).",
+          "correct": false
+        },
+        {
+          "answer": "Vyhýbají se podle okolností a dostatku prostoru v křižovatce vpravo i vlevo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "questionNumber": "Otázka č. 40",
+      "question": "\n            Řidič motorového vozidla, jehož celková hmotnost převyšuje 3 500 kg, smí v obci zastavit a stát:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "i kolmo, popřípadě šikmo k okraji pozemní komunikace nebo zastavit v druhé řadě, pokud tím není ohrožena bezpečnost a plynulost provozu.",
+          "correct": false
+        },
+        {
+          "answer": "i kolmo, popřípadě šikmo k okraji pozemní komunikace. Ve druhé řadě smí řidič zastavit pouze řidič vozidla taxislužby.",
+          "correct": false
+        },
+        {
+          "answer": "vpravo ve směru jízdy co nejblíže k okraji pozemní komunikace a na jednosměrné pozemní komunikaci vpravo i vlevo, v jedné řadě a rovnoběžně s okrajem pozemní komunikace. ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "questionNumber": "Otázka č. 41",
+      "question": "\n             Řidič motorového vozidla o maximální přípustné hmotnosti nepřevyšující 3 500 kg a autobusu smí jet:\n\n\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Na silnici pro motorová vozidla a na dálnici rychlostí nejvýše 130 km.h-1.",
+          "correct": false
+        },
+        {
+          "answer": "Na silnici pro motorová vozidla rychlostí nejvýše 110 km.h-1 a na dálnici rychlostí nejvýše 130 km.h-1.",
+          "correct": true
+        },
+        {
+          "answer": "Na silnici pro motorová vozidla rychlostí nejvýše 110 km.h-1 a na dálnici rychlostí nejvýše 130 km.h-1, s výjimkou řidiče autobusu, který na dálnici smí jet rychlostí nejvýše 110 km.h-1. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "questionNumber": "Otázka č. 42",
+      "question": "\n            Při přejíždění železničního přejezdu nesmí řidič:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Náhle snížit rychlost jízdy.", "correct": false },
+        {
+          "answer": "Zbytečně prodlužovat dobu jeho přejíždění.",
+          "correct": true
+        },
+        { "answer": "Dávat zvuková výstražná znamení.", "correct": false }
+      ]
+    },
+    {
+      "id": 42,
+      "questionNumber": "Otázka č. 43",
+      "question": "\n            Za vozidlem hromadné dopravy osob, které zastavilo v obci v zastávce bez nástupního ostrůvku nebo bez nástupiště na zvýšeném tramvajovém pásu, musí řidič jiného vozidla:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Snížit rychlost vozidla s ohledem na bezpečnost nastupujících a vystupujících cestujících.",
+          "correct": false
+        },
+        {
+          "answer": "Vozidlo zastavit; je-li v zastávce více vozidel hromadné dopravy osob, musí zastavit za druhým z nich, pokračovat v jízdě smí teprve tehdy, neohrozí-li již cestující, kteří nastupují nebo vystupují.",
+          "correct": true
+        },
+        {
+          "answer": "Vozidlo zastavit i v případě, zastaví-li vozidlo hromadné dopravy osob u okraje vozovky.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "questionNumber": "Otázka č. 44",
+      "question": "\n            Svítí-li přerušované bílé světlo signálu přejezdového zabezpečovacího zařízení, smí 50 m před železničním přejezdem a při jeho přejíždění jet řidič rychlostí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Nejvýše 30 km.h-1.", "correct": false },
+        { "answer": "Nejvýše 40 km.h-1.", "correct": false },
+        { "answer": "Nejvýše 50 km.h-1.", "correct": true }
+      ]
+    },
+    {
+      "id": 44,
+      "questionNumber": "Otázka č. 45",
+      "question": "\n            Tramvaj zastavila v zastávce bez nástupního ostrůvku. Řidič jiného vozidla jedoucího za touto tramvají musí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Zastavit vozidlo. Pokračovat v jízdě smí teprve tehdy, neohrozí-li již cestující, kteří nastupují nebo vystupují. ",
+          "correct": true
+        },
+        {
+          "answer": "Zastavit vozidlo na dobu, než tramvaj odjede z prostoru zastávky.",
+          "correct": false
+        },
+        {
+          "answer": "Tramvaj se zvýšenou opatrností objet vlevo; přitom musí svou jízdu přizpůsobit zejména možnosti vstoupení chodců do vozovky.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "questionNumber": "Otázka č. 46",
+      "question": "\n            Během jízdy na silnici pro motorová vozidla mimo obec se ukázalo, že Vaše vozidlo ve stoupání nedosahuje rychlosti nejméně 80 km/h (např. pro nedostatečný výkon motoru nebo pro hmotnost přepravovaného nákladu). Můžete pokračovat v jízdě po této silnici?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Ano. Důležité je, že vozidlo může dosáhnout této rychlosti na rovině.",
+          "correct": true
+        },
+        {
+          "answer": "Ne. Silnici pro motorová vozidla musíte opustit na nejbližším výjezdu. ",
+          "correct": false
+        },
+        {
+          "answer": "Ne. Vozidlo musíte odstavit na krajnici a označit jako překážku provozu.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "questionNumber": "Otázka č. 47",
+      "question": "\n            Vjíždět na dálnici a vyjíždět z dálnice smí řidič: \n\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Potahového vozidla nebo nemotorového vozidla pouze u parkoviště.",
+          "correct": false
+        },
+        {
+          "answer": "Rychlostí vozidla nepřesahující 50 km.h-1.",
+          "correct": false
+        },
+        { "answer": "Jen na místech k tomu určených.", "correct": true }
+      ]
+    },
+    {
+      "id": 47,
+      "questionNumber": "Otázka č. 48",
+      "question": "\n            Před odbočováním vlevo se musí řidič zařadit:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Do levého jízdního pruhu ve vzdálenosti 500 m před místem, kde hodlá odbočovat.",
+          "correct": false
+        },
+        {
+          "answer": "Co nejdále vlevo v části vozovky určené pro jeho směr jízdy s ohledem na rozměry vozidla nebo nákladu a šířku vozovky.",
+          "correct": true
+        },
+        {
+          "answer": "Vždy do středu vozovky bez ohledu na protijedoucí vozidla.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "questionNumber": "Otázka č. 49",
+      "question": "\nŘidič jedoucí po komunikaci označené touto dopravní značkou mimo obec, může jet rychlostí nejvýše:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3451",
+      "video": null,
+      "asnwers": [
+        { "answer": "90 km/h.", "correct": false },
+        { "answer": "130 km/h.", "correct": false },
+        { "answer": "110 km/h.", "correct": true }
+      ]
+    },
+    {
+      "id": 49,
+      "questionNumber": "Otázka č. 50",
+      "question": "\nŘidič vozidla z výhledu: ",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/863",
+      "asnwers": [
+        {
+          "answer": "Musí dát přednost v jízdě červenému vozidlu, protože toto vozidlo přijíždí zprava. ",
+          "correct": false
+        },
+        {
+          "answer": "Nemusí dát přednost v jízdě červenému vozidlu jedoucímu zprava, protože toto vozidlo se pohybuje v přípojovacím pruhu.",
+          "correct": true
+        },
+        {
+          "answer": "Musí snížením rychlosti jízdy umožnit plynulou jízdu červenému vozidlu jedoucímu zprava. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "questionNumber": "Otázka č. 51",
+      "question": "\n            Zastavit s vozidlem ve druhé řadě můžete jen tehdy:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Zůstane-li volný alespoň jeden jízdní pruh o šířce nejméně 3 m.",
+          "correct": true
+        },
+        {
+          "answer": "Nelze-li s vozidlem ve vzdálenosti menší než 100 m zastavit při okraji pozemní komunikace. ",
+          "correct": false
+        },
+        {
+          "answer": "Přepravujete-li osobu těžce postiženou nebo těžce pohybově postiženou.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "questionNumber": "Otázka č. 52",
+      "question": "\n            Vozidla vjíždějící na pozemní komunikaci:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Musí být předem očištěna, aby neznečišťovala pozemní komunikaci.",
+          "correct": true
+        },
+        {
+          "answer": "Nemusí být předem očištěna, pokud pozemní komunikaci pouze přejíždějí.",
+          "correct": false
+        },
+        {
+          "answer": "Musí předem dávat světelné výstražné znamení.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "questionNumber": "Otázka č. 53",
+      "question": "\nJak se zachovám jako řidič osobního vozidla z výhledu pokud jedu při pravém okraji vozovky:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3475",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "dám znamení o změně směru jízdy a s bezpečným odstupem objíždím zaparkovaná vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "pokračuji bez změny v jízdě, mezi zaparkované vozidlo a přerušovanou čáru se vejdu, nemusím tedy dávat znamení o změně směru jízdy.",
+          "correct": false
+        },
+        {
+          "answer": "znamení o změně směru jízdy budu dávat pouze v případě, že přejedu přes přerušovanou čáru do protisměru.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "questionNumber": "Otázka č. 54",
+      "question": "\n            Dojde-li při jízdě vozidla v tunelu k poruše vozidla, pro kterou se toto vozidlo stalo nepojízdným:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je řidič porouchaného vozidla podle okolností oprávněn zastavovat jiná vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Je řidič porouchaného vozidla povinen neprodleně odstranit vozidlo z tunelu, například jeho odtlačením.",
+          "correct": false
+        },
+        {
+          "answer": "Je řidič porouchaného vozidla povinen neprodleně opravit závadu, která mu brání v alespoň nouzovém dojetí. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "questionNumber": "Otázka č. 55",
+      "question": "\nPokud přijíždíte na tuto křižovatku, musíte dát přednost v jízdě všem vozidlům přijíždějícím:",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/2181",
+      "asnwers": [
+        { "answer": "Jen zprava.", "correct": false },
+        { "answer": "Jen zleva.", "correct": false },
+        { "answer": "Zprava i zleva.", "correct": true }
+      ]
+    },
+    {
+      "id": 55,
+      "questionNumber": "Otázka č. 56",
+      "question": "\n            Řidič motorového vozidla: \n\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Se nesmí otáčet na místech nepřehledných nebo jinak nebezpečných, např. v nepřehledné zatáčce a její blízkosti nebo před nepřehledným vrcholem stoupání pozemní komunikace, na něm a za ním.",
+          "correct": true
+        },
+        {
+          "answer": "Se může otáčet na přechodu pro chodce nebo na přejezdu pro cyklisty nebo v jejich těsné blízkosti, pokud tím neohrozí bezpečnost ostatních účastníků silničního provozu.",
+          "correct": false
+        },
+        {
+          "answer": "Se může otáčet v těsné blízkosti železničního přejezdu, pokud je železniční zabezpečovací zařízení funkční.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "questionNumber": "Otázka č. 57",
+      "question": "\n            Řidiči protijedoucích vozidel se vyhýbají:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Vlevo, včas a v dostatečné míře.", "correct": false },
+        {
+          "answer": "Vlevo, minimálně 10 m před místem, kde se budou míjet.",
+          "correct": false
+        },
+        { "answer": "Vpravo, včas a v dostatečné míře.", "correct": true }
+      ]
+    },
+    {
+      "id": 57,
+      "questionNumber": "Otázka č. 58",
+      "question": "\n            Řidič, který se hodlá vzdálit od vozidla tak, že nemůže v případě potřeby okamžitě zasáhnout:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Musí vypnout motor a zapalování a použít parkovací brzdu nebo zařadit rychlostní stupeň.",
+          "correct": false
+        },
+        {
+          "answer": "Musí dát výstražné znamení zapnutím výstražného světelného zařízení, vypnout motor a zapalování.",
+          "correct": false
+        },
+        {
+          "answer": "Musí učinit taková opatření, aby vozidlo nemohlo ohrozit bezpečnost provozu na pozemních komunikacích a nemohla je neoprávněně užít jiná osoba.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "questionNumber": "Otázka č. 59",
+      "question": "\n            Při zastavení vozidla před železničním přejezdem:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Musí řidič motorového vozidla zařadit rychlostní stupeň nebo použít parkovací brzdu.",
+          "correct": false
+        },
+        {
+          "answer": "Musí řidič motorového vozidla okamžitě vypnout motor.",
+          "correct": false
+        },
+        {
+          "answer": "Nesmí řidič užít ani potkávací světla, pokud by jimi mohl oslnit řidiče v protisměru.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "questionNumber": "Otázka č. 60",
+      "question": "\n            Řidič se smí otáčet:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "na křižovatce, na které je provoz upraven dopravními značkami.",
+          "correct": true
+        },
+        { "answer": "na přejezdu pro cyklisty.", "correct": false },
+        {
+          "answer": "na křižovatce, na které je provoz řízen světelnými signály.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "questionNumber": "Otázka č. 61",
+      "question": "\n            Dávat zvukové výstražné znamení k upozornění řidiče předjížděného vozidla:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Je zakázáno. ", "correct": false },
+        { "answer": "Je dovoleno.", "correct": false },
+        { "answer": "Je dovoleno pouze mimo obec. ", "correct": true }
+      ]
+    },
+    {
+      "id": 61,
+      "questionNumber": "Otázka č. 62",
+      "question": "\n            Zapnutím výstražného světelného znamení dává řidič upozornění, pokud:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je nutné náhle snížit rychlost jízdy nebo zastavit vozidlo.",
+          "correct": true
+        },
+        {
+          "answer": "Řidič před vozidlem jede pomalu a zdržuje provoz na pozemních komunikacích.",
+          "correct": false
+        },
+        {
+          "answer": "Předjíždí kolonu vozidel, která jej zpomaluje v jízdě. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "questionNumber": "Otázka č. 63",
+      "question": "\n            Před železničním přejezdem:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Řidič nesmí řadit rychlostní stupně.", "correct": false },
+        {
+          "answer": "Musí řidič vždy zastavit, aby se přesvědčil, zda může železniční přejezd bezpečně přejet.",
+          "correct": false
+        },
+        {
+          "answer": "Si musí řidič počínat zvlášť opatrně, zejména se přesvědčit, zda může železniční přejezd bezpečně přejet.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "questionNumber": "Otázka č. 64",
+      "question": "\n            Nemohou-li se řidiči protijedoucích vozidel bezpečně vyhnout v situaci, kdy je k bezpečnému vyhnutí nutné, aby jeden z řidičů couval:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Učiní tak ten, na jehož straně jízdy je překážka nebo zúžená vozovka.",
+          "correct": false
+        },
+        {
+          "answer": "Učiní tak ten, na jehož straně jízdy není překážka nebo zúžená vozovka.",
+          "correct": false
+        },
+        {
+          "answer": "Učiní tak ten, pro něhož je to snazší nebo méně nebezpečné.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "questionNumber": "Otázka č. 65",
+      "question": "\n            Řidič vozidla, které zastavilo nebo stálo a opět vyjíždí od okraje pozemní komunikace nebo od chodníku:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Musí dávat znamení o změně směru jízdy a nesmí ohrozit ani omezit ostatní účastníky provozu na pozemních komunikacích.",
+          "correct": false
+        },
+        {
+          "answer": "Nemusí dávat znamení o změně směru jízdy a může omezit ostatní účastníky provozu na pozemních komunikacích.",
+          "correct": false
+        },
+        {
+          "answer": "Musí dávat znamení o změně směru jízdy a nesmí ohrozit ostatní účastníky provozu na pozemních komunikacích.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "questionNumber": "Otázka č. 66",
+      "question": "\n            Řidič vjíždějící z účelové pozemní komunikace na jinou pozemní komunikaci:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nemusí dát přednost v jízdě vozidlům nebo jezdcům na zvířatech nebo organizovanému útvaru chodců nebo průvodcům hnaných zvířat se zvířaty jdoucím po pozemní komunikaci.",
+          "correct": false
+        },
+        {
+          "answer": "Musí dát přednost v jízdě vozidlům nebo jezdcům na zvířatech nebo organizovanému útvaru chodců nebo průvodcům hnaných zvířat se zvířaty jdoucím po pozemní komunikaci.",
+          "correct": true
+        },
+        {
+          "answer": "Nemusí dát přednost jezdcům na zvířatech nebo organizovanému útvaru chodců jdoucím po pozemní komunikaci, musí dát přednost v jízdě pouze vozidlům jedoucím po pozemní komunikaci.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "questionNumber": "Otázka č. 67",
+      "question": "\n            Vozidlo musí mít za jízdy při snížené viditelnosti:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Rozsvícena jen dálková světla.", "correct": false },
+        { "answer": "Rozsvícena jen tlumená světla.", "correct": false },
+        {
+          "answer": "Rozsvícena obrysová a potkávací světla nebo dálková světla, pokud je jimi vybaveno podle zvláštního právního předpisu. ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "questionNumber": "Otázka č. 68",
+      "question": "\n            Na křižovatce, kde není dopravními značkami rozlišena přednost v jízdě, řidič musí dát přednost v jízdě: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Motorovým vozidlům nebo jezdcům na zvířatech přijíždějícím zprava, tramvajím v obou směrech a chodcům přicházejícím zprava.",
+          "correct": false
+        },
+        {
+          "answer": "Vozidlům nebo jezdcům na zvířatech přijíždějícím zleva nebo organizované skupině chodců nebo průvodcům hnaných zvířat se zvířaty přicházejícím zleva.",
+          "correct": false
+        },
+        {
+          "answer": "Vozidlům nebo jezdcům na zvířatech přijíždějícím zprava nebo organizované skupině chodců nebo průvodcům hnaných zvířat se zvířaty přicházejícím zprava.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "questionNumber": "Otázka č. 69",
+      "question": "\n            Po předjetí jiného vozidla máte v úmyslu se zařadit před toto vozidlo. Musíte dávat znamení o změně směru jízdy?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Ano.", "correct": true },
+        { "answer": "Ne.", "correct": false }
+      ]
+    },
+    {
+      "id": 69,
+      "questionNumber": "Otázka č. 70",
+      "question": "\n            Dávat světelné výstražné znamení krátkým přerušovaným rozsvícením dálkových světel nebo přepínáním potkávacích a dálkových světel k upozornění řidiče předjížděného vozidla:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Je zakázáno. ", "correct": false },
+        { "answer": "Je dovoleno.", "correct": true },
+        {
+          "answer": "Je dovoleno pouze na dálnici a silnici pro motorová vozidla. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "questionNumber": "Otázka č. 71",
+      "question": "\n            Řidič při vjíždění z účelové pozemní komunikace na jinou pozemní komunikaci:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Nedává přednost v jízdě.", "correct": false },
+        {
+          "answer": "Musí dát přednost v jízdě vozidlům nebo jezdcům na zvířatech nebo organizovanému útvaru chodců nebo průvodcům hnaných zvířat se zvířaty.",
+          "correct": true
+        },
+        {
+          "answer": "Dává přednost v jízdě vozidlům přijíždějícím zleva.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "questionNumber": "Otázka č. 72",
+      "question": "\n            Na jednosměrné pozemní komunikaci smí řidič zastavit a stát:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Pouze vpravo.", "correct": false },
+        { "answer": "Pouze vlevo.", "correct": false },
+        { "answer": "Vpravo i vlevo.", "correct": true }
+      ]
+    },
+    {
+      "id": 72,
+      "questionNumber": "Otázka č. 73",
+      "question": "\n            Při odbočování na křižovatce nebo na místo ležící mimo pozemní komunikaci:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Musí řidič dávat znamení o změně směru jízdy.",
+          "correct": true
+        },
+        {
+          "answer": "Nemusí řidič dávat znamení o změně směru jízdy.",
+          "correct": false
+        },
+        {
+          "answer": "Dává řidič znamení o změně směru jízdy jen při odbočování vlevo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "questionNumber": "Otázka č. 74",
+      "question": "\nJakou minimální hloubku hlavních dezénových drážek nebo zářezů u zimních pneumatik musí mít řidič vozidla do 3500 kg celkové hmotnosti za touto dopravní značkou?",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3427",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "4 mm, a to bez ohledu na datum a aktuální nebo předpokládané povětrnostní podmínky.",
+          "correct": true
+        },
+        {
+          "answer": "4 mm, a to v období od 1. listopadu do 31. března.",
+          "correct": false
+        },
+        {
+          "answer": "1,6 mm, a to v období od 1. dubna do 31. října.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "questionNumber": "Otázka č. 75",
+      "question": "\n            Na krajnici smí řidič motorového vozidla vjet:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Jen pro účely stání.", "correct": false },
+        {
+          "answer": "Kdykoliv to uzná za vhodné, s výjimkou míst označených výstražnou dopravní značkou \"Nebezpečná krajnice\".",
+          "correct": false
+        },
+        {
+          "answer": "Jen při zastavení a stání nebo jestliže je to nutné při objíždění, vyhýbání, odbočování nebo otáčení, přitom musí dbát zvýšené opatrnosti. ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "questionNumber": "Otázka č. 76",
+      "question": "\n            Řidič motorového vozidla, jehož celková hmotnost nepřevyšuje 3.500 kg, smí v obci zastavit a stát:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "I kolmo, popřípadě šikmo k okraji pozemní komunikace nebo zastavit v druhé řadě, pokud tím není ohrožena bezpečnost a plynulost provozu.",
+          "correct": true
+        },
+        {
+          "answer": "I kolmo, popřípadě šikmo k okraji pozemní komunikace; ve druhé řadě smí zastavit pouze řidič vozidla taxislužby.",
+          "correct": false
+        },
+        {
+          "answer": "Pouze vpravo ve směru jízdy rovnoběžně s okrajem pozemní komunikace a co nejblíže k němu; řidič vozidla taxislužby smí zastavit i v druhé řadě.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "questionNumber": "Otázka č. 77",
+      "question": "\nSmíte jako řidič vozidla z výhledu v dané situaci vjet na tento železniční přejezd?",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/1068",
+      "asnwers": [
+        { "answer": "Ano.", "correct": false },
+        { "answer": "Ne.", "correct": true }
+      ]
+    },
+    {
+      "id": 77,
+      "questionNumber": "Otázka č. 78",
+      "question": "\n            Na pozemní komunikaci o třech jízdních pruzích vyznačených na vozovce v jednom směru jízdy smí řidič přejíždět z levého jízdního pruhu do středního jízdního pruhu jen:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Tehdy, neohrozí-li řidiče přejíždějícího do středního jízdního pruhu z pravého jízdního pruhu.",
+          "correct": true
+        },
+        {
+          "answer": "Pokud má jistotu, že neomezí řidiče vozidel jedoucích za ním.",
+          "correct": false
+        },
+        {
+          "answer": "Tehdy, neomezí-li řidiče přejíždějícího do středního jízdního pruhu z pravého jízdního pruhu.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "questionNumber": "Otázka č. 79",
+      "question": "\nMůže \"osoba starší 10 let jedoucí na koloběžce\" přejíždět přes přechod pro chodce:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3493",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "NE, platí pro ni pravidla pro jízdu na jízdním kole.",
+          "correct": true
+        },
+        { "answer": "ANO, platí pro ni pravidla pro chodce.", "correct": false }
+      ]
+    },
+    {
+      "id": 79,
+      "questionNumber": "Otázka č. 80",
+      "question": "\n            Řidič nesmí zastavit a stát:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "V obci na křižovatce tvaru \"T\" na protější straně vyúsťující pozemní komunikace.",
+          "correct": false
+        },
+        {
+          "answer": "Na křižovatce a ve vzdálenosti kratší než 3 m před hranicí křižovatky a 3 m za ní.",
+          "correct": false
+        },
+        {
+          "answer": "Na křižovatce a ve vzdálenosti kratší než 5 m před hranicí křižovatky a 5 m za ní; tento zákaz neplatí v obci na křižovatce tvaru \"T\" na protější straně vyúsťující pozemní komunikace.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "questionNumber": "Otázka č. 81",
+      "question": "\n            Řidič, který při předjíždění motorového vozidla vybočuje ze směru své jízdy,: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "nemusí dávat znamení o změně směru jízdy, pokud při předjíždění neomezí ani neohrozí řidiče jedoucí za ním.",
+          "correct": false
+        },
+        {
+          "answer": "musí dávat znamení o změně směru jízdy a nesmí ohrozit řidiče jedoucího za ním.",
+          "correct": true
+        },
+        {
+          "answer": "dává znamení o změně směru jízdy jen tehdy, pokud řidiče předjížděného vozidla předem neupozornil jiným způsobem.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "questionNumber": "Otázka č. 82",
+      "question": "\n            Dojde-li při jízdě vozidla v tunelu k poruše vozidla, pro kterou se toto vozidlo stalo nepojízdným:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je řidič porouchaného vozidla podle okolností oprávněn zastavovat jiná vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Jsou řidič a přepravované osoby z porouchaného vozidla povinni neprodleně opustit tunel.",
+          "correct": false
+        },
+        {
+          "answer": "Je řidič porouchaného vozidla povinen neprodleně odstranit závadu, která mu brání v další jízdě. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "questionNumber": "Otázka č. 83",
+      "question": "\nJakou nejvyšší rychlostí můžete pokračovat po projetí křižovatky v přímém směru:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3455",
+      "video": null,
+      "asnwers": [
+        { "answer": "50 km/h.", "correct": false },
+        { "answer": "30 km/h.", "correct": false },
+        { "answer": "20 km/h.", "correct": true }
+      ]
+    },
+    {
+      "id": 83,
+      "questionNumber": "Otázka č. 84",
+      "question": "\n            Při couvání řidič nesmí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Kouřit.", "correct": false },
+        {
+          "answer": "Ohrozit ostatní účastníky provozu na pozemní komunikaci.",
+          "correct": true
+        },
+        {
+          "answer": "Omezit ostatní účastníky silničního provozu. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "questionNumber": "Otázka č. 85",
+      "question": "\n            Podél nástupního nebo ochranného ostrůvku se jezdí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Vpravo; vlevo se smí jet tehdy, brání-li jízdě vpravo překážka nebo jestliže je to bezpečnější s ohledem na rozměry vozidla nebo nákladu.",
+          "correct": true
+        },
+        {
+          "answer": "Výlučně vpravo; vlevo za žádných okolností.",
+          "correct": false
+        },
+        { "answer": "Zásadně vlevo. ", "correct": false }
+      ]
+    },
+    {
+      "id": 85,
+      "questionNumber": "Otázka č. 86",
+      "question": "\nŘidič při vjíždění na pozemní komunikaci z místa ležícího mimo pozemní komunikaci musí:",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/2049",
+      "asnwers": [
+        {
+          "answer": "Dát přednost v jízdě ostatním účastníkům provozu na pozemních komunikacích.",
+          "correct": true
+        },
+        {
+          "answer": "Brát ohled na ostatní účastníky provozu na pozemních komunikacích.",
+          "correct": false
+        },
+        {
+          "answer": "Dát přednost v jízdě vozidlům přijíždějícím zprava.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "questionNumber": "Otázka č. 87",
+      "question": "\n            Podél tramvaje se jezdí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Vpravo; vlevo se smí jet pouze tehdy, když v protisměru nejede žádná tramvaj nebo jiné vozidlo.",
+          "correct": false
+        },
+        {
+          "answer": "Vpravo, pokud není dopravní značkou \"Objíždění tramvaje\" povolena jízda vlevo.",
+          "correct": true
+        },
+        { "answer": "Vlevo.", "correct": false }
+      ]
+    },
+    {
+      "id": 87,
+      "questionNumber": "Otázka č. 88",
+      "question": "\n            Na pozemní komunikaci se jezdí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Vpravo ve vzdálenosti nejméně 1 m od okraje vozovky.",
+          "correct": false
+        },
+        {
+          "answer": "Vpravo, a pokud tomu nebrání zvláštní okolnosti, při pravém okraji vozovky, pokud není stanoveno jinak.",
+          "correct": true
+        },
+        {
+          "answer": "Výlučně při pravém okraji vozovky, a to za všech okolností. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "questionNumber": "Otázka č. 89",
+      "question": "\n            Řidič nesmí předjíždět:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "na přechodu pro chodce; na přejezdu pro cyklisty však předjíždět smí.",
+          "correct": false
+        },
+        {
+          "answer": "na přechodu pro chodce nebo na přejezdu pro cyklisty a bezprostředně před nimi.",
+          "correct": true
+        },
+        {
+          "answer": "bezprostředně za přechodem pro chodce nebo za přejezdem pro cyklisty.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "questionNumber": "Otázka č. 90",
+      "question": "\nSignál žlutého světla ve tvaru chodce pro řidiče vozidla z výhledu znamená, že:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3445",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "pokud pokračuje v přímém směru musí umožnit vyobrazenému chodci  přejít přes přechod pro chodce.",
+          "correct": false
+        },
+        {
+          "answer": "může nerušeně a bezpečně odbočit, neboť chodci na uvedený signál nesmí vstupovat do vozovky.",
+          "correct": false
+        },
+        {
+          "answer": "při odbočení vpravo křižuje směr chůze přecházejících chodců.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "questionNumber": "Otázka č. 91",
+      "question": "\n            Řidič při vyjíždění z kruhového objezdu:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je povinen dát znamení o změně směru jízdy vpravo.",
+          "correct": true
+        },
+        {
+          "answer": "Není povinen dát znamení o změně směru jízdy.",
+          "correct": false
+        },
+        {
+          "answer": "Je povinen upozornit ostatní účastníky provozu o svém úmyslu výstražným světelným znamením.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "questionNumber": "Otázka č. 92",
+      "question": "\n            Při odbočování řidič nesmí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Omezit řidiče jedoucí za ním.", "correct": false },
+        {
+          "answer": "Ohrozit řidiče jedoucí za ním a musí dbát zvýšené opatrnosti.",
+          "correct": true
+        },
+        { "answer": "Dávat světelná výstražná znamení.", "correct": false }
+      ]
+    },
+    {
+      "id": 92,
+      "questionNumber": "Otázka č. 93",
+      "question": "\n            Je-li pro zařazování do průběžného jízdního pruhu zřízen připojovací jízdní pruh:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je řidič povinen před zařazením do průběžného pruhu zastavit.",
+          "correct": false
+        },
+        {
+          "answer": "Musí řidič jedoucí v průběžném pruhu snížit rychlost jízdy.",
+          "correct": false
+        },
+        {
+          "answer": "Je řidič povinen před zařazením do průběžného pruhu užít připojovacího pruhu.\n\n",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "questionNumber": "Otázka č. 94",
+      "question": "\nŘidič vozidla z výhledu při objíždění označené překážky v provozu:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3376",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "nesmí omezit cyklistu jedoucího ve vyhrazeném jízdním pruhu.",
+          "correct": true
+        },
+        {
+          "answer": "může omezit cyklistu jedoucího ve vyhrazeném jízdním pruhu.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "questionNumber": "Otázka č. 95",
+      "question": "\n            Je-li dávána výstraha přerušovaným zvukem houkačky nebo zvonku přejezdového zabezpečovacího zařízení, znamená to, že řidič:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Může přejezd bezpečně přejet.", "correct": false },
+        {
+          "answer": "Musí při přejíždění přejezdu dbát zvýšené opatrnosti.",
+          "correct": false
+        },
+        { "answer": "Nesmí vjíždět na železniční přejezd.", "correct": true }
+      ]
+    },
+    {
+      "id": 95,
+      "questionNumber": "Otázka č. 96",
+      "question": "\n            Řidič motorového vozidla smí dávat světelné výstražné znamení krátkým přerušovaným rozsvícením dálkových světel nebo přepínáním potkávacích a dálkových světel:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Jen mimo obec při předjíždění k upozornění řidiče předjížděného vozidla. ",
+          "correct": false
+        },
+        {
+          "answer": "Pouze k odvrácení hrozícího nebezpečí nebo k upozornění řidiče předjížděného vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Pokud chce upozornit ostatní řidiče na silniční kontrolu. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "questionNumber": "Otázka č. 97",
+      "question": "\n            Řidič, který při předjíždění motorového vozidla vybočuje ze směru své jízdy:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nemusí dávat znamení o změně směru jízdy.",
+          "correct": false
+        },
+        {
+          "answer": "Musí dávat znamení o změně směru jízdy.",
+          "correct": true
+        },
+        {
+          "answer": "Dává znamení o změně směru jízdy jen tehdy, vyžaduje-li to bezpečnost provozu.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "questionNumber": "Otázka č. 98",
+      "question": "\n            Při jízdě v tunelu došlo k poruše vozidla, pro kterou se toto vozidlo stalo nepojízdným. Řidič porouchaného vozidla je:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Oprávněn podle okolností zastavovat jiná vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Povinen zapnout výstražné světelné zařízení a neprodleně opustit tunel.",
+          "correct": false
+        },
+        {
+          "answer": "Povinen neprodleně odstranit závadu, která mu brání v další jízdě, nebo nepojízdné vozidlo z tunelu odstranit. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "questionNumber": "Otázka č. 99",
+      "question": "\n            Při použití sněhových řetězů na vozidle smí jet řidič:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Rychlostí nejvýše 30 km.h-1.", "correct": false },
+        { "answer": "Rychlostí nejvýše 80 km.h-1.", "correct": false },
+        { "answer": "Rychlostí nejvýše 50 km.h-1", "correct": true }
+      ]
+    },
+    {
+      "id": 99,
+      "questionNumber": "Otázka č. 100",
+      "question": "\nSvětelný ukazatel nad pozemní komunikací ukazuje: ",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/2935",
+      "asnwers": [
+        {
+          "answer": "Nejvyšší dovolenou rychlost jízdy pro daný jízdní pruh.",
+          "correct": true
+        },
+        {
+          "answer": "Nejvyšší okamžitou rychlost jízdy v daném jízdním pruhu.",
+          "correct": false
+        },
+        {
+          "answer": "Doporučenou rychlost jízdy pro daný jízdní pruh.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "questionNumber": "Otázka č. 101",
+      "question": "\n            Znamení o změně směru jízdy paží se dává:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Po celou dobu jízdního úkonu.", "correct": false },
+        { "answer": "Jen před započetím jízdního úkonu.", "correct": true },
+        { "answer": "Po započetí jízdního úkonu.", "correct": false }
+      ]
+    },
+    {
+      "id": 101,
+      "questionNumber": "Otázka č. 102",
+      "question": "\n            Při zařazování z připojovacího pruhu do průběžného pruhu:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Řidič nesmí omezit řidiče vozidla jedoucího v průběžném pruhu.",
+          "correct": false
+        },
+        {
+          "answer": "Řidič nesmí ohrozit řidiče jedoucí v průběžném pruhu.",
+          "correct": true
+        },
+        {
+          "answer": "Musí řidič jedoucí v připojovacím pruhu dosáhnout stejné rychlosti jako ostatní řidiči.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "questionNumber": "Otázka č. 103",
+      "question": "\n            Může řidič motorového vozidla předjíždět bezprostředně před přechodem pro chodce, pokud dává znamení o změně směru jízdy?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Ano.", "correct": false },
+        { "answer": "Ne.", "correct": true }
+      ]
+    },
+    {
+      "id": 103,
+      "questionNumber": "Otázka č. 104",
+      "question": "\nTechnickou silniční kontrolou se mimo jiné rozumí kontrola technického stavu vozidla. Řidič motorového vozidla je povinen:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3385",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Na výzvu policisty podrobit vozidlo technické silniční kontrole, pouze pokud uplynula doba 1 roku od řádné technické prohlídky vozidla.",
+          "correct": false
+        },
+        {
+          "answer": "Na výzvu policisty podrobit vozidlo technické silniční kontrole.",
+          "correct": true
+        },
+        {
+          "answer": "Na výzvu policisty podrobit vozidlo technické silniční kontrole v případě, kdy vozidlo vykazuje nebezpečnou závadu.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "questionNumber": "Otázka č. 105",
+      "question": "\n            Řidič smí zastavit a stát:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Vpravo ve směru jízdy co nejblíže k okraji pozemní komunikace a na jednosměrné pozemní komunikaci vpravo i vlevo.",
+          "correct": true
+        },
+        { "answer": "Jen vlevo ve směru jízdy.", "correct": false },
+        { "answer": "Jen mimo vozovku.", "correct": false }
+      ]
+    },
+    {
+      "id": 105,
+      "questionNumber": "Otázka č. 106",
+      "question": "\n            V tunelu došlo k poruše motorového vozidla, které se stalo nepojízdným. Jako řidič takového vozidla nesmíte:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Kouřit nebo zacházet s otevřeným ohněm.",
+          "correct": true
+        },
+        { "answer": "Opustit vozidlo.", "correct": false },
+        { "answer": "Zastavovat jiná vozidla.", "correct": false }
+      ]
+    },
+    {
+      "id": 106,
+      "questionNumber": "Otázka č. 107",
+      "question": "\n            Řidič smí na dálnici a na silnici pro motorová vozidla vjíždět a z nich vyjíždět:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Jen na místech k tomu určených.", "correct": true },
+        {
+          "answer": "Z kteréhokoliv místa nebo pozemku přiléhajícího k dálnici nebo silnici pro motorová vozidla.",
+          "correct": false
+        },
+        { "answer": "Kdekoliv.", "correct": false }
+      ]
+    },
+    {
+      "id": 107,
+      "questionNumber": "Otázka č. 108",
+      "question": "\n            Vyžadují-li to okolnosti, zejména není-li znamení o změně směru jízdy dávané směrovými světly nebo paží dostatečně viditelné, například pro šířku nákladu, musí se dávat znamení o změně směru jízdy:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Společně se zvukovým výstražným znamením.",
+          "correct": false
+        },
+        {
+          "answer": "Pouze světelným a zvukovým výstražným znamením.",
+          "correct": false
+        },
+        {
+          "answer": "Jiným zřetelným způsobem, například způsobilou a náležitě poučenou osobou.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "questionNumber": "Otázka č. 109",
+      "question": "\n            Žadatel o řidičské oprávnění smí řídit motorové vozidlo skupiny, o kterou žádá:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "pod dohledem učitele autoškoly.", "correct": true },
+        {
+          "answer": "pod dohledem osoby s nejméně pětiletou praxí v řízení.",
+          "correct": false
+        },
+        {
+          "answer": "pod dohledem rodičů, nebo zákonného zástupce.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "questionNumber": "Otázka č. 110",
+      "question": "\n            Na silnici pro motorová vozidla je vlečení motorového vozidla dovoleno jen tehdy:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Jestliže maximální přípustná hmotnost vlečeného vozidla nepřevyšuje 3.500 kg.",
+          "correct": false
+        },
+        {
+          "answer": "Je-li možno při jízdě po rovině dosáhnout rychlosti nejméně 80 km/h.",
+          "correct": false
+        },
+        {
+          "answer": "Jestliže je to nutné k jeho odstranění z dálnice nebo ze silnice pro motorová vozidla; vozidlo smí být vlečeno jen k nejbližšímu výjezdu, kde musí dálnici nebo silnici pro motorová vozidla opustit. ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "questionNumber": "Otázka č. 111",
+      "question": "\n            Přejíždět z jednoho jízdního pruhu do druhého smí řidič jen tehdy:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "neohrozí-li a neomezí-li řidiče jedoucího v jízdním pruhu, do kterého přejíždí; přitom musí dávat znamení o změně směru jízdy.",
+          "correct": true
+        },
+        {
+          "answer": "neohrozí-li řidiče jedoucího v jízdním pruhu, do kterého přejíždí; znamení o změně směru nedává.",
+          "correct": false
+        },
+        {
+          "answer": "neohrozí-li a neomezí-li řidiče jedoucího v jízdním pruhu, do kterého přejíždí; znamení o změně směru nedává.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "questionNumber": "Otázka č. 112",
+      "question": "\n            Na silnici pro motorová vozidla:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je zakázáno zastavit a stát mimo místa označená jako parkoviště.",
+          "correct": true
+        },
+        {
+          "answer": "Je zakázáno zastavit a stát, s výjimkou míst na krajnici, kde je parkování povoleno.",
+          "correct": false
+        },
+        {
+          "answer": "Je zakázáno stát mimo místa označená jako parkoviště; na krajnici je zde možné zastavit i mimo vyznačené parkoviště.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "questionNumber": "Otázka č. 113",
+      "question": "\nPokud přijíždíte na tuto křižovatku, musíte dát přednost: ",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/2204",
+      "asnwers": [
+        {
+          "answer": "Všem vozidlům, jezdcům na zvířatech, organizované skupině chodců a průvodcům hnaných zvířat se zvířaty přibližujícím se ke křižovatce po hlavní pozemní komunikaci.",
+          "correct": true
+        },
+        {
+          "answer": "Všem vozidlům, jezdcům na zvířatech a organizované skupině chodců přibližujícím se ke křižovatce po hlavní pozemní komunikaci. Průvodci hnaných zvířat se zvířaty musí dát přednost vám.",
+          "correct": false
+        },
+        {
+          "answer": "Všem vozidlům a jezdcům na zvířatech přibližujícím se ke křižovatce po hlavní pozemní komunikaci. Organizovaná skupina chodců a průvodci hnaných zvířat se zvířaty musí dát přednost vám.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "questionNumber": "Otázka č. 114",
+      "question": "\n            Nesvítí-li přerušované bílé světlo signálu přejezdového zabezpečovacího zařízení, smí řidič ve vzdálenosti 50 m před železničním přejezdem a při jeho přejíždění jet rychlostí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Nejvýše 30 km/h.", "correct": true },
+        { "answer": "Nejvýše 50 km/h.", "correct": false },
+        { "answer": "Nejméně 30 km/h.", "correct": false }
+      ]
+    },
+    {
+      "id": 114,
+      "questionNumber": "Otázka č. 115",
+      "question": "\n            V  obci  na pozemní  komunikaci  o  dvou  nebo více jízdních pruzích vyznačených    na vozovce v jednom směru jízdy smí řidič motorového vozidla užívat k jízdě:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Jen pravého a středního jízdního pruhu; nejkrajnější levý jízdní pruh se užívá pouze pro odbočování.",
+          "correct": false
+        },
+        {
+          "answer": "Kteréhokoliv jízdního pruhu; přitom se nepovažuje za předjíždění, jedou-li vozidla v jednom z jízdních pruhů rychleji než vozidla v jiném jízdním pruhu.",
+          "correct": true
+        },
+        { "answer": "Jen pravého jízdního pruhu.", "correct": false }
+      ]
+    },
+    {
+      "id": 115,
+      "questionNumber": "Otázka č. 116",
+      "question": "\n            Řidiči protijedoucích vozidel se vyhýbají:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Vpravo, včas a v dostatečné míře.", "correct": true },
+        { "answer": "Zásadně vlevo.", "correct": false },
+        {
+          "answer": "Tak, aby zachovali boční odstup alespoň 2 m.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "questionNumber": "Otázka č. 117",
+      "question": "\n            Vozidla se před železničním přejezdem řadí:\n\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Náhodně.", "correct": false },
+        { "answer": "Za sebou v pořadí, ve kterém přijela.", "correct": true },
+        {
+          "answer": "Tak, aby všichni řidiči měli náležitý výhled na železniční přejezd.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "questionNumber": "Otázka č. 118",
+      "question": "\nNa obrázku jsou kruhy seřazené:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/174",
+      "video": null,
+      "asnwers": [
+        { "answer": "Do dvojic", "correct": true },
+        { "answer": "Kruhy bílé a červené", "correct": false },
+        { "answer": "Je zde 8 kruhů", "correct": false },
+        { "answer": "Bílé kruhy jsou ve spodní řadě", "correct": false }
+      ]
+    },
+    {
+      "id": 118,
+      "questionNumber": "Otázka č. 119",
+      "question": "\n            Řidič vozidla, který nehodlá nebo nemůže projet podél tramvaje vpravo:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Musí za ní jet v takové vzdálenosti, aby umožnil projetí podél tramvaje ostatním řidičům.",
+          "correct": true
+        },
+        {
+          "answer": "Musí pokračovat v jízdě za tramvají až na takové místo, kde lze podél tramvaje projet vpravo.",
+          "correct": false
+        },
+        {
+          "answer": "Musí zastavit vozidlo a umožnit ostatním řidičům projetí podél tramvaje.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "questionNumber": "Otázka č. 120",
+      "question": "\n            Jako řidič motorového vozidla musíte v zimě před vyjetím očistit vozidlo od nečistot, sněhu a námrazy, které:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "zabraňují výhledu z místa řidiče vpřed a do stran.",
+          "correct": false
+        },
+        {
+          "answer": "zabraňují výhledu z místa řidiče vpřed, vzad a do stran. ",
+          "correct": true
+        },
+        {
+          "answer": "zabraňují výhledu z místa řidiče vpřed a vzad.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "questionNumber": "Otázka č. 121",
+      "question": "\n            Předjíždí se:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Vlevo, a to bez výjimky.", "correct": false },
+        {
+          "answer": "Vpravo nebo vlevo, podle toho, kde je v dané situaci více prostoru pro bezpečné předjetí. ",
+          "correct": false
+        },
+        {
+          "answer": "Vlevo; vpravo se předjíždí vozidlo, které mění směr jízdy vlevo a není-li již pochybnosti o dalším směru jeho jízdy.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "questionNumber": "Otázka č. 122",
+      "question": "\n            Řidič jízdní soupravy, jejíž celková délka přesahuje 7 m, nesmí předjíždět jiné vozidlo:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Pokud k jeho předjetí nemá dostatečnou rychlost, takže by omezil v jízdě ostatní vozidla svou výrazně nižší rychlostí jízdy.",
+          "correct": true
+        },
+        {
+          "answer": "Nejede-li jím řízené vozidlo rychlostí alespoň 50 km/h.",
+          "correct": false
+        },
+        { "answer": "Pokud je výrazně snížena viditelnost.", "correct": false }
+      ]
+    },
+    {
+      "id": 122,
+      "questionNumber": "Otázka č. 123",
+      "question": "\nŘidič vozidla z výhledu hodlá pokračovat v jízdě po hlavní pozemní komunikaci. Přitom:",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3407",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "musí dát znamení o změně směru jízdy vlevo.",
+          "correct": true
+        },
+        {
+          "answer": "musí dát znamení o změně směru jízdy vpravo.",
+          "correct": false
+        },
+        {
+          "answer": "nemusí dát znamení o změně směru jízdy.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "questionNumber": "Otázka č. 124",
+      "question": "\n            Při vjíždění na kruhový objezd a jízdě po kruhovém objezdu:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Řidič dává vždy znamení o změně směru jízdy.",
+          "correct": false
+        },
+        {
+          "answer": "Řidič nedává znamení o změně směru jízdy, nepřejíždí-li z jednoho jízdního pruhu do druhého.",
+          "correct": true
+        },
+        {
+          "answer": "Řidič nedává znamení o změně směru jízdy ani při přejíždění z pruhu do pruhu.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "questionNumber": "Otázka č. 125",
+      "question": "\n            V obci smí řidič vozidla o celkové hmotnosti nepřevyšující 3.500 kg zastavit a stát kolmo, popřípadě šikmo k okraji pozemní komunikace jen:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nedojde-li k ohrožení bezpečnosti a plynulosti silničního provozu.",
+          "correct": true
+        },
+        {
+          "answer": "Zůstane-li při stání volný alespoň jeden pruh široký nejméně 2 m.",
+          "correct": false
+        },
+        {
+          "answer": "Zůstane-li při zastavení volný alespoň jeden jízdní pruh široký 2,5 m.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "questionNumber": "Otázka č. 126",
+      "question": "\n            Motorové vozidlo musí mít za jízdy:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Zavřena boční okna.", "correct": false },
+        { "answer": "Vždy rozsvícena všechna světla.", "correct": false },
+        {
+          "answer": "Rozsvícena obrysová světla a potkávací světla nebo světla pro denní svícení, pokud je jimi vybaveno podle zvláštního právního předpisu.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "questionNumber": "Otázka č. 127",
+      "question": "\n            Řidič na pozemní komunikaci s jednosměrným provozem:\n\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Smí couvat, jestliže je to nezbytně nutné, například k zajetí do řady stojících vozidel nebo vyjetí z ní.",
+          "correct": true
+        },
+        {
+          "answer": "Nesmí couvat, i když je to nezbytně nutné, například k zajetí do řady stojících vozidel nebo vyjetí z ní.",
+          "correct": false
+        },
+        {
+          "answer": "Smí couvat, jestliže je tato pozemní komunikace široká nejméně 6 metrů.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "questionNumber": "Otázka č. 128",
+      "question": "\n            Dojde-li při jízdě vozidla v tunelu k poruše vozidla, pro kterou se toto vozidlo stalo nepojízdným, nebo dojde-li k dopravní nehodě, je řidič povinen neprodleně:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Opustit tunel.", "correct": false },
+        {
+          "answer": "Vypnout motor, a je-li k vytápění vozidla použito nezávislého topení, vypnout i toto topení.",
+          "correct": true
+        },
+        { "answer": "Vypnout osvětlení vozidla.", "correct": false }
+      ]
+    },
+    {
+      "id": 128,
+      "questionNumber": "Otázka č. 129",
+      "question": "\n            S kamarády jste se ve večerních hodinách zúčastnil oslavy a v době od 20:00 do 24:00 hodin jste vypil šest 12 stupňových piv (6 x 0,5 litru) a 5 velkých panáků (5 x 40 ml) tvrdého alkoholu. Můžete ráno v 5:00 hodin po vydatné snídani a studené sprše bez obav řídit vozidlo? \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Ne.", "correct": true },
+        { "answer": "Ano.", "correct": false }
+      ]
+    },
+    {
+      "id": 129,
+      "questionNumber": "Otázka č. 130",
+      "question": "\n            Řidič nesmí překročit:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nejvyšší povolenou rychlost vozidla, a jde-li o jízdní soupravu, nejvyšší povolenou rychlost žádného z vozidel soupravy.",
+          "correct": true
+        },
+        {
+          "answer": "Nejvyšší povolenou rychlost vozidla, a jde-li o jízdní soupravu, nemusí brát zřetel na nejvyšší povolenou rychlost přípojného vozidla.",
+          "correct": false
+        },
+        {
+          "answer": "Nejvyšší povolenou rychlost vozidla, a jde-li o jízdní soupravu, musí  brát zřetel jen na nejvyšší povolenou rychlost přípojného vozidla.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "questionNumber": "Otázka č. 131",
+      "question": "\n            Je-li dávána výstraha dvěma červenými střídavě přerušovanými světly signálu přejezdového zabezpečovacího zařízení, znamená to, že řidič:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Nesmí vjíždět na železniční přejezd.", "correct": true },
+        { "answer": "Smí vjíždět na železniční přejezd.", "correct": false },
+        {
+          "answer": "Musí zapnout výstražné světelné zařízení.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "questionNumber": "Otázka č. 132",
+      "question": "\nSmí se řidič vozidla z výhledu otočit do protisměru přes tramvajový pás?",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3459",
+      "video": null,
+      "asnwers": [
+        { "answer": "Ano.", "correct": true },
+        { "answer": "Ne.", "correct": false }
+      ]
+    },
+    {
+      "id": 132,
+      "questionNumber": "Otázka č. 133",
+      "question": "\n            Podél tramvaje se jezdí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Vpravo i vlevo, pokud je tramvajový pás ve stejné úrovni s vozovkou.",
+          "correct": false
+        },
+        {
+          "answer": "Vpravo; vlevo smí řidič jet v případě, stojí-li tramvaj v zastávce.",
+          "correct": false
+        },
+        {
+          "answer": "Vpravo, pokud není dopravní značkou \"Objíždění tramvaje\" povolena jízda vlevo.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "questionNumber": "Otázka č. 134",
+      "question": "\nŘidiči motorových vozidel mohou vjet do vyznačeného středního pruhu pozemní komunikace:",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/2941",
+      "asnwers": [
+        {
+          "answer": "Kdykoliv, pokud tramvaj neomezí v jízdě nebo jej užít k předjíždění tramvaje, která stojí v zastávce.",
+          "correct": false
+        },
+        {
+          "answer": "Při předjíždění pomaleji jedoucích motorových vozidel, ale musí dávat včas znamení o změně směru jízdy.",
+          "correct": false
+        },
+        {
+          "answer": "Pouze tehdy, pokud je to nutné k objíždění, odbočování nebo vjíždění na  pozemní komunikaci.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "questionNumber": "Otázka č. 135",
+      "question": "\n            Nastupovat do vozidla nebo vystupovat z něj se smí jen tehdy:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Zastaví-li vozidlo v obci na místě k tomu určeném, například na parkovišti.",
+          "correct": false
+        },
+        {
+          "answer": "Není-li tím ohrožena bezpečnost nastupujících nebo vystupujících osob bez ohledu na ostatní účastníky provozu na pozemních komunikacích.",
+          "correct": false
+        },
+        {
+          "answer": "Není-li tím ohrožena bezpečnost nastupujících nebo vystupujících osob ani jiných účastníků provozu na pozemních komunikacích.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "questionNumber": "Otázka č. 136",
+      "question": "\n            Vozidlo vjíždějící na pozemní komunikaci:\n \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Musí být předem očištěno tak, aby neznečišťovalo pozemní komunikaci.",
+          "correct": true
+        },
+        {
+          "answer": "Musí být v případě, že tak lze učinit bez větších obtíží, předem očištěno.",
+          "correct": false
+        },
+        {
+          "answer": "Musí být očištěno na nejbližším vhodném místě po vjetí na pozemní komunikaci. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "questionNumber": "Otázka č. 137",
+      "question": "\n            Zajíždí-li řidič za účelem zastavení nebo stání k okraji pozemní komunikace nebo k chodníku:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nemusí dávat znamení o změně směru jízdy.",
+          "correct": false
+        },
+        {
+          "answer": "Nemusí dávat znamení o změně směru jízdy, pokud neohrozí nebo neomezí vozidla jedoucí za ním.",
+          "correct": false
+        },
+        { "answer": "Musí dávat znamení o změně směru jízdy.", "correct": true }
+      ]
+    },
+    {
+      "id": 137,
+      "questionNumber": "Otázka č. 138",
+      "question": "\n            Řidič smí jet jen takovou rychlostí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Aby byl schopen zastavit vozidlo, když mu nedá jiný řidič přednost v jízdě.",
+          "correct": false
+        },
+        {
+          "answer": "Aby byl schopen zastavit vozidlo na vzdálenost 100 m.",
+          "correct": false
+        },
+        {
+          "answer": "Aby byl schopen zastavit vozidlo na vzdálenost, na kterou má rozhled.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "questionNumber": "Otázka č. 139",
+      "question": "\nSmí řidič z výhledu zastavit vozidlo na přechodu pro chodce, aby měl náležitý výhled do křižovatky?",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3415",
+      "video": null,
+      "asnwers": [
+        { "answer": "ano", "correct": true },
+        { "answer": "ne", "correct": false }
+      ]
+    },
+    {
+      "id": 139,
+      "questionNumber": "Otázka č. 140",
+      "question": "\n            Rychlost jízdy musí řidič přizpůsobit:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Zdravotnímu stavu spolujezdců.", "correct": false },
+        { "answer": "Ročnímu období.", "correct": false },
+        {
+          "answer": "Předpokládanému stavebnímu a dopravně technickému stavu pozemní komunikace.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "questionNumber": "Otázka č. 141",
+      "question": "\nJe-li pro zařazování do průběžného jízdního pruhu zřízen připojovací pruh:",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/133",
+      "asnwers": [
+        {
+          "answer": "Je řidič povinen před zařazením do průběžného pruhu užít připojovacího pruhu.",
+          "correct": true
+        },
+        {
+          "answer": "Nemusí ho řidič před zařazením do průběžného pruhu užít, pokud přejetím do průběžného pruhu neomezí ani neohrozí ostatní řidiče.",
+          "correct": false
+        },
+        {
+          "answer": "Je řidič povinen před zařazením do průběžného jízdního pruhu dosáhnout rychlosti nejméně 80 km/h. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "questionNumber": "Otázka č. 142",
+      "question": "\n            Na dálnici a na silnici pro motorová vozidla je vlečení motorového vozidla dovoleno jen tehdy:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je-li vlečeno po krajnici (v odstavném pruhu).",
+          "correct": false
+        },
+        {
+          "answer": "Je-li možno při jízdě po rovině dosáhnout rychlosti nejméně 60 km/h.",
+          "correct": false
+        },
+        {
+          "answer": "Jestliže je to nutné k jeho odstranění z dálnice nebo ze silnice pro motorová vozidla; vozidlo smí být vlečeno jen k nejbližšímu výjezdu, kde musí dálnici nebo silnici pro motorová vozidla opustit. ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "questionNumber": "Otázka č. 143",
+      "question": "\nJak se zachová řidič vozidla z výhledu odbočujícího na pozemní komunikaci vpravo?",
+      "image": "https://etesty2.mdcr.cz/Content/ImageQuestion/3495",
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nesmí ohrozit chodce přecházejícího pozemní komunikaci a musí dbát zvýšené opatrnosti vůči osobě s omezenou schopností orientace.",
+          "correct": true
+        },
+        {
+          "answer": "Nemusí na tuto osobu brát zvláštní ohled, protože se nenachází na přechodu pro chodce.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "questionNumber": "Otázka č. 144",
+      "question": "\n            Autobus s označením \"Označení autobusu přepravujícího děti\" zastavil v označené zastávce. Řidič vozidla, které jede za ním:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je povinen zastavit vozidlo za tímto autobusem a pokračovat v jízdě může až po odjezdu autobusu ze zastávky.",
+          "correct": true
+        },
+        {
+          "answer": "Smí tento autobus objet, pokud při tom dbá zvýšené opatrnosti a přihlédne k možnosti vběhnutí dětí do vozovky.",
+          "correct": false
+        },
+        {
+          "answer": "Smí autobus objet, jen pokud mu dopravce dává znamení, že je možné autobus bezpečně objet.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "questionNumber": "Otázka č. 145",
+      "question": "\nSvětelný ukazatel nad pozemní komunikací ukazuje:",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/2951",
+      "asnwers": [
+        {
+          "answer": "Nejvyšší dovolenou rychlost jízdy v daném úseku.",
+          "correct": true
+        },
+        {
+          "answer": "Nejnižší dovolenou rychlost jízdy v daném úseku.",
+          "correct": false
+        },
+        {
+          "answer": "Okamžitou rychlost jízdy vozidel, která projíždějí daným úsekem.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "questionNumber": "Otázka č. 146",
+      "question": "\n            Řidič nesmí předjíždět:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "nemá-li před sebe rozhled na takovou vzdálenost, která je nutná k bezpečnému předjetí.",
+          "correct": true
+        },
+        {
+          "answer": "nemá-li před sebe rozhled na vzdálenost nutnou k bezpečnému předjetí; to neplatí na jednosměrné pozemní komunikaci a při předjíždění cyklistů.",
+          "correct": false
+        },
+        { "answer": "v noci.", "correct": false }
+      ]
+    },
+    {
+      "id": 146,
+      "questionNumber": "Otázka č. 147",
+      "question": "\n            Ustanovení o provozu na dálnici platí: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Jen pro dálnice.", "correct": false },
+        {
+          "answer": "Pro dálnici a silnici pro motorová vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Pro všechny pozemní komunikace, s výjimkou místních komunikací.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "questionNumber": "Otázka č. 148",
+      "question": "\n            V tunelu došlo k poruše motorového vozidla, které se stalo nepojízdným. Jako řidič takového vozidla nesmíte:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Kouřit ani zacházet s otevřeným ohněm.", "correct": true },
+        {
+          "answer": "Kouřit; zacházet s otevřeným ohněm v tunelu smíte, pokud je to nezbytné k odstranění závady vozidla.",
+          "correct": false
+        },
+        {
+          "answer": "Zacházet s otevřeným ohněm; kouřit v tunelu smíte jen na místech označených jako únikové východy.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "questionNumber": "Otázka č. 149",
+      "question": "\n            Přejíždět z jednoho jízdního pruhu do druhého smí řidič jen tehdy:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Neomezí-li řidiče jedoucího v jízdním pruhu, do kterého přejíždí; znamení o změně směru nedává.",
+          "correct": false
+        },
+        {
+          "answer": "Neohrozí-li řidiče jedoucího v jízdním pruhu, do kterého přejíždí; znamení o změně směru nedává.",
+          "correct": false
+        },
+        {
+          "answer": "Neohrozí-li a neomezí-li řidiče jedoucího v jízdním pruhu, do kterého přejíždí; přitom musí dávat znamení o změně směru jízdy.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "questionNumber": "Otázka č. 150",
+      "question": "\n            Řidič nesmí zastavit a stát:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "V připojovacím pruhu, nejméně 50 m před místem připojení k průběžnému pruhu.",
+          "correct": false
+        },
+        { "answer": "Jen v odbočovacím pruhu.", "correct": false },
+        { "answer": "V připojovacím nebo odbočovacím pruhu.", "correct": true }
+      ]
+    },
+    {
+      "id": 150,
+      "questionNumber": "Otázka č. 151",
+      "question": "\n            Řidiči protijedoucích vozidel se vyhýbají:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Vlevo, včas a v dostatečné míře.", "correct": false },
+        {
+          "answer": "Vpravo, při zachování minimálního bočního odstupu 1 m.",
+          "correct": false
+        },
+        { "answer": "Vpravo, včas a v dostatečné míře.", "correct": true }
+      ]
+    },
+    {
+      "id": 151,
+      "questionNumber": "Otázka č. 152",
+      "question": "\n            Na dálnici a na silnici pro motorová vozidla je zastavení a stání dovoleno:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Jen na místech označených jako parkoviště.",
+          "correct": true
+        },
+        {
+          "answer": "Jen na krajnici nebo na středním dělícím pásu.",
+          "correct": false
+        },
+        {
+          "answer": "Kdekoliv, pokud tím nejsou ohroženi ani omezeni řidiči ostatních vozidel jedoucích po dálnici nebo silnici pro motorová vozidla. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "questionNumber": "Otázka č. 153",
+      "question": "\n            Dojde-li během jízdy na dálnici na vozidle nebo nákladu k závadě, pro kterou nelze dosáhnout na rovině rychlosti nejméně 80 km/h, musí řidič:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Opustit dálnici na nejbližším výjezdu.", "correct": true },
+        {
+          "answer": "Vozidlo okamžitě odstavit na krajnici a označit jako překážku provozu. ",
+          "correct": false
+        },
+        {
+          "answer": "Přejet do jízdního pruhu pro pomalá vozidla a v něm pokračovat v jízdě.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "questionNumber": "Otázka č. 154",
+      "question": "\n            Řidiči je na dálnici a na silnici pro motorová vozidla zakázáno:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Otáčení, couvání a vjíždění na střední dělicí pás včetně míst, kde je pás přerušen.",
+          "correct": true
+        },
+        {
+          "answer": "Couvání; vjíždění na střední dělicí pás a otáčení je dovoleno jen v místech, kde je tento pás přerušen.",
+          "correct": false
+        },
+        {
+          "answer": "Otáčení; couvání a vjíždění na střední dělicí pás je dovoleno jen v místech, kde tento pás není přerušen.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "questionNumber": "Otázka č. 155",
+      "question": "\n            Řidič vozidla jedoucí za jiným vozidlem:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nemusí ponechávat za ním dostatečnou bezpečnostní vzdálenost, pokud to nevyžaduje dopravní situace.",
+          "correct": false
+        },
+        {
+          "answer": "Musí za ním ponechat dostatečnou bezpečnostní vzdálenost, aby se mohl vyhnout srážce v případě náhlého snížení rychlosti nebo náhlého zastavení vozidla, které jede před ním.",
+          "correct": true
+        },
+        {
+          "answer": "Musí ponechat za ním dostatečnou bezpečnostní vzdálenost pouze v nepřehledných úsecích pozemní komunikace.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "questionNumber": "Otázka č. 156",
+      "question": "\nŘidič předjížděného vozidla:",
+      "image": [],
+      "video": "https://etesty2.mdcr.cz/Content/ImageQuestion/1773",
+      "asnwers": [
+        {
+          "answer": "Nesmí zvyšovat rychlost ani jinak bránit předjíždění.",
+          "correct": true
+        },
+        {
+          "answer": "Může zvyšovat rychlost a bránit i jinak v předjíždění.",
+          "correct": false
+        },
+        {
+          "answer": "Může zvyšovat rychlost, pokud má silnější vozidlo.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "questionNumber": "Otázka č. 157",
+      "question": "\n            Před železničním přejezdem, u kterého je umístěna dopravní značka \"Stůj, dej přednost v jízdě!\", musí řidič zastavit vozidlo:\n\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Na takovém místě, odkud má náležitý rozhled na trať.",
+          "correct": true
+        },
+        {
+          "answer": "Nejdále 5 m za touto dopravní značkou.",
+          "correct": false
+        },
+        {
+          "answer": "Nejméně 5 m před železničním přejezdem.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "questionNumber": "Otázka č. 158",
+      "question": "\n            Na silniční vegetaci, pokud to není povoleno místní úpravou na pozemní komunikaci:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Řidič může zastavit na dobu nezbytně nutnou.",
+          "correct": false
+        },
+        { "answer": "Řidič nesmí zastavit a stát.", "correct": true },
+        { "answer": "Řidič může zastavit, nikoli však stát.", "correct": false }
+      ]
+    },
+    {
+      "id": 158,
+      "questionNumber": "Otázka č. 159",
+      "question": "\n            Podél nástupního ostrůvku nebo ochranného ostrůvku se jezdí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "vpravo i vlevo, pokud je nástupní ostrůvek nebo ochranný ostůvek ve stejné úrovni s vozovkou.",
+          "correct": false
+        },
+        {
+          "answer": "vpravo; vlevo se smí jet jen při předjíždění nebo odbočování vlevo.",
+          "correct": false
+        },
+        {
+          "answer": "vpravo; vlevo se smí jet jen tehdy, brání-li jízdě vpravo překážka nebo jestliže je to bezpečnější s ohledem na rozměry vozidla nebo nákladu.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,729 @@
+{
+  "title": "Podmínky provozu vozidel",
+  "numberOfQuestions": " 37",
+  "data": [
+    {
+      "id": 0,
+      "questionNumber": "Otázka č. 1",
+      "question": "\n            Na tabulku registrační značky:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nesmí být umístěny žádné nápisy nebo vyobrazení, které by narušily její čitelnost nebo rozlišovací schopnost, není-li stanoveno jinak.",
+          "correct": true
+        },
+        {
+          "answer": "Smí být umístěny pouze státní znak České republiky nebo vyobrazení státní vlajky České republiky.",
+          "correct": false
+        },
+        {
+          "answer": "Smí být umisťovány pouze předměty, jejichž plocha nepřesahuje 5 cm2.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "questionNumber": "Otázka č. 2",
+      "question": "\n            V těsné blízkosti tabulky registrační značky:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Nesmí být umístěny žádné nápisy nebo vyobrazení, které by narušily její čitelnost nebo rozlišovací schopnost, není-li stanoveno jinak.",
+          "correct": true
+        },
+        {
+          "answer": "Lze umístit pouze drobné ozdobné předměty nebo nápisy, pokud jimi tabulka registrační značky není překryta.",
+          "correct": false
+        },
+        {
+          "answer": "Lze umístit pouze reklamní nápisy, které nelze zaměnit s číselným kódem na registrační značce.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionNumber": "Otázka č. 3",
+      "question": "\n            Úprava barvy světla vyzařovaného světelným zařízením vozidla je:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Zakázána.", "correct": true },
+        {
+          "answer": "Povolena pouze záměnou žárovky jiné barvy.",
+          "correct": false
+        },
+        {
+          "answer": "Je možná změna jiným způsobem, např. přestříkáním.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionNumber": "Otázka č. 4",
+      "question": "\n            K pravidelné technické prohlídce může přistavit vozidlo:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Jakákoliv osoba, které je vozidlo svěřeno.",
+          "correct": true
+        },
+        { "answer": "Pouze provozovatel vozidla.", "correct": false },
+        { "answer": "Pouze vlastník vozidla.", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "questionNumber": "Otázka č. 5",
+      "question": "\n            Pokud je technickou prohlídkou silničního vozidla shledána nebezpečná závada:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Vozidlo je technicky nezpůsobilé k provozu a nesmí být v provozu používáno.",
+          "correct": true
+        },
+        {
+          "answer": "Vozidlo je technicky způsobilé k provozu pouze na dobu 30 dnů.  ",
+          "correct": false
+        },
+        {
+          "answer": "Stanice kontroly technického stavu vozidla je povinna závadu odstranit. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionNumber": "Otázka č. 6",
+      "question": "\n            Stanice technické kontroly může při pravidelné technické prohlídce:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Seřizovat světlomety, pokud se jedná o jednoduché seřízení.",
+          "correct": true
+        },
+        {
+          "answer": "Seřizovat řídící funkce motoru u motorů s řízeným emisním systémem.",
+          "correct": false
+        },
+        {
+          "answer": "Seřizovat brzdovou soustavu, řízení a nápravu.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionNumber": "Otázka č. 7",
+      "question": "\n            Za přestavbu silničního vozidla se považuje:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Změna nebo úprava podstatných částí mechanismu nebo konstrukce provozovaného silničního vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Výměna podstatné části mechanizmu nebo konstrukce silničního vozidla za náhradní díl k vozidlu.",
+          "correct": false
+        },
+        {
+          "answer": "Nahrazení nebo doplnění vozidla součástí nebo výbavou, která splňuje podmínky stanovené zákonem.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionNumber": "Otázka č. 8",
+      "question": "\n            Proděravěním kontrolní nálepky, osvědčující technickou způsobilost vozidla, se vyznačuje:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Rok provedení příští pravidelné technické prohlídky.",
+          "correct": false
+        },
+        {
+          "answer": "Rok a měsíc, do kterého platí osvědčení o technické způsobilosti vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Rok, měsíc a den provedení příští pravidelné technické prohlídky.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionNumber": "Otázka č. 9",
+      "question": "\n            Historickým vozidlem je: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Vozidlo, které je zapsáno v registru historických a sportovních vozidel a kterému byl vydán průkaz historického vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Vozidlo, které nesmí být použito k provozu na pozemních komunikacích.",
+          "correct": false
+        },
+        {
+          "answer": "Každé vozidlo, jehož konstrukce neodpovídá technickým požadavkům na nově vyráběná vozidla. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionNumber": "Otázka č. 10",
+      "question": "\n            Nově registrovaná přípojná vozidla:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Mají registrační značku shodnou s tažným vozidlem.",
+          "correct": false
+        },
+        { "answer": "Nemusí mít žádnou registrační značku.", "correct": false },
+        {
+          "answer": "Mají po zaregistrování svou přidělenou registrační značku.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionNumber": "Otázka č. 11",
+      "question": "\n            K pohonu motorů vozidel se smí používat:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Pouze pohonné hmoty předepsané výrobcem těchto motorů.",
+          "correct": true
+        },
+        {
+          "answer": "Pohonné hmoty nesplňující požadavky na jakost, umožní-li spolehlivý provoz těchto motorů.",
+          "correct": false
+        },
+        {
+          "answer": "Pouze pohonné hmoty předepsané výrobcem těchto motorů nebo pohonné hmoty s nižším oktanovým číslem.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionNumber": "Otázka č. 12",
+      "question": "\n            Pokud je technickou prohlídkou vozidlo shledáno technicky nezpůsobilé : \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Stanice technické kontroly provede zápis do technického průkazu a odstraní ze zadní tabulky registrační značky kontrolní nálepku. ",
+          "correct": true
+        },
+        {
+          "answer": "Předá protokol o zjištěné závadě na motorovém vozidle provozovateli vozidla, který je povinen tuto závadu odstranit do 30 dnů.",
+          "correct": false
+        },
+        {
+          "answer": "Předá protokol o zjištěné závadě na motorovém vozidle Policii ČR. ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionNumber": "Otázka č. 13",
+      "question": "\n            Činná plocha pláště pneumatiky v provozu musí mít po celém obvodu a v celé šíři vrchního běhounu jasně viditelný dezén s hloubkou hlavních dezénových drážek:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "U všech vozidel nejméně 1,0 mm.", "correct": false },
+        {
+          "answer": "U osobních vozidel 1,5 mm a u nákladních vozidel 2,0 mm.",
+          "correct": false
+        },
+        {
+          "answer": "U mopedů nejméně 1,0 mm a u vozidel ostatních kategorií nejméně 1,6 mm.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionNumber": "Otázka č. 14",
+      "question": "\n            Nesvítí-li potkávací světlo na straně přivrácené do středu vozovky:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "vozidlo smí být užito v provozu pouze při rychlosti jízdy maximálně 40 km/h.",
+          "correct": false
+        },
+        {
+          "answer": "vozidlo smí být užito v silničním provozu bez omezení.",
+          "correct": false
+        },
+        {
+          "answer": "vozidlo nesmí být užito v provozu na pozemních komunikacích, s výjimkou nouzového dojetí.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionNumber": "Otázka č. 15",
+      "question": "\n            Evidenční kontrola silničního vozidla prováděná stanicí technické kontroly spočívá v:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Porovnání údajů uvedených v technickém průkazu silničního vozidla a v osvědčení o registraci vozidla se skutečnými údaji a stavem vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Porovnání údajů uvedených v řidičském průkazu řidiče motorového vozidla s údaji uvedenými v jeho občanském průkazu.",
+          "correct": false
+        },
+        {
+          "answer": "Seřízení brzdové soustavy, řízení, podvozku, světelného zařízení a světelné signalizace.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionNumber": "Otázka č. 16",
+      "question": "\n            Nesvítí-li zadní obrysové světlo na straně přivrácené do středu vozovky:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "vozidlo smí být užito v provozu pouze při rychlosti jízdy maximálně 40 km/h.",
+          "correct": false
+        },
+        {
+          "answer": "vozidlo smí být užito v silničním provozu bez omezení.",
+          "correct": false
+        },
+        {
+          "answer": "vozidlo nesmí být užito v provozu na pozemních komunikacích, s výjimkou nouzového dojetí.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "questionNumber": "Otázka č. 17",
+      "question": "\n            V technickém průkazu silničního motorového vozidla a přípojného vozidla: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Není povoleno neoprávněným osobám provádět jakékoliv záznamy nebo změny.",
+          "correct": true
+        },
+        {
+          "answer": "Mohou neoprávněné osoby provádět změny pouze u údajů, u nichž je patrné, že jsou uvedeny chybně.",
+          "correct": false
+        },
+        {
+          "answer": "Může provádět změny kdokoliv, pokud to nejpozději do 30 dnů od provedení změny oznámí příslušnému obecnímu úřadu obce s rozšířenou působností.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "questionNumber": "Otázka č. 18",
+      "question": "\n            Historickým vozidlem je: \n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Vozidlo, které je zapsáno v registru historických a sportovních vozidel a kterému byl vydán průkaz historického vozidla.",
+          "correct": true
+        },
+        { "answer": "Každé vozidlo starší než 15 let.", "correct": false },
+        { "answer": "Každé vozidlo starší než 20 let. ", "correct": false }
+      ]
+    },
+    {
+      "id": 18,
+      "questionNumber": "Otázka č. 19",
+      "question": "\n            Zjistí-li se při pravidelné technické prohlídce jedna \"vážná závada\" (stupně \"B\"), je vozidlo:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Nezpůsobilé k provozu. ", "correct": false },
+        { "answer": "Způsobilé k provozu na dobu 3 měsíců.", "correct": false },
+        {
+          "answer": "Způsobilé k provozu na dobu 30 dnů ode dne vyznačení zápisu výsledku technické prohlídky silničního vozidla v technickém průkazu vozidla.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "questionNumber": "Otázka č. 20",
+      "question": "\n            Pokud je na silničním vozidle shledána vážná závada, je vozidlo:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Technicky způsobilé k provozu pouze na dobu 30 dnů ode dne vyznačení zápisu výsledku technické prohlídky silničního vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Technicky nezpůsobilé k provozu po dobu nutnou k odstranění závady ode dne vyznačení zápisu výsledku technické prohlídky silničního vozidla.",
+          "correct": false
+        },
+        {
+          "answer": "Technicky nezpůsobilé k provozu na pozemních komunikacích ode dne vyznačení zápisu výsledku technické prohlídky silničního vozidla.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "questionNumber": "Otázka č. 21",
+      "question": "\n            Nelze-li přepnout dálková světla na potkávací nebo způsobují-li světlomety oslnění:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Vozidlo smí být užito při zapnutých obrysových světlech.",
+          "correct": false
+        },
+        {
+          "answer": "Vozidlo nesmí být užito v provozu na pozemních komunikacích.",
+          "correct": true
+        },
+        {
+          "answer": "Vozidlo smí být užito pouze za nesnížené viditelnosti.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "questionNumber": "Otázka č. 22",
+      "question": "\n            Lhůta pro přistavení silničního vozidla k pravidelné technické prohlídce se počítá ode dne:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Prvního zaregistrování silničního vozidla a potom vždy ode dne provedení pravidelné technické prohlídky. ",
+          "correct": true
+        },
+        {
+          "answer": "Prodeje silničního vozidla a potom vždy ode dne úspěšného provedení pravidelné technické prohlídky.",
+          "correct": false
+        },
+        {
+          "answer": "Vyrobení silničního vozidla a potom vždy v pravidelných pětiletých lhůtách.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "questionNumber": "Otázka č. 23",
+      "question": "\n            Používání pneumatik s protiskluzovými hroty:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Je zakázáno pro všechna vozidla, s výjimkou vozidel záchranné služby.",
+          "correct": true
+        },
+        { "answer": "Je povoleno pouze v zimním období.", "correct": false },
+        {
+          "answer": "Je povoleno pouze v zimním období a jen v horských oblastech.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "questionNumber": "Otázka č. 24",
+      "question": "\n            Tabulku registrační značky umístí vlastník nebo provozovatel vozidla:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Tak, aby při běžném provozu na pozemních komunikacích nedošlo k její ztrátě.",
+          "correct": true
+        },
+        {
+          "answer": "Tak, aby ani v případě vážné dopravní nehody nemohlo dojít k její ztrátě.",
+          "correct": false
+        },
+        {
+          "answer": "Tak, že ji vždy za použití šroubů nebo nýtů pevně spojí s karoserií.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "questionNumber": "Otázka č. 25",
+      "question": "\n            Přestavbou silničního vozidla je:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Změna nebo úprava podstatných částí mechanismu nebo konstrukce provozovaného silničního vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Každá oprava vozidla, při které bylo použito náhradních dílů.",
+          "correct": false
+        },
+        {
+          "answer": "Nahrazení nebo doplnění vozidla součástí nebo výbavou, která splňuje podmínky stanovené zákonem.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "questionNumber": "Otázka č. 26",
+      "question": "\n            Technickou prohlídkou silničního vozidla se rozumí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "kontrola technického stavu, činnosti ústrojí a zařízení silničního vozidla ve stanici STK.",
+          "correct": true
+        },
+        {
+          "answer": "kontrola vylepení nálepky osvědčující technickou způsobilosti vozidla.",
+          "correct": false
+        },
+        {
+          "answer": "kontrola vylepení nálepky osvědčující měření emisí.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "questionNumber": "Otázka č. 27",
+      "question": "\n            Nová přípojná vozidla za osobní automobil:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Podléhají registraci.", "correct": true },
+        { "answer": "Nepodléhají registraci.", "correct": false },
+        {
+          "answer": "Podléhají registraci pouze na žádost jejich vlastníka.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "questionNumber": "Otázka č. 28",
+      "question": "\n            Lhůta pro přistavení silničního motorového vozidla k pravidelné technické prohlídce se počítá:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "V závislosti na počtu ujetých kilometrů od poslední pravidelné technické prohlídky.",
+          "correct": false
+        },
+        {
+          "answer": "Ode dne zakoupení vozidla nebo převedení vozidla na jinou osobu.",
+          "correct": false
+        },
+        {
+          "answer": "Ode dne zaregistrování vozidla v registračním místě a dále od data pravidelné technické prohlídky, zapsaného v  technickém průkazu vozidla.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "questionNumber": "Otázka č. 29",
+      "question": "\n            Silniční vozidlo je technicky způsobilé k provozu na pozemních komunikacích, pokud:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Technickou prohlídkou silničního vozidla, jeho ústrojí a částí nebyly zjištěny žádné závady nebo jen lehké závady.",
+          "correct": true
+        },
+        {
+          "answer": "Technickou prohlídkou silničního vozidla, jeho ústrojí a částí nebyly zjištěny žádné závady.",
+          "correct": false
+        },
+        {
+          "answer": "Technickou prohlídkou silničního vozidla, jeho ústrojí a částí byly zjištěny jen závady, které neohrožují bezprostředně bezpečnost jízdy.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "questionNumber": "Otázka č. 30",
+      "question": "\n            Na vozidle mohou být použita jen taková světelná zařízení:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Která jsou pro danou kategorii předepsána a povolena.",
+          "correct": true
+        },
+        {
+          "answer": "Která jsou pevně spojena s vozidlem, bez ohledu na jejich počet, barvu a umístění.",
+          "correct": false
+        },
+        {
+          "answer": "Jejichž činnost je signalizována kontrolkou.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "questionNumber": "Otázka č. 31",
+      "question": "\n            Zjistíme-li závady na brzdovém systému, které zjevně znemožňují účinně zastavit vozidlo a tím ohrožují bezpečnost provozu na pozemních komunikacích:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Vozidlo lze provozovat na pozemních komunikacích na základě jednorázového povolení policie.",
+          "correct": false
+        },
+        {
+          "answer": "S vozidlem lze přiměřenou rychlostí dojet jen do nejbližšího místa, kde lze závadu odstranit.",
+          "correct": false
+        },
+        {
+          "answer": "Vozidlo nesmí být užito k provozu na pozemních komunikacích, smí však být vlečeno na tyči.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "questionNumber": "Otázka č. 32",
+      "question": "\n            Jiná než předepsaná nebo povolená světelná zařízení:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Nesmí být na vozidle použita.", "correct": true },
+        {
+          "answer": "Smí být na vozidle použita pouze za předpokladu, že jejich užití nebude obtěžovat ostatní účastníky provozu na pozemních komunikacích.",
+          "correct": false
+        },
+        {
+          "answer": "Smí být použita pouze při tuningové úpravě vozidla.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "questionNumber": "Otázka č. 33",
+      "question": "\n            Dodatečná montáž předních mlhových světel na vozidlo je možná:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Pokud montáž odpovídá technickým požadavkům stanoveným mezinárodním předpisem.",
+          "correct": true
+        },
+        { "answer": "Bez omezení.", "correct": false },
+        { "answer": "Není možná.  ", "correct": false }
+      ]
+    },
+    {
+      "id": 33,
+      "questionNumber": "Otázka č. 34",
+      "question": "\n            Výrobce motorů, systémů a zařízení k pohonu vozidel:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Předepisuje pohonné hmoty, provozní hmoty a maziva používané k provozu silničních motorových vozidel.",
+          "correct": true
+        },
+        {
+          "answer": "Doporučuje pohonné hmoty a provozní hmoty používané v provozu silničních motorových vozidel.",
+          "correct": false
+        },
+        {
+          "answer": "Neurčuje pohonné hmoty a provozní hmoty používané v provozu silničních motorových vozidel.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "questionNumber": "Otázka č. 35",
+      "question": "\n            Kontrolní nálepka osvědčující technickou způsobilost vozidla se umísťuje:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Na zadní tabulku registrační značky.", "correct": true },
+        { "answer": "Na přední tabulku registrační značky.", "correct": false },
+        { "answer": "Podle požadavku zákazníka.\n\n", "correct": false }
+      ]
+    },
+    {
+      "id": 35,
+      "questionNumber": "Otázka č. 36",
+      "question": "\n            Tabulku registrační značky umístí vlastník nebo provozovatel vozidla:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Do místa určeného konstrukčním řešením vozidla.",
+          "correct": true
+        },
+        {
+          "answer": "Na kteréhokoliv místo na přídi nebo zádi vozidla; přitom však nesmí zakrýt předepsané osvětlení vozidla.",
+          "correct": false
+        },
+        {
+          "answer": "Na kterékoliv viditelné místo na vozidle.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "questionNumber": "Otázka č. 37",
+      "question": "\n            Vozidlo je technicky nezpůsobilé k provozu na pozemních komunikacích, pokud:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Pro závady v technickém stavu bezprostředně ohrožuje bezpečnost provozu na pozemních komunikacích.",
+          "correct": true
+        },
+        {
+          "answer": "Do termínu příští pravidelné technické prohlídky zbývá méně než tři kalendářní měsíce.",
+          "correct": false
+        },
+        {
+          "answer": "Spotřeba pohonných hmot přesahuje limity stanovené výrobcem vozidla.",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
