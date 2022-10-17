@@ -1,1 +1,717 @@
-{"title":"Zdravotnická příprava","numberOfQuestions":" 35","data":[{"id":0,"questionNumber":"Otázka č. 1","question":"\n            Poraněný je při vědomí a stěžuje si na silnou bolest v oblasti zad, eventuálně na brnění nebo necitlivost dolních končetin. Jaké by mohl mít poranění?\n        ","image":[],"video":null,"asnwers":[{"answer":"zlomeniny dolních končetin","correct":false},{"answer":"poranění hrudníku","correct":false},{"answer":"poranění páteře, při změně citlivosti také poranění míchy","correct":true}]},{"id":1,"questionNumber":"Otázka č. 2","question":"\n            U poraněného v hlubokém bezvědomí a bezdeší nastávají nezvratné změny mozkové tkáně do:\n        ","image":[],"video":null,"asnwers":[{"answer":"5 min.","correct":true},{"answer":"10 min.","correct":false},{"answer":"20 min.","correct":false}]},{"id":2,"questionNumber":"Otázka č. 3","question":"\n            Zjistíte, že poraněný má v ráně zabodnuté cizí těleso. Co uděláte?\n        ","image":[],"video":null,"asnwers":[{"answer":"snažím se těleso opatrně z rány vyndat a zastavit krvácení","correct":false},{"answer":"těleso ponechám v ráně, ošetřím okolní krvácení, zajistím životní funkce","correct":true},{"answer":"poraněného nemusím sledovat a kontrolovat, pouze přivolám ZS","correct":false}]},{"id":3,"questionNumber":"Otázka č. 4","question":"\n            Jak zajistíte průchodnost dýchacích cest:\n        ","image":[],"video":null,"asnwers":[{"answer":"zakloním mírně hlavu a předsunu dolní čelist směrem vzhůru, event. vyčistím ústa od cizích těles(zvratků, krve..)","correct":true},{"answer":"předkloním mu hlavu","correct":false},{"answer":"chytnu jazyk poraněného a snažím se ho vytáhnout z dutiny ústní","correct":false}]},{"id":4,"questionNumber":"Otázka č. 5","question":"\n            Po zahájení resuscitace je nejdůležitější:\n        ","image":[],"video":null,"asnwers":[{"answer":"resuscitovat v přesně daném poměru 30:2","correct":false},{"answer":"resuscitaci nepřerušovat do příjezdu ZS, obnovení dýchání nebo vlastního vyčerpání","correct":true},{"answer":"pravidelně kontrolovat puls a dech poraněného","correct":false}]},{"id":5,"questionNumber":"Otázka č. 6","question":"\n            Hrozí trestní postih, pokud neposkytnete první pomoc?\n        ","image":[],"video":null,"asnwers":[{"answer":"Ano, s možností nepodmíněného trestu odnětí svobody.","correct":true},{"answer":"Ne, v žádném případě, je to moje vlastní vůle.","correct":false},{"answer":"Podle závažnosti úrazu nebo postižení poraněného.","correct":false}]},{"id":6,"questionNumber":"Otázka č. 7","question":"\n            Pro kvalitně prováděnou srdeční masáž je nejdůležitější\n        ","image":[],"video":null,"asnwers":[{"answer":"dostatečná hloubka stlačení hrudní kosti a frekvence.","correct":true},{"answer":"jen frekvence.","correct":false},{"answer":"jen hloubka stlačení hrudní kosti.","correct":false}]},{"id":7,"questionNumber":"Otázka č. 8","question":"\n            Pokud vidíte, že účastník nehody masivně krvácí:\n        ","image":[],"video":null,"asnwers":[{"answer":"vrátím se k vlastnímu vozu a začnu hledat v lékárničce obvazový materiál","correct":false},{"answer":"neprodleně krvácející místo stlačím prsty, dlaní nebo složeným kusem oděvu","correct":true},{"answer":"krvácející místo nebudu ošetřovat, začnu poraněnému zajišťovat životní funkce tj. umělé dýchání, zevní srdeční masáž","correct":false}]},{"id":8,"questionNumber":"Otázka č. 9","question":"\n            Poraněný je v bezvědomí a dýchá. Jakou pomoc mu poskytnete?\n        ","image":[],"video":null,"asnwers":[{"answer":"mírně zakloním hlavu a předsunu dolní čelist, uvolním mu tak dýchací cesty a budu ho sledovat do příjezdu ZS, pokud dýchat přestane, ihned zahájím oživování\n","correct":true},{"answer":"přivolám pouze ZS, pokud poraněný dýchá, nemusím ho dále sledovat","correct":false},{"answer":"neprodleně zahájím srdeční masáž","correct":false}]},{"id":9,"questionNumber":"Otázka č. 10","question":"\n            Při umělém dýchání z plic do plic u dospělého:\n        ","image":[],"video":null,"asnwers":[{"answer":"dýchám frekvencí alespoň 20 vdechů/min a vždy se snažím o co největší vdech","correct":false},{"answer":"dýchám úplně normálně frekvencí 6-8 vdechů/min, bez extrémního nádechu a vdechu do poraněného","correct":true},{"answer":"vdechuji do plic poraněného jen obsah vzduchu ve svých ústech","correct":false}]},{"id":10,"questionNumber":"Otázka č. 11","question":"\n            Jak se zachováte při kolapsovém stavu, kdy postižený upadne a ztrácí vědomí?\n        ","image":[],"video":null,"asnwers":[{"answer":"ihned zahájím resuscitaci","correct":false},{"answer":"zvednu nohy postiženého a zajistím volné dýchací cesty","correct":true},{"answer":"postiženého posadím a zavolám záchranou službu","correct":false}]},{"id":11,"questionNumber":"Otázka č. 12","question":"\n            Jak budete postupovat u poraněného, který má po pádu z motocyklu zlomenou dolní končetinu a reaguje na oslovení:\n        ","image":[],"video":null,"asnwers":[{"answer":"zavolám pomoc, případně stabilizuji zlomeniny a do příjezdu ZS budu u poraněného nadále sledovat stav vědomí a dýchání","correct":true},{"answer":"stabilizuji zlomeninu a teprve potom zavolám ZS","correct":false},{"answer":"poraněného se nebudu vůbec dotýkat, aby nedošlo ke zhoršení jeho stavu","correct":false}]},{"id":12,"questionNumber":"Otázka č. 13","question":"\n            Zraněný si po dopravní nehodě stěžuje na bolesti břicha a pocit žízně:\n        ","image":[],"video":null,"asnwers":[{"answer":"Nepodáváme mu žádné nápoje. ","correct":true},{"answer":"Podáváme mu studené nápoje.","correct":false},{"answer":"Podáváme mu dostatek vlažných nápojů.","correct":false}]},{"id":13,"questionNumber":"Otázka č. 14","question":"\n            Poraněný je při vědomí a velmi silně krvácí z rány na krku. Co uděláte?\n        ","image":[],"video":null,"asnwers":[{"answer":"vrátím se k vozu a začnu hledat v lékárničce vhodný obvazový materiál","correct":false},{"answer":"neprodleně krvácející místo stlačím prsty, dlaní nebo složeným kusem oděvu","correct":true},{"answer":"krvácející místo nebudu ošetřovat, začnu poraněnému zajišťovat životní funkce tj. umělé dýchání, zevní srdeční masáž","correct":false}]},{"id":14,"questionNumber":"Otázka č. 15","question":"\n            Jak budete postupovat, jste-li sami a opakovaně se Vám nedaří zajistit dýchací cesty:\n        ","image":[],"video":null,"asnwers":[{"answer":"budu pokračovat v opakovaných pokusech, dokud se mi to nepodaří","correct":false},{"answer":"přeruším snažení po 3-4 pokusech a zahájím zevní srdeční masáž","correct":true},{"answer":"vzdám se jakékoliv další aktivity","correct":false}]},{"id":15,"questionNumber":"Otázka č. 16","question":"\n            První pomoc je povinen poskytnout:\n        ","image":[],"video":null,"asnwers":[{"answer":"Jen ten, kdo prošel jakýmkoli zdravotnickým školením.","correct":false},{"answer":"Každý, kdo tak může učinit bez nebezpečí pro sebe nebo jiného.","correct":true},{"answer":"Každý, pokud již dosáhl věku 18 let.","correct":false}]},{"id":16,"questionNumber":"Otázka č. 17","question":"\n            Jak zjistíte stav vědomí pacienta:\n        ","image":[],"video":null,"asnwers":[{"answer":"oslovím ho, zkusím bolestivý podnět (štípnutí do ušního lalůčku)","correct":true},{"answer":"zkusím bolestivý podnět ostrým předmětem","correct":false},{"answer":"poraněného hlasitě oslovím a zkusím posadit","correct":false}]},{"id":17,"questionNumber":"Otázka č. 18","question":"\n            Jak jednoznačně zjistíte, že poraněný dýchá:\n        ","image":[],"video":null,"asnwers":[{"answer":"je růžový","correct":false},{"answer":"při sklonění se k ústům poraněného slyším jeho dech a cítím ho na své tváři","correct":true},{"answer":"nemá příznaky cyanózy ","correct":false}]},{"id":18,"questionNumber":"Otázka č. 19","question":"\n            Kdy zahájíte zevní srdeční masáž:\n        ","image":[],"video":null,"asnwers":[{"answer":"jen pokud u poraněného nehmatám pulz","correct":false},{"answer":"pokud je poraněný v hlubokém bezvědomí a nedýchá","correct":true},{"answer":"pokud masivně krvácí","correct":false}]},{"id":19,"questionNumber":"Otázka č. 20","question":"\n            Správná frekvence stlačení hrudní kosti při srdeční masáži je u dospělého:\n        ","image":[],"video":null,"asnwers":[{"answer":"Přibližně 160 stlačení za minutu.","correct":false},{"answer":"Přibližně 100 stlačení za minutu.","correct":true},{"answer":"Přibližně 200 stlačení za minutu.","correct":false}]},{"id":20,"questionNumber":"Otázka č. 21","question":"\n            Pří zevní srdeční masáži\n        ","image":[],"video":null,"asnwers":[{"answer":"vždy poraněného přesunu na pevnou podložku","correct":false},{"answer":"zahájím nepřímou srdeční masáž i v nevýhodné poloze (např. v sedu při zaklínění ve voze), pokud nelze poraněného rychle vyprostit","correct":true},{"answer":"pokud není poraněný na pevné podložce, srdeční masáž nezahájím","correct":false}]},{"id":21,"questionNumber":"Otázka č. 22","question":"\n            Správná frekvence stlačení hrudní kosti při srdeční masáži je u dospělého:\n        ","image":[],"video":null,"asnwers":[{"answer":"Přibližně 60 stlačení za minutu.","correct":false},{"answer":"Přibližně 100 stlačení za minutu.","correct":true},{"answer":"Přibližně 20 stlačení za minutu.","correct":false}]},{"id":22,"questionNumber":"Otázka č. 23","question":"\n            Jak budete postupovat u zraněného v bezvědomí, který nedýchá a opakovaně se Vám nedaří uvolnit jeho dýchací cesty:\n        ","image":[],"video":null,"asnwers":[{"answer":"Budu pokračovat v opakovaných pokusech, dokud se mi to nepodaří.","correct":false},{"answer":"Zahájím srdeční masáž.","correct":true},{"answer":"Vzdám se jakékoliv dalších aktivit, protože jsou zbytečné.","correct":false}]},{"id":23,"questionNumber":"Otázka č. 24","question":"\n            Hrozí trestní postih, pokud neposkytnete první pomoc:\n        ","image":[],"video":null,"asnwers":[{"answer":"ano","correct":true},{"answer":"ne","correct":false}]},{"id":24,"questionNumber":"Otázka č. 25","question":"\n            Při provádění zevní srdeční masáže je správné stlačení hrudní kosti asi o:\n        ","image":[],"video":null,"asnwers":[{"answer":"4-5 cm u dospělého tj. na šířku dvou palců zachraňovaného","correct":true},{"answer":"stačí 1-2 cm","correct":false},{"answer":"8-10 cm","correct":false}]},{"id":25,"questionNumber":"Otázka č. 26","question":"\n            U poraněného s podezřením na úraz páteře:\n        ","image":[],"video":null,"asnwers":[{"answer":"smím s poraněným manipulovat bez omezení.","correct":false},{"answer":"manipuluji s poraněným co nejméně, pouze v souvislosti se zajištěním životních funkcí.","correct":true},{"answer":"s poraněným v žádném případě nehýbu.","correct":false}]},{"id":26,"questionNumber":"Otázka č. 27","question":"\n            Při úrazu hlavy s drobnějším viditelným krvácením nejvíce poraněného ohrožuje:\n        ","image":[],"video":null,"asnwers":[{"answer":"krvácení","correct":false},{"answer":"následné bezvědomí při poranění mozkové tkáně","correct":true},{"answer":"zlomeniny kostí lebky","correct":false}]},{"id":27,"questionNumber":"Otázka č. 28","question":"\n            U dopravní nehody s poraněním voláme jako první:\n        ","image":[],"video":null,"asnwers":[{"answer":"hasiče (150)","correct":false},{"answer":"policii (158)","correct":false},{"answer":"záchrannou službu (155)","correct":true}]},{"id":28,"questionNumber":"Otázka č. 29","question":"\n            Správná frekvence stlačení hrudní kosti při srdeční masáži je u dospělého:\n        ","image":[],"video":null,"asnwers":[{"answer":"Přibližně 60 stlačení za minutu.","correct":false},{"answer":"Přibližně 100 stlačení za minutu.","correct":true},{"answer":"Přibližně 160 stlačení za minutu.","correct":false}]},{"id":29,"questionNumber":"Otázka č. 30","question":"\n            Poraněný se po dopravní nehodě domáhá tekutin, jak se zachováte:\n        ","image":[],"video":null,"asnwers":[{"answer":"poskytnu mu tekutiny v neomezeném množství","correct":false},{"answer":"nedám mu napít ani přes jeho naléhání","correct":true},{"answer":"mohu mu dát i najíst","correct":false}]},{"id":30,"questionNumber":"Otázka č. 31","question":"\n            Rychlou zdravotnickou záchranou službu přivoláme na telefonním čísle:\n        ","image":[],"video":null,"asnwers":[{"answer":"155.","correct":true},{"answer":"150.","correct":false},{"answer":"158.","correct":false}]},{"id":31,"questionNumber":"Otázka č. 32","question":"\n            Poraněný je v bezvědomí, leží na zádech a zatím dýchá. Náhle začne zvracet. Jak budete postupovat:\n        ","image":[],"video":null,"asnwers":[{"answer":"nechám ho zvracet, nehrozí mu žádné nebezpečí","correct":false},{"answer":"otočím mu hlavu na stranu a snažím se mu vyčistit dutinu ústní","correct":true},{"answer":"nesmím mu pohnout hlavou (může mít poraněnou páteř) a nevadí, že může zvratky vdechnout do dýchacích cest","correct":false}]},{"id":32,"questionNumber":"Otázka č. 33","question":"\n            Při úrazu hlavy nejvíce poraněného ohrožuje:\n        ","image":[],"video":null,"asnwers":[{"answer":"Viditelné krvácení.","correct":false},{"answer":"Následné bezvědomí.","correct":true},{"answer":"Zlomeniny kostí lebky.","correct":false}]},{"id":33,"questionNumber":"Otázka č. 34","question":"\n            Jste svědek dopravní nehody, na místě jsou dva zranění, z nichž jeden je v bezvědomí, druhý při vědomí, ale výrazně krvácí. Jaký bude Váš postup?\n        ","image":[],"video":null,"asnwers":[{"answer":"nejdříve zjistím, zda poraněný v bezvědomí dýchá","correct":false},{"answer":"neprodleně zastavím masivní krvácení, zjistím stav poraněného v bezvědomí, zavolám ZS a zajistím místo nehody ","correct":true},{"answer":"zajistím parkovací místo vozidlu ZS a vyčkám jeho příjezdu","correct":false}]},{"id":34,"questionNumber":"Otázka č. 35","question":"\n            Při poranění motorkáře, který je v bezvědomí a nedýchá:\n        ","image":[],"video":null,"asnwers":[{"answer":"nikdy nesundávám přilbu","correct":false},{"answer":"je nejlepší vyproštění hlavy ve dvou zachráncích, kdy jeden pevně svírá hlavu poraněného a druhý opatrně sejme přilbu","correct":true},{"answer":"mohu sejmout přilbu jakýmkoliv způsobem","correct":false}]}]}
+{
+  "title": "Zdravotnická příprava",
+  "numberOfQuestions": " 35",
+  "data": [
+    {
+      "id": 0,
+      "questionNumber": "Otázka č. 1",
+      "question": "\n            Správná frekvence stlačení hrudní kosti při srdeční masáži je u dospělého:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Přibližně 60 stlačení za minutu.",
+          "correct": false,
+          "id": 0
+        },
+        {
+          "answer": "Přibližně 100 stlačení za minutu.",
+          "correct": true,
+          "id": 1
+        },
+        {
+          "answer": "Přibližně 160 stlačení za minutu.",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "questionNumber": "Otázka č. 2",
+      "question": "\n            Správná frekvence stlačení hrudní kosti při srdeční masáži je u dospělého:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Přibližně 160 stlačení za minutu.",
+          "correct": false,
+          "id": 0
+        },
+        {
+          "answer": "Přibližně 100 stlačení za minutu.",
+          "correct": true,
+          "id": 1
+        },
+        {
+          "answer": "Přibližně 200 stlačení za minutu.",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionNumber": "Otázka č. 3",
+      "question": "\n            Jak zjistíte stav vědomí pacienta:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "oslovím ho, zkusím bolestivý podnět (štípnutí do ušního lalůčku)",
+          "correct": true,
+          "id": 0
+        },
+        {
+          "answer": "zkusím bolestivý podnět ostrým předmětem",
+          "correct": false,
+          "id": 1
+        },
+        {
+          "answer": "poraněného hlasitě oslovím a zkusím posadit",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionNumber": "Otázka č. 4",
+      "question": "\n            Při provádění zevní srdeční masáže je správné stlačení hrudní kosti asi o:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "4-5 cm u dospělého tj. na šířku dvou palců zachraňovaného",
+          "correct": true,
+          "id": 0
+        },
+        { "answer": "stačí 1-2 cm", "correct": false, "id": 1 },
+        { "answer": "8-10 cm", "correct": false, "id": 2 }
+      ]
+    },
+    {
+      "id": 4,
+      "questionNumber": "Otázka č. 5",
+      "question": "\n            U poraněného s podezřením na úraz páteře:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "smím s poraněným manipulovat bez omezení.",
+          "correct": false,
+          "id": 0
+        },
+        {
+          "answer": "manipuluji s poraněným co nejméně, pouze v souvislosti se zajištěním životních funkcí.",
+          "correct": true,
+          "id": 1
+        },
+        {
+          "answer": "s poraněným v žádném případě nehýbu.",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionNumber": "Otázka č. 6",
+      "question": "\n            Poraněný se po dopravní nehodě domáhá tekutin, jak se zachováte:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "poskytnu mu tekutiny v neomezeném množství",
+          "correct": false,
+          "id": 0
+        },
+        {
+          "answer": "nedám mu napít ani přes jeho naléhání",
+          "correct": true,
+          "id": 1
+        },
+        { "answer": "mohu mu dát i najíst", "correct": false, "id": 2 }
+      ]
+    },
+    {
+      "id": 6,
+      "questionNumber": "Otázka č. 7",
+      "question": "\n            Hrozí trestní postih, pokud neposkytnete první pomoc?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Ano, s možností nepodmíněného trestu odnětí svobody.",
+          "correct": true,
+          "id": 0
+        },
+        {
+          "answer": "Ne, v žádném případě, je to moje vlastní vůle.",
+          "correct": false,
+          "id": 1
+        },
+        {
+          "answer": "Podle závažnosti úrazu nebo postižení poraněného.",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionNumber": "Otázka č. 8",
+      "question": "\n            Kdy zahájíte zevní srdeční masáž:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "jen pokud u poraněného nehmatám pulz",
+          "correct": false,
+          "id": 0
+        },
+        {
+          "answer": "pokud je poraněný v hlubokém bezvědomí a nedýchá",
+          "correct": true,
+          "id": 1
+        },
+        { "answer": "pokud masivně krvácí", "correct": false, "id": 2 }
+      ]
+    },
+    {
+      "id": 8,
+      "questionNumber": "Otázka č. 9",
+      "question": "\n            Jak budete postupovat, jste-li sami a opakovaně se Vám nedaří zajistit dýchací cesty:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "budu pokračovat v opakovaných pokusech, dokud se mi to nepodaří",
+          "correct": false,
+          "id": 0
+        },
+        {
+          "answer": "přeruším snažení po 3-4 pokusech a zahájím zevní srdeční masáž",
+          "correct": true,
+          "id": 1
+        },
+        {
+          "answer": "vzdám se jakékoliv další aktivity",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionNumber": "Otázka č. 10",
+      "question": "\n            U poraněného v hlubokém bezvědomí a bezdeší nastávají nezvratné změny mozkové tkáně do:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "5 min.", "correct": true, "id": 0 },
+        { "answer": "10 min.", "correct": false, "id": 1 },
+        { "answer": "20 min.", "correct": false, "id": 2 }
+      ]
+    },
+    {
+      "id": 10,
+      "questionNumber": "Otázka č. 11",
+      "question": "\n            Poraněný je v bezvědomí a dýchá. Jakou pomoc mu poskytnete?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "mírně zakloním hlavu a předsunu dolní čelist, uvolním mu tak dýchací cesty a budu ho sledovat do příjezdu ZS, pokud dýchat přestane, ihned zahájím oživování\n",
+          "correct": true,
+          "id": 0
+        },
+        {
+          "answer": "přivolám pouze ZS, pokud poraněný dýchá, nemusím ho dále sledovat",
+          "correct": false,
+          "id": 1
+        },
+        {
+          "answer": "neprodleně zahájím srdeční masáž",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionNumber": "Otázka č. 12",
+      "question": "\n            Rychlou zdravotnickou záchranou službu přivoláme na telefonním čísle:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "155.", "correct": true, "id": 0 },
+        { "answer": "150.", "correct": false, "id": 1 },
+        { "answer": "158.", "correct": false, "id": 2 }
+      ]
+    },
+    {
+      "id": 12,
+      "questionNumber": "Otázka č. 13",
+      "question": "\n            Pro kvalitně prováděnou srdeční masáž je nejdůležitější\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "dostatečná hloubka stlačení hrudní kosti a frekvence.",
+          "correct": true,
+          "id": 0
+        },
+        { "answer": "jen frekvence.", "correct": false, "id": 1 },
+        {
+          "answer": "jen hloubka stlačení hrudní kosti.",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "questionNumber": "Otázka č. 14",
+      "question": "\n            Při umělém dýchání z plic do plic u dospělého:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "dýchám frekvencí alespoň 20 vdechů/min a vždy se snažím o co největší vdech",
+          "correct": false,
+          "id": 0
+        },
+        {
+          "answer": "dýchám úplně normálně frekvencí 6-8 vdechů/min, bez extrémního nádechu a vdechu do poraněného",
+          "correct": true,
+          "id": 1
+        },
+        {
+          "answer": "vdechuji do plic poraněného jen obsah vzduchu ve svých ústech",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionNumber": "Otázka č. 15",
+      "question": "\n            První pomoc je povinen poskytnout:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Jen ten, kdo prošel jakýmkoli zdravotnickým školením.",
+          "correct": false,
+          "id": 0
+        },
+        {
+          "answer": "Každý, kdo tak může učinit bez nebezpečí pro sebe nebo jiného.",
+          "correct": true,
+          "id": 1
+        },
+        {
+          "answer": "Každý, pokud již dosáhl věku 18 let.",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionNumber": "Otázka č. 16",
+      "question": "\n            Jak zajistíte průchodnost dýchacích cest:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "zakloním mírně hlavu a předsunu dolní čelist směrem vzhůru, event. vyčistím ústa od cizích těles(zvratků, krve..)",
+          "correct": true,
+          "id": 0
+        },
+        { "answer": "předkloním mu hlavu", "correct": false, "id": 1 },
+        {
+          "answer": "chytnu jazyk poraněného a snažím se ho vytáhnout z dutiny ústní",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "questionNumber": "Otázka č. 17",
+      "question": "\n            Poraněný je při vědomí a velmi silně krvácí z rány na krku. Co uděláte?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "vrátím se k vozu a začnu hledat v lékárničce vhodný obvazový materiál",
+          "correct": false,
+          "id": 0
+        },
+        {
+          "answer": "neprodleně krvácející místo stlačím prsty, dlaní nebo složeným kusem oděvu",
+          "correct": true,
+          "id": 1
+        },
+        {
+          "answer": "krvácející místo nebudu ošetřovat, začnu poraněnému zajišťovat životní funkce tj. umělé dýchání, zevní srdeční masáž",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "questionNumber": "Otázka č. 18",
+      "question": "\n            Při úrazu hlavy nejvíce poraněného ohrožuje:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Viditelné krvácení.", "correct": false, "id": 0 },
+        { "answer": "Následné bezvědomí.", "correct": true, "id": 1 },
+        { "answer": "Zlomeniny kostí lebky.", "correct": false, "id": 2 }
+      ]
+    },
+    {
+      "id": 18,
+      "questionNumber": "Otázka č. 19",
+      "question": "\n            Jak jednoznačně zjistíte, že poraněný dýchá:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "je růžový", "correct": false, "id": 0 },
+        {
+          "answer": "při sklonění se k ústům poraněného slyším jeho dech a cítím ho na své tváři",
+          "correct": true,
+          "id": 1
+        },
+        { "answer": "nemá příznaky cyanózy ", "correct": false, "id": 2 }
+      ]
+    },
+    {
+      "id": 19,
+      "questionNumber": "Otázka č. 20",
+      "question": "\n            Po zahájení resuscitace je nejdůležitější:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "resuscitovat v přesně daném poměru 30:2",
+          "correct": false,
+          "id": 0
+        },
+        {
+          "answer": "resuscitaci nepřerušovat do příjezdu ZS, obnovení dýchání nebo vlastního vyčerpání",
+          "correct": true,
+          "id": 1
+        },
+        {
+          "answer": "pravidelně kontrolovat puls a dech poraněného",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "questionNumber": "Otázka č. 21",
+      "question": "\n            Poraněný je v bezvědomí, leží na zádech a zatím dýchá. Náhle začne zvracet. Jak budete postupovat:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "nechám ho zvracet, nehrozí mu žádné nebezpečí",
+          "correct": false,
+          "id": 0
+        },
+        {
+          "answer": "otočím mu hlavu na stranu a snažím se mu vyčistit dutinu ústní",
+          "correct": true,
+          "id": 1
+        },
+        {
+          "answer": "nesmím mu pohnout hlavou (může mít poraněnou páteř) a nevadí, že může zvratky vdechnout do dýchacích cest",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "questionNumber": "Otázka č. 22",
+      "question": "\n            Jak budete postupovat u zraněného v bezvědomí, který nedýchá a opakovaně se Vám nedaří uvolnit jeho dýchací cesty:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Budu pokračovat v opakovaných pokusech, dokud se mi to nepodaří.",
+          "correct": false,
+          "id": 0
+        },
+        { "answer": "Zahájím srdeční masáž.", "correct": true, "id": 1 },
+        {
+          "answer": "Vzdám se jakékoliv dalších aktivit, protože jsou zbytečné.",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "questionNumber": "Otázka č. 23",
+      "question": "\n            Jste svědek dopravní nehody, na místě jsou dva zranění, z nichž jeden je v bezvědomí, druhý při vědomí, ale výrazně krvácí. Jaký bude Váš postup?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "nejdříve zjistím, zda poraněný v bezvědomí dýchá",
+          "correct": false,
+          "id": 0
+        },
+        {
+          "answer": "neprodleně zastavím masivní krvácení, zjistím stav poraněného v bezvědomí, zavolám ZS a zajistím místo nehody ",
+          "correct": true,
+          "id": 1
+        },
+        {
+          "answer": "zajistím parkovací místo vozidlu ZS a vyčkám jeho příjezdu",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "questionNumber": "Otázka č. 24",
+      "question": "\n            Správná frekvence stlačení hrudní kosti při srdeční masáži je u dospělého:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "Přibližně 60 stlačení za minutu.",
+          "correct": false,
+          "id": 0
+        },
+        {
+          "answer": "Přibližně 100 stlačení za minutu.",
+          "correct": true,
+          "id": 1
+        },
+        {
+          "answer": "Přibližně 20 stlačení za minutu.",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "questionNumber": "Otázka č. 25",
+      "question": "\n            Jak se zachováte při kolapsovém stavu, kdy postižený upadne a ztrácí vědomí?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "ihned zahájím resuscitaci", "correct": false, "id": 0 },
+        {
+          "answer": "zvednu nohy postiženého a zajistím volné dýchací cesty",
+          "correct": true,
+          "id": 1
+        },
+        {
+          "answer": "postiženého posadím a zavolám záchranou službu",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "questionNumber": "Otázka č. 26",
+      "question": "\n            U dopravní nehody s poraněním voláme jako první:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "hasiče (150)", "correct": false, "id": 0 },
+        { "answer": "policii (158)", "correct": false, "id": 1 },
+        { "answer": "záchrannou službu (155)", "correct": true, "id": 2 }
+      ]
+    },
+    {
+      "id": 26,
+      "questionNumber": "Otázka č. 27",
+      "question": "\n            Hrozí trestní postih, pokud neposkytnete první pomoc:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "ano", "correct": true, "id": 0 },
+        { "answer": "ne", "correct": false, "id": 1 }
+      ]
+    },
+    {
+      "id": 27,
+      "questionNumber": "Otázka č. 28",
+      "question": "\n            Zraněný si po dopravní nehodě stěžuje na bolesti břicha a pocit žízně:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "Nepodáváme mu žádné nápoje. ", "correct": true, "id": 0 },
+        { "answer": "Podáváme mu studené nápoje.", "correct": false, "id": 1 },
+        {
+          "answer": "Podáváme mu dostatek vlažných nápojů.",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "questionNumber": "Otázka č. 29",
+      "question": "\n            Jak budete postupovat u poraněného, který má po pádu z motocyklu zlomenou dolní končetinu a reaguje na oslovení:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "zavolám pomoc, případně stabilizuji zlomeniny a do příjezdu ZS budu u poraněného nadále sledovat stav vědomí a dýchání",
+          "correct": true,
+          "id": 0
+        },
+        {
+          "answer": "stabilizuji zlomeninu a teprve potom zavolám ZS",
+          "correct": false,
+          "id": 1
+        },
+        {
+          "answer": "poraněného se nebudu vůbec dotýkat, aby nedošlo ke zhoršení jeho stavu",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "questionNumber": "Otázka č. 30",
+      "question": "\n            Zjistíte, že poraněný má v ráně zabodnuté cizí těleso. Co uděláte?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "snažím se těleso opatrně z rány vyndat a zastavit krvácení",
+          "correct": false,
+          "id": 0
+        },
+        {
+          "answer": "těleso ponechám v ráně, ošetřím okolní krvácení, zajistím životní funkce",
+          "correct": true,
+          "id": 1
+        },
+        {
+          "answer": "poraněného nemusím sledovat a kontrolovat, pouze přivolám ZS",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "questionNumber": "Otázka č. 31",
+      "question": "\n            Při poranění motorkáře, který je v bezvědomí a nedýchá:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "nikdy nesundávám přilbu", "correct": false, "id": 0 },
+        {
+          "answer": "je nejlepší vyproštění hlavy ve dvou zachráncích, kdy jeden pevně svírá hlavu poraněného a druhý opatrně sejme přilbu",
+          "correct": true,
+          "id": 1
+        },
+        {
+          "answer": "mohu sejmout přilbu jakýmkoliv způsobem",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "questionNumber": "Otázka č. 32",
+      "question": "\n            Poraněný je při vědomí a stěžuje si na silnou bolest v oblasti zad, eventuálně na brnění nebo necitlivost dolních končetin. Jaké by mohl mít poranění?\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "zlomeniny dolních končetin", "correct": false, "id": 0 },
+        { "answer": "poranění hrudníku", "correct": false, "id": 1 },
+        {
+          "answer": "poranění páteře, při změně citlivosti také poranění míchy",
+          "correct": true,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "questionNumber": "Otázka č. 33",
+      "question": "\n            Pří zevní srdeční masáži\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "vždy poraněného přesunu na pevnou podložku",
+          "correct": false,
+          "id": 0
+        },
+        {
+          "answer": "zahájím nepřímou srdeční masáž i v nevýhodné poloze (např. v sedu při zaklínění ve voze), pokud nelze poraněného rychle vyprostit",
+          "correct": true,
+          "id": 1
+        },
+        {
+          "answer": "pokud není poraněný na pevné podložce, srdeční masáž nezahájím",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "questionNumber": "Otázka č. 34",
+      "question": "\n            Při úrazu hlavy s drobnějším viditelným krvácením nejvíce poraněného ohrožuje:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        { "answer": "krvácení", "correct": false, "id": 0 },
+        {
+          "answer": "následné bezvědomí při poranění mozkové tkáně",
+          "correct": true,
+          "id": 1
+        },
+        { "answer": "zlomeniny kostí lebky", "correct": false, "id": 2 }
+      ]
+    },
+    {
+      "id": 34,
+      "questionNumber": "Otázka č. 35",
+      "question": "\n            Pokud vidíte, že účastník nehody masivně krvácí:\n        ",
+      "image": [],
+      "video": null,
+      "asnwers": [
+        {
+          "answer": "vrátím se k vlastnímu vozu a začnu hledat v lékárničce obvazový materiál",
+          "correct": false,
+          "id": 0
+        },
+        {
+          "answer": "neprodleně krvácející místo stlačím prsty, dlaní nebo složeným kusem oděvu",
+          "correct": true,
+          "id": 1
+        },
+        {
+          "answer": "krvácející místo nebudu ošetřovat, začnu poraněnému zajišťovat životní funkce tj. umělé dýchání, zevní srdeční masáž",
+          "correct": false,
+          "id": 2
+        }
+      ]
+    }
+  ]
+}

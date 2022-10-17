@@ -2,6 +2,8 @@ import { useNavigation } from "@react-navigation/native";
 import React, { useState } from "react";
 import {
   ActivityIndicator,
+  Dimensions,
+  ScrollView,
   Switch,
   Text,
   TouchableOpacity,
@@ -9,13 +11,14 @@ import {
 } from "react-native";
 import Icon from "react-native-vector-icons/AntDesign";
 import Hr from "../../Components/Hr";
+import Link from "../../Components/Link";
 import {
   getAllCategory,
   getAllTopics,
   getRandomQuestionsByCategory,
 } from "../../generalLogic/generalFunction";
 import QuestionsTheme from "../../Themes/QuestionsTheme";
-import { fontFamily } from "../../Themes/fonts";
+import { colors, fontFamily } from "../../Themes/utils";
 import { QuestionData } from "../../types";
 
 const Question = () => {
@@ -41,30 +44,43 @@ const Question = () => {
   };
   return (
     <QuestionsTheme>
-      <>
+      <ScrollView style={{ width: "100%" }}>
         <View
           style={{
-            flexDirection: "row",
+            width: "100%",
+            height: "100%",
             justifyContent: "center",
             alignItems: "center",
           }}
         >
-          <Text>Promíchat otázky?</Text>
-          <Switch
-            onChange={() =>
-              shouldShuffleQuestions
-                ? setShouldShuffleQuestions(false)
-                : setShouldShuffleQuestions(true)
-            }
-            value={shouldShuffleQuestions}
-          />
-        </View>
-        <View
-          style={{
-            justifyContent: "center",
-            paddingHorizontal: 20,
-          }}
-        >
+          <Text
+            style={{ fontSize: 20, fontFamily: fontFamily.mainFontFamilyBold }}
+          >
+            Procvičování
+          </Text>
+          <View
+            style={{
+              flexDirection: "row",
+              justifyContent: "space-evenly",
+              alignItems: "center",
+              width: "90%",
+              borderWidth: 1,
+            }}
+          >
+            <Text style={{ fontFamily: fontFamily.mainFontFamilyBold }}>
+              Promíchat otázky?
+            </Text>
+            <Switch
+              onChange={() =>
+                shouldShuffleQuestions
+                  ? setShouldShuffleQuestions(false)
+                  : setShouldShuffleQuestions(true)
+              }
+              value={shouldShuffleQuestions}
+              thumbColor={shouldShuffleQuestions ? "green" : "red"}
+              trackColor={{ true: colors.blue }}
+            />
+          </View>
           {topics.map((topic) => (
             <TouchableOpacity
               style={{
@@ -75,25 +91,15 @@ const Question = () => {
               key={topic.title}
               onPress={() => shuffleQuestions(topic)}
             >
-              <Icon name="right" size={15} />
-              <Text
-                style={{
-                  color: "blue",
-                  fontFamily: fontFamily.mainFontFamilyRegular,
-                }}
-              >
-                {topic.title}
-              </Text>
+              <Link label={topic.title} />
             </TouchableOpacity>
           ))}
-        </View>
-        <Hr />
-        <View
-          style={{
-            justifyContent: "center",
-            paddingHorizontal: 20,
-          }}
-        >
+          <Hr />
+          <Text
+            style={{ fontSize: 20, fontFamily: fontFamily.mainFontFamilyBold }}
+          >
+            Testy
+          </Text>
           {allQuestions.map((category) => (
             <TouchableOpacity
               style={{
@@ -106,19 +112,11 @@ const Question = () => {
                 navigateToCard(getRandomQuestionsByCategory(category))
               }
             >
-              <Icon name="right" size={15} />
-              <Text
-                style={{
-                  color: "blue",
-                  fontFamily: fontFamily.mainFontFamilyRegular,
-                }}
-              >
-                {category}
-              </Text>
+              <Link label={category} />
             </TouchableOpacity>
           ))}
         </View>
-      </>
+      </ScrollView>
     </QuestionsTheme>
   );
 };

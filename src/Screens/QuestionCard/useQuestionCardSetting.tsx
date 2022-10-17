@@ -2,7 +2,7 @@ import { useNavigation } from "@react-navigation/native";
 import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import { Image, Text, TouchableOpacity, View } from "react-native";
 import { Video } from "expo-av";
-import { fontFamily } from "../../Themes/fonts";
+import { fontFamily } from "../../Themes/utils";
 import { data, QuestionData } from "../../types";
 import styles from "./QuestionCard.style";
 
@@ -34,11 +34,11 @@ const useQuestionCardSetting = ({
     }
   };
 
-  const showResult = ({ title, answers }) => {
+  const showResult = ({ title, answers, topic }) => {
     //@ts-ignore
     topic.test && navigation.navigate("Home");
     //@ts-ignore
-    navigation.navigate("Result", { title, results: answers });
+    navigation.navigate("Result", { title, results: answers, topic: topic });
   };
 
   const chooseContent = () => {

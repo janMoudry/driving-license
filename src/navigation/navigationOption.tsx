@@ -1,7 +1,7 @@
 import { NativeStackNavigationOptions } from "@react-navigation/native-stack";
 import { Text, TouchableOpacity, View } from "react-native";
 import Icon from "react-native-vector-icons/AntDesign";
-import { fontFamily } from "../Themes/fonts";
+import { fontFamily } from "../Themes/utils";
 
 export const bottomTabsOption: NativeStackNavigationOptions = {
   headerShown: false,

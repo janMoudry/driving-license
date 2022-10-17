@@ -1,12 +1,10 @@
-import { ScrollView } from "react-native";
+import { View } from "react-native";
 import styles from "./QuestionsTheme.styles";
 
 const QuestionsTheme = ({
   children,
 }: {
   children: React.ReactElement;
-}): React.ReactElement => (
-  <ScrollView style={styles.container}>{children}</ScrollView>
-);
+}): React.ReactElement => <View style={styles.container}>{children}</View>;
 
 export default QuestionsTheme;

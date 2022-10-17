@@ -7,13 +7,14 @@ import { QuestionData } from "../../types";
 import styles from "./QuestionCard.style";
 import useQuestionCardSetting from "./useQuestionCardSetting";
 
+let array = [];
+
 const QuestionCard = ({ route }): React.ReactElement => {
   const { topic }: { topic: QuestionData } = route.params;
 
   const [showAnswer, setShowAnswer] = useState(false);
   const [checked, setChecked] = useState<number | false>(false);
-  const [index, setIndex] = useState(20);
-  const [wrongAnswers, setWrongAnswers] = useState([]);
+  const [index, setIndex] = useState(23);
 
   const questionData = topic.data[index];
   const {
@@ -26,9 +27,11 @@ const QuestionCard = ({ route }): React.ReactElement => {
     showResult: ({
       title,
       answers,
+      topic,
     }: {
       title: string;
       answers: Array<string>;
+      topic: QuestionData;
     }) => void;
   } = useQuestionCardSetting({
     questionData,
@@ -37,19 +40,16 @@ const QuestionCard = ({ route }): React.ReactElement => {
   });
 
   const checkCorrect = () => {
-    const choosenAnswer = questionData.asnwers.find((item, index) => {
-      if (checked === index) return item;
-    });
+    const isAnswerCorrect =
+      checked === questionData.asnwers.find((item) => item.correct).id;
 
-    setWrongAnswers([
-      ...wrongAnswers,
-      {
-        question: questionData,
-        choosenAnswer: choosenAnswer,
-        answerId: checked,
-        questionId: index,
-      },
-    ]);
+    array.push({
+      question: questionData,
+      choosenAnswer: checked,
+      answerId: checked,
+      questionId: index,
+      correct: isAnswerCorrect,
+    });
   };
 
   return (
@@ -83,7 +83,12 @@ const QuestionCard = ({ route }): React.ReactElement => {
                 ? () => {
                     checkCorrect();
                     if (parseInt(topic.numberOfQuestions) === index + 1) {
-                      showResult({ title: topic.title, answers: wrongAnswers });
+                      showResult({
+                        title: topic.title,
+                        topic: topic,
+                        answers: array,
+                      });
+                      array = [];
                       return;
                     }
                     setIndex(index + 1);

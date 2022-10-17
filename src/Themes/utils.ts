@@ -4,3 +4,8 @@ export const fontFamily = {
   mainFontFamilyBlack: "mainFontBlack",
   mainFontFamilyMedium: "mainFontMedium",
 };
+
+export const colors = {
+  white: "grey",
+  blue: "#add8e6",
+};
