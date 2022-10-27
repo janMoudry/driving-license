@@ -1,7 +1,7 @@
 import React from "react";
 import { Text, TouchableOpacity, View } from "react-native";
 import Icon from "react-native-vector-icons/AntDesign";
-import { fontFamily } from "../../Themes/utils";
+import { colors, fontFamily } from "../../Themes/utils";
 
 const Answer = ({
   answer,
@@ -43,8 +43,8 @@ const Answer = ({
         flexDirection: "row",
         backgroundColor: showAnswer
           ? correct
-            ? "#6dcd69"
-            : "#ee0000"
+            ? colors.green
+            : colors.red
           : "transparent",
       }}
       onPress={!showAnswer ? setChecked : null}

@@ -2,14 +2,12 @@ import { useNavigation } from "@react-navigation/native";
 import React, { useState } from "react";
 import {
   ActivityIndicator,
-  Dimensions,
   ScrollView,
   Switch,
   Text,
   TouchableOpacity,
   View,
 } from "react-native";
-import Icon from "react-native-vector-icons/AntDesign";
 import Hr from "../../Components/Hr";
 import Link from "../../Components/Link";
 import {
@@ -77,7 +75,7 @@ const Question = () => {
                   : setShouldShuffleQuestions(true)
               }
               value={shouldShuffleQuestions}
-              thumbColor={shouldShuffleQuestions ? "green" : "red"}
+              thumbColor={shouldShuffleQuestions ? colors.green : colors.red}
               trackColor={{ true: colors.blue }}
             />
           </View>

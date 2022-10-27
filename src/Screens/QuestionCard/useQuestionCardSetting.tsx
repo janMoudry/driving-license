@@ -16,83 +16,17 @@ const useQuestionCardSetting = ({
   index: number;
 }) => {
   const navigation = useNavigation();
-  const player = useRef(null);
 
   const [upperTitle, setUpperTitle] = useState("");
 
   const { numberOfQuestions } = topic;
   const { questionNumber, video, image, question } = questionData;
 
-  const getLetterByIndex = (i) => {
-    switch (i) {
-      case 0:
-        return "A";
-      case 1:
-        return "B";
-      case 2:
-        return "C";
-    }
-  };
-
   const showResult = ({ title, answers, topic }) => {
     //@ts-ignore
     topic.test && navigation.navigate("Home");
     //@ts-ignore
     navigation.navigate("Result", { title, results: answers, topic: topic });
-  };
-
-  const chooseContent = () => {
-    if (!!video)
-      return (
-        <TouchableOpacity onPress={() => {}}>
-          <Video
-            style={styles.video}
-            source={{ uri: video }}
-            ref={(ref) => {
-              player.current = ref;
-            }}
-            shouldPlay
-            //@ts-ignore
-            resizeMode="stretch"
-            isLooping
-          />
-        </TouchableOpacity>
-      );
-    if (!!image && typeof image === "string")
-      return <Image source={{ uri: image }} style={styles.image} />;
-    if (!!image && typeof image === "object" && image.length > 1)
-      return (
-        <View style={styles.imageArrayContainer}>
-          {image.map((imageItem, i) => (
-            <View
-              style={{
-                flexDirection: "column",
-                width: "33%",
-              }}
-              key={i}
-            >
-              <Image source={{ uri: imageItem }} style={styles.imageArray} />
-              <Text style={styles.imageText}> {getLetterByIndex(i)} </Text>
-            </View>
-          ))}
-        </View>
-      );
-    return (
-      <Text style={styles.innertitle}> {question.replace(/\s+/g, " ")} </Text>
-    );
-  };
-
-  const showTitle = () => {
-    if (
-      !!(typeof image === "string") ||
-      !!video ||
-      (typeof image === "object" && image.length !== 0)
-    ) {
-      setUpperTitle(question.replace(/\s+/g, " "));
-      return;
-    }
-    setUpperTitle("");
-    return;
   };
 
   useLayoutEffect(() => {
@@ -107,10 +41,85 @@ const useQuestionCardSetting = ({
   }, [index]);
 
   useEffect(() => {
-    showTitle();
+    showTitle({ image, video, setUpperTitle, question });
   }, [index]);
 
-  return { upperTitle, content: chooseContent, showResult };
+  return { upperTitle, showResult };
 };
 
 export default useQuestionCardSetting;
+
+export const chooseContent = ({
+  video,
+  image,
+  question,
+}: {
+  video: string;
+  image: string | Array<string>;
+  question: string;
+}) => {
+  const player = useRef(null);
+
+  const getLetterByIndex = (i) => {
+    switch (i) {
+      case 0:
+        return "A";
+      case 1:
+        return "B";
+      case 2:
+        return "C";
+    }
+  };
+
+  if (!!video)
+    return (
+      <TouchableOpacity onPress={() => {}}>
+        <Video
+          style={styles.video}
+          source={{ uri: video }}
+          ref={(ref) => {
+            player.current = ref;
+          }}
+          shouldPlay
+          //@ts-ignore
+          resizeMode="stretch"
+          isLooping
+        />
+      </TouchableOpacity>
+    );
+  if (!!image && typeof image === "string")
+    return <Image source={{ uri: image }} style={styles.image} />;
+  if (!!image && typeof image === "object" && image.length > 1)
+    return (
+      <View style={styles.imageArrayContainer}>
+        {image.map((imageItem, i) => (
+          <View
+            style={{
+              flexDirection: "column",
+              width: "33%",
+            }}
+            key={i}
+          >
+            <Image source={{ uri: imageItem }} style={styles.imageArray} />
+            <Text style={styles.imageText}> {getLetterByIndex(i)} </Text>
+          </View>
+        ))}
+      </View>
+    );
+  return (
+    <Text style={styles.innertitle}> {question.replace(/\s+/g, " ")} </Text>
+  );
+};
+
+export const showTitle = ({ image, video, setUpperTitle, question }) => {
+  if (
+    !!(typeof image === "string") ||
+    !!video ||
+    (typeof image === "object" && image.length !== 0)
+  ) {
+    setUpperTitle(question.replace(/\s+/g, " "));
+    return;
+  }
+  setUpperTitle("");
+  return;
+};

@@ -5,7 +5,9 @@ import Answer from "../../Components/Answer";
 import Button from "../../Components/Button";
 import { QuestionData } from "../../types";
 import styles from "./QuestionCard.style";
-import useQuestionCardSetting from "./useQuestionCardSetting";
+import useQuestionCardSetting, {
+  chooseContent,
+} from "./useQuestionCardSetting";
 
 let array = [];
 
@@ -14,16 +16,14 @@ const QuestionCard = ({ route }): React.ReactElement => {
 
   const [showAnswer, setShowAnswer] = useState(false);
   const [checked, setChecked] = useState<number | false>(false);
-  const [index, setIndex] = useState(23);
+  const [index, setIndex] = useState(0);
 
   const questionData = topic.data[index];
   const {
     upperTitle,
-    content,
     showResult,
   }: {
     upperTitle: string;
-    content: () => React.ReactElement;
     showResult: ({
       title,
       answers,
@@ -39,7 +39,14 @@ const QuestionCard = ({ route }): React.ReactElement => {
     index,
   });
 
+  const { video, question, image } = questionData;
+
   const checkCorrect = () => {
+    console.log(
+      questionData.asnwers.find((item) => item.correct).id,
+      questionData.asnwers,
+    );
+
     const isAnswerCorrect =
       checked === questionData.asnwers.find((item) => item.correct).id;
 
@@ -57,7 +64,9 @@ const QuestionCard = ({ route }): React.ReactElement => {
       <View style={styles.container}>
         <>
           <Text style={styles.title}>{upperTitle}</Text>
-          <View style={styles.innerContainer}>{content()}</View>
+          <View style={styles.innerContainer}>
+            {chooseContent({ video, image, question })}
+          </View>
           {questionData.asnwers.map(
             (
               answer: { answer: string; correct: boolean },
