@@ -18,6 +18,8 @@ import {
 import QuestionsTheme from "../../Themes/QuestionsTheme";
 import { colors, fontFamily } from "../../Themes/utils";
 import { QuestionData } from "../../types";
+import styles from "./Question.styles";
+import { navigateToCard } from "./QuestionLogic";
 
 const Question = () => {
   const topics = getAllTopics();
@@ -28,43 +30,17 @@ const Question = () => {
 
   if (!topics) return <ActivityIndicator />;
 
-  const navigateToCard = (topic) => {
-    //@ts-ignore
-    navigation.navigate("QuestionCard", {
-      topic: topic,
-    });
-  };
-
   const shuffleQuestions = (topic: QuestionData) => {
     shouldShuffleQuestions && topic.data.sort(() => 0.5 - Math.random());
 
-    navigateToCard(topic);
+    navigateToCard(topic, navigation);
   };
   return (
     <QuestionsTheme>
-      <ScrollView style={{ width: "100%" }}>
-        <View
-          style={{
-            width: "100%",
-            height: "100%",
-            justifyContent: "center",
-            alignItems: "center",
-          }}
-        >
-          <Text
-            style={{ fontSize: 20, fontFamily: fontFamily.mainFontFamilyBold }}
-          >
-            Procvičování
-          </Text>
-          <View
-            style={{
-              flexDirection: "row",
-              justifyContent: "space-evenly",
-              alignItems: "center",
-              width: "90%",
-              borderWidth: 1,
-            }}
-          >
+      <ScrollView style={styles.container}>
+        <View style={styles.innerContainer}>
+          <Text style={styles.title}>Procvičování</Text>
+          <View style={styles.shuffleContainer}>
             <Text style={{ fontFamily: fontFamily.mainFontFamilyBold }}>
               Promíchat otázky?
             </Text>
@@ -81,11 +57,7 @@ const Question = () => {
           </View>
           {topics.map((topic) => (
             <TouchableOpacity
-              style={{
-                flexDirection: "row",
-                justifyContent: "flex-start",
-                alignItems: "center",
-              }}
+              style={styles.buttonContainer}
               key={topic.title}
               onPress={() => shuffleQuestions(topic)}
             >
@@ -93,21 +65,16 @@ const Question = () => {
             </TouchableOpacity>
           ))}
           <Hr />
-          <Text
-            style={{ fontSize: 20, fontFamily: fontFamily.mainFontFamilyBold }}
-          >
-            Testy
-          </Text>
+          <Text style={styles.title}>Testy</Text>
           {allQuestions.map((category) => (
             <TouchableOpacity
-              style={{
-                flexDirection: "row",
-                justifyContent: "flex-start",
-                alignItems: "center",
-              }}
+              style={styles.buttonContainer}
               key={category}
               onPress={() =>
-                navigateToCard(getRandomQuestionsByCategory(category))
+                navigateToCard(
+                  getRandomQuestionsByCategory(category),
+                  navigation,
+                )
               }
             >
               <Link label={category} />

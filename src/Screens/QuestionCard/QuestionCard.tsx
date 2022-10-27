@@ -5,6 +5,7 @@ import Answer from "../../Components/Answer";
 import Button from "../../Components/Button";
 import { QuestionData } from "../../types";
 import styles from "./QuestionCard.style";
+import { ShowResults } from "./QuestionCardTypes";
 import useQuestionCardSetting, {
   chooseContent,
 } from "./useQuestionCardSetting";
@@ -24,15 +25,7 @@ const QuestionCard = ({ route }): React.ReactElement => {
     showResult,
   }: {
     upperTitle: string;
-    showResult: ({
-      title,
-      answers,
-      topic,
-    }: {
-      title: string;
-      answers: Array<string>;
-      topic: QuestionData;
-    }) => void;
+    showResult: ({ title, answers, topic }: ShowResults) => void;
   } = useQuestionCardSetting({
     questionData,
     topic,
@@ -57,6 +50,22 @@ const QuestionCard = ({ route }): React.ReactElement => {
       questionId: index,
       correct: isAnswerCorrect,
     });
+  };
+
+  const onPressedButton = () => {
+    checkCorrect();
+    if (parseInt(topic.numberOfQuestions) === index + 1) {
+      showResult({
+        title: topic.title,
+        topic: topic,
+        answers: array,
+      });
+      array = [];
+      return;
+    }
+    setIndex(index + 1);
+    setShowAnswer(false);
+    setChecked(false);
   };
 
   return (
@@ -89,21 +98,7 @@ const QuestionCard = ({ route }): React.ReactElement => {
             label={showAnswer ? "další" : "Ověřit"}
             onPress={
               showAnswer || topic.test
-                ? () => {
-                    checkCorrect();
-                    if (parseInt(topic.numberOfQuestions) === index + 1) {
-                      showResult({
-                        title: topic.title,
-                        topic: topic,
-                        answers: array,
-                      });
-                      array = [];
-                      return;
-                    }
-                    setIndex(index + 1);
-                    setShowAnswer(false);
-                    setChecked(false);
-                  }
+                ? onPressedButton
                 : () => setShowAnswer(true)
             }
           />

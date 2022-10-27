@@ -5,80 +5,53 @@ import { data, QuestionData } from "../../types";
 import QuestionModal from "./components/QuestionModal";
 import { VictoryPie } from "victory-native";
 import Hr from "../../Components/Hr";
+import styles, { chartStyles } from "./Result.style";
+import {
+  getBaackgroundColor,
+  getColor,
+  getNumberOfCorrectAnswer,
+} from "./ResultLogic";
+import { ModalData, ResultProps } from "./Result.types";
 
 const Result = ({ route }) => {
-  const {
-    title,
-    results,
-    topic,
-  }: { title: string; results: any; topic: QuestionData } = route.params;
+  const { title, results, topic }: ResultProps = route.params;
 
   const [isModalShow, setModalShow] = useState(false);
-  const [modalData, setModalData] = useState<{
-    data: data;
-    index: number;
-    choosenAnswer: number;
-  } | null>(null);
+  const [modalData, setModalData] = useState<ModalData>(null);
 
-  let correctAnswers = 0;
-  results.map((item) => {
-    if (item.correct) correctAnswers++;
-  });
+  const correctAnswers = getNumberOfCorrectAnswer(results);
 
   const percent = correctAnswers / 25;
-  console.log(modalData);
+
+  const chartData = [
+    { y: correctAnswers, x: `${Math.floor(percent * 100)}%` },
+    { y: 25 - correctAnswers, x: `${Math.floor((1 - percent) * 100)}%` },
+  ];
 
   return (
-    <View style={{ width: "100%", height: "100%", alignItems: "center" }}>
-      <Text style={{ fontSize: 20, fontFamily: fontFamily.mainFontFamilyBold }}>
-        {title}
-      </Text>
-      <Text style={{ fontSize: 20, fontFamily: fontFamily.mainFontFamilyBold }}>
+    <View style={styles.container}>
+      <Text style={styles.title}>{title}</Text>
+      <Text style={styles.title}>
         Správně: {correctAnswers} z {topic.numberOfQuestions}
       </Text>
 
       <VictoryPie
-        data={[
-          { y: correctAnswers, x: `${Math.floor(percent * 100)}%` },
-          { y: 25 - correctAnswers, x: `${Math.floor((1 - percent) * 100)}%` },
-        ]}
+        data={chartData}
         width={250}
         height={250}
         innerRadius={50}
-        style={{
-          labels: {
-            fill: "black",
-            fontSize: 15,
-            fontFamily: fontFamily.mainFontFamilyRegular,
-          },
-        }}
+        style={chartStyles}
         colorScale={[colors.green, colors.red]}
       />
-      <Text
-        style={{
-          color: percent > 0.8 ? colors.green : colors.red,
-          position: "absolute",
-          top: 170,
-          fontFamily: fontFamily.mainFontFamilyBold,
-          fontSize: 18,
-        }}
-      >
+      <Text style={[styles.result, getColor(percent)]}>
         {percent > 0.8 ? "uspěl" : "neuspěl"}
       </Text>
       <Hr />
-      <View style={{ width: "100%", flexDirection: "row", flexWrap: "wrap" }}>
+      <View style={styles.questionsContainer}>
         {results.map((question, index) => (
           <TouchableOpacity
             key={index}
-            style={{
-              width: 50,
-              height: 50,
-              borderWidth: 1,
-              margin: 5,
-              justifyContent: "center",
-              alignItems: "center",
-              backgroundColor: question.correct ? colors.green : colors.red,
-            }}
+            style={[styles.questionBox, getBaackgroundColor(question)]}
             onPress={() => {
               setModalData({
                 data: topic.data[index],

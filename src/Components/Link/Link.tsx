@@ -1,29 +1,17 @@
+import React from "react";
 import { Dimensions, Text, View } from "react-native";
 import { colors, fontFamily } from "../../Themes/utils";
+import styles from "./Link.style";
 
-const Link = ({ label }: { label: string }) => {
+interface LinkProps {
+  label: string;
+}
+
+const Link = ({ label }: LinkProps): React.ReactElement => {
   return (
     <>
-      <View
-        style={{
-          justifyContent: "center",
-          alignItems: "center",
-          borderRadius: 10,
-          paddingVertical: 20,
-          backgroundColor: colors.blue,
-          width: "90%",
-          marginVertical: 10,
-        }}
-      >
-        <Text
-          style={{
-            fontFamily: fontFamily.mainFontFamilyBold,
-            fontSize: 15,
-            textAlign: "center",
-          }}
-        >
-          {label}
-        </Text>
+      <View style={styles.container}>
+        <Text style={styles.label}>{label}</Text>
       </View>
     </>
   );
