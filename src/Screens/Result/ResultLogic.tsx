@@ -9,7 +9,7 @@ export const getBaackgroundColor = (question: { correct: boolean } | null) =>
     backgroundColor: question.correct ? colors.green : colors.red,
   };
 
-export const getNumberOfCorrectAnswer = (result) => {
+export const getNumberOfCorrectAnswer = (results) => {
   let correctAnswers = 0;
   results.map((item) => {
     if (item.correct) correctAnswers++;

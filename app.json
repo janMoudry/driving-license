@@ -23,7 +23,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "driving_license"
+      "package": "driving.license"
     },
     "web": {
       "favicon": "./assets/favicon.png"

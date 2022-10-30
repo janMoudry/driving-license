@@ -1,7 +1,6 @@
 import React, { useState } from "react";
-import { Dimensions, Modal, Text, TouchableOpacity, View } from "react-native";
-import { colors, fontFamily } from "../../Themes/utils";
-import { data, QuestionData } from "../../types";
+import { Text, TouchableOpacity, View } from "react-native";
+import { colors } from "../../Themes/utils";
 import QuestionModal from "./components/QuestionModal";
 import { VictoryPie } from "victory-native";
 import Hr from "../../Components/Hr";
