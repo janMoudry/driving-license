@@ -8,8 +8,8 @@ import {
   TouchableOpacity,
   View,
 } from "react-native";
+import Icon from "react-native-vector-icons/AntDesign";
 import Hr from "../../Components/Hr";
-import Link from "../../Components/Link";
 import {
   getAllCategory,
   getAllTopics,
@@ -39,6 +39,25 @@ const Question = () => {
     <QuestionsTheme>
       <ScrollView style={styles.container}>
         <View style={styles.innerContainer}>
+          <Text style={styles.title}>Testy</Text>
+          <View style={styles.tasksContainer}>
+            {allQuestions.map((category) => (
+              <TouchableOpacity
+                style={styles.buttonContainer}
+                key={category}
+                onPress={() =>
+                  navigateToCard(
+                    getRandomQuestionsByCategory(category),
+                    navigation,
+                  )
+                }
+              >
+                {/* <Link label={category} /> */}
+                <Text style={styles.label}>{category}</Text>
+              </TouchableOpacity>
+            ))}
+          </View>
+          <Hr />
           <Text style={styles.title}>Procvičování</Text>
           <View style={styles.shuffleContainer}>
             <Text style={{ fontFamily: fontFamily.mainFontFamilyBold }}>
@@ -55,31 +74,18 @@ const Question = () => {
               trackColor={{ true: colors.blue }}
             />
           </View>
-          {topics.map((topic) => (
-            <TouchableOpacity
-              style={styles.buttonContainer}
-              key={topic.title}
-              onPress={() => shuffleQuestions(topic)}
-            >
-              <Link label={topic.title} />
-            </TouchableOpacity>
-          ))}
-          <Hr />
-          <Text style={styles.title}>Testy</Text>
-          {allQuestions.map((category) => (
-            <TouchableOpacity
-              style={styles.buttonContainer}
-              key={category}
-              onPress={() =>
-                navigateToCard(
-                  getRandomQuestionsByCategory(category),
-                  navigation,
-                )
-              }
-            >
-              <Link label={category} />
-            </TouchableOpacity>
-          ))}
+          <View>
+            {topics.map((topic) => (
+              <TouchableOpacity
+                style={styles.buttonContainer2}
+                key={topic.title}
+                onPress={() => shuffleQuestions(topic)}
+              >
+                <Icon name="right" size={20} />
+                <Text style={styles.label2}>{topic.title}</Text>
+              </TouchableOpacity>
+            ))}
+          </View>
         </View>
       </ScrollView>
     </QuestionsTheme>

@@ -8,8 +8,6 @@ const styles = StyleSheet.create({
     borderRadius: 10,
     paddingVertical: 20,
     backgroundColor: colors.blue,
-    width: "90%",
-    marginVertical: 10,
   },
   label: {
     fontFamily: fontFamily.mainFontFamilyBold,

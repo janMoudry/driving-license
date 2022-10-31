@@ -7,7 +7,8 @@
     "android-release": "npx react-native run-android --variant=release",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "android-build": "eas build:configure && eas build --platform android"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
