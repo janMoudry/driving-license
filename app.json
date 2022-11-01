@@ -23,6 +23,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
+      "blockedPermissions": ["android.permission.RECORD_AUDIO"],
       "package": "driving.license"
     },
     "web": {
